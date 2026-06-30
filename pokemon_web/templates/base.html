@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Pokemon Champions 조회{% endblock %}</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="logo" href="/">Pokemon Champions DB</a>
+    <nav>
+      <a href="/pokemon">포켓몬</a>
+      <a href="/moves">기술</a>
+      <a href="/abilities">특성</a>
+      <a href="/items">지닌물건</a>
+      <a href="/types">타입 상성</a>
+    </nav>
+  </header>
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+  <footer class="foot">데이터 출처: gamewith.ai/pokemon-champions (ko) · 로컬 DuckDB 조회</footer>
+</body>
+</html>

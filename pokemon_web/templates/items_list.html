@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}지닌물건 목록{% endblock %}
+{% block content %}
+<h1>지닌물건 ({{ rows|length }})</h1>
+<form class="filters" method="get" action="/items">
+  <input type="text" name="q" value="{{ q }}" placeholder="이름 검색">
+  <button type="submit">검색</button>
+</form>
+<table class="grid">
+  <thead><tr><th>이름</th><th>효과</th><th>입수방법</th></tr></thead>
+  <tbody>
+    {% for r in rows %}
+    <tr>
+      <td class="bold">{{ r['이름'] }}</td>
+      <td class="eff-txt">{{ r['효과'] }}</td>
+      <td>{{ r['입수방법'] }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

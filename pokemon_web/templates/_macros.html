@@ -1,0 +1,34 @@
+{% set TYPE_COLORS = {
+  "노말":"#A8A77A","불꽃":"#EE8130","물":"#6390F0","풀":"#7AC74C","전기":"#F7D02C",
+  "얼음":"#96D9D6","격투":"#C22E28","독":"#A33EA1","땅":"#E2BF65","비행":"#A98FF3",
+  "에스퍼":"#F95587","벌레":"#A6B91A","바위":"#B6A136","고스트":"#735797","드래곤":"#6F35FC",
+  "악":"#705746","강철":"#B7B7CE","페어리":"#D685AD"} %}
+
+{% macro tbadge(t) %}
+{%- if t and t != '' -%}
+<span class="type-badge" style="background:{{ TYPE_COLORS.get(t, '#888') }}">{{ t }}</span>
+{%- endif -%}
+{% endmacro %}
+
+{% macro tpair(t1, t2) %}{{ tbadge(t1) }}{{ tbadge(t2) }}{% endmacro %}
+
+{% macro mult(v) %}
+{%- if v == 0 -%}<span class="mult m0">x0</span>
+{%- elif v < 1 -%}<span class="mult mlow">x{{ '%g' % v }}</span>
+{%- elif v > 1 -%}<span class="mult mhigh">x{{ '%g' % v }}</span>
+{%- else -%}<span class="mult">x1</span>{%- endif -%}
+{% endmacro %}
+
+{% macro andor(name, mode) %}
+<label class="andor" title="AND: 모두 만족 / OR: 하나 이상">
+  <input type="checkbox" name="{{ name }}" value="or" {{ 'checked' if mode == 'or' }}>
+  <span class="track"><span class="opt and">AND</span><span class="opt or">OR</span><span class="knob"></span></span>
+</label>
+{% endmacro %}
+
+{% macro toggle(name, on_value, left_label, right_label, checked) %}
+<label class="andor">
+  <input type="checkbox" name="{{ name }}" value="{{ on_value }}" {{ 'checked' if checked }}>
+  <span class="track"><span class="opt and">{{ left_label }}</span><span class="opt or">{{ right_label }}</span><span class="knob"></span></span>
+</label>
+{% endmacro %}

@@ -1,0 +1,134 @@
+{% extends "base.html" %}
+{% from "_macros.html" import tpair, andor, toggle %}
+{% block title %}포켓몬 검색{% endblock %}
+{% block content %}
+<h1>포켓몬 검색 ({{ rows|length }})</h1>
+
+<form class="search" method="get" action="/pokemon">
+  <div class="frow">
+    <label>이름</label>
+    <input type="text" name="q" value="{{ q }}" placeholder="이름 일부">
+  </div>
+
+  <div class="frow">
+    <label>타입 (최대 2개)</label>
+    {{ andor('type_mode', type_mode) }}
+    <span class="fields">
+      <select name="t1">
+        <option value="">타입1</option>
+        {% for t in types %}<option value="{{ t }}" {{ 'selected' if t==t1 }}>{{ t }}</option>{% endfor %}
+      </select>
+      <select name="t2">
+        <option value="">타입2</option>
+        {% for t in types %}<option value="{{ t }}" {{ 'selected' if t==t2 }}>{{ t }}</option>{% endfor %}
+      </select>
+    </span>
+  </div>
+
+  <div class="frow">
+    <label>특성</label>
+    <input list="abilitylist" name="ability" value="{{ ability }}" placeholder="특성명">
+    <datalist id="abilitylist">
+      {% for a in abilities %}<option value="{{ a }}">{% endfor %}
+    </datalist>
+  </div>
+
+  <div class="frow">
+    <label>내성 타입</label>
+    {{ andor('resist_mode', resist_mode) }}
+    <span class="fields">
+      <span id="resist-box">
+        {% set rlist = resists_sel if resists_sel else [''] %}
+        {% for rv in rlist %}
+        <span class="resist-row">
+          <select name="resist">
+            <option value="">선택</option>
+            {% for t in types %}<option value="{{ t }}" {{ 'selected' if t==rv }}>{{ t }}</option>{% endfor %}
+          </select>
+          <button type="button" class="x" onclick="this.parentNode.remove()">×</button>
+        </span>
+        {% endfor %}
+      </span>
+      <button type="button" class="add" onclick="addResist()">+ 추가</button>
+    </span>
+  </div>
+
+  <div class="frow">
+    <label>기술 (최대 4개)</label>
+    {{ andor('move_mode', move_mode) }}
+    <span class="fields">
+      {% for i in range(4) %}
+      <input class="mv" list="movelist" name="move" value="{{ moves_sel[i] if i < moves_sel|length else '' }}" placeholder="기술 {{ i+1 }}">
+      {% endfor %}
+    </span>
+    <datalist id="movelist">
+      {% for m in move_names %}<option value="{{ m }}">{% endfor %}
+    </datalist>
+  </div>
+
+  <div class="frow">
+    <label>메가 진화</label>
+    {{ toggle('include_mega', '0', '포함', '제외', not include_mega) }}
+  </div>
+
+  <div class="frow">
+    <label>정렬 (위에서부터 우선)</label>
+    <span class="fields">
+      {% for i in range(3) %}
+      <span class="sort-slot">
+        <select name="sort_col">
+          <option value="">정렬{{ i+1 }} 없음</option>
+          {% for c in sort_columns %}<option value="{{ c }}" {{ 'selected' if sorts_sel|length > i and sorts_sel[i][0]==c }}>{{ c }}</option>{% endfor %}
+        </select>
+        <select name="sort_dir">
+          <option value="asc" {{ 'selected' if sorts_sel|length > i and sorts_sel[i][1]=='asc' }}>순(오름)</option>
+          <option value="desc" {{ 'selected' if sorts_sel|length > i and sorts_sel[i][1]=='desc' }}>역순(내림)</option>
+        </select>
+      </span>
+      {% endfor %}
+    </span>
+  </div>
+
+  <div class="frow">
+    <button type="submit" class="primary">검색</button>
+    <a class="reset" href="/pokemon">초기화</a>
+  </div>
+</form>
+
+<template id="resist-tpl">
+  <span class="resist-row">
+    <select name="resist">
+      <option value="">선택</option>
+      {% for t in types %}<option value="{{ t }}">{{ t }}</option>{% endfor %}
+    </select>
+    <button type="button" class="x" onclick="this.parentNode.remove()">×</button>
+  </span>
+</template>
+<script>
+function addResist(){
+  var tpl = document.getElementById('resist-tpl');
+  document.getElementById('resist-box').appendChild(tpl.content.cloneNode(true));
+}
+</script>
+
+<table class="grid">
+  <thead><tr>
+    <th>이름</th><th>타입</th>
+    <th class="num">HP</th><th class="num">공격</th><th class="num">방어</th>
+    <th class="num">특공</th><th class="num">특방</th><th class="num">스피드</th>
+    <th class="num">합계</th><th class="num">싱글</th><th class="num">더블</th>
+  </tr></thead>
+  <tbody>
+    {% for r in rows %}
+    <tr>
+      <td><a href="/pokemon/{{ r['ID'] }}">{{ r['이름'] }}</a></td>
+      <td>{{ tpair(r['타입1'], r['타입2']) }}</td>
+      <td class="num">{{ r['HP'] }}</td><td class="num">{{ r['공격'] }}</td><td class="num">{{ r['방어'] }}</td>
+      <td class="num">{{ r['특공'] }}</td><td class="num">{{ r['특방'] }}</td><td class="num">{{ r['스피드'] }}</td>
+      <td class="num bold">{{ r['종족값합계'] }}</td>
+      <td class="num">{{ r['싱글순위'] }}</td><td class="num">{{ r['더블순위'] }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

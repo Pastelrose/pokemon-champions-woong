@@ -1,0 +1,750 @@
+﻿ID,기술명,타입,분류,위력,명중,PP,성질,대상,효과,상세URL
+116,10만마력,땅,물리,95,95,12,접촉,상대 1마리,통상적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/116
+1,10만볼트,전기,특수,90,100,16,,상대 1마리,10% 확률로 상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/1
+671,3연화살,격투,물리,90,100,12,,상대 1마리,50% 확률로 상대의 방어를 1단계 떨어뜨린다. 30% 확률로 상대를 풀죽게 한다. 급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/671
+117,DD래리어트,악,물리,85,100,12,접촉,상대 1마리,상대의 능력 변화를 무시하고 데미지를 준다.,https://gamewith.ai/pokemon-champions/ko/moves/117
+515,G의힘,풀,물리,90,100,12,,상대 1마리,상대의 방어를 1단계 떨어뜨린다. 중력 상태인 경우 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/515
+638,V제너레이트,불꽃,물리,180,95,5,접촉,상대 1마리,"자신의 스피드, 방어, 특수방어가 각각 1랭크씩 떨어진다.",https://gamewith.ai/pokemon-champions/ko/moves/638
+539,푸른불꽃,불꽃,특수,130,85,5,,상대 1마리,20% 확률로 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/539
+629,공간절단,드래곤,특수,100,95,5,,상대 1마리,급소에 맞기 쉽다. (급소 랭크 +1),https://gamewith.ai/pokemon-champions/ko/moves/629
+2,악의파동,악,특수,80,100,16,파동,상대 1마리,20% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/2
+316,하품,노말,변화,-,-,12,,상대 1마리,상대를 졸음 상태로 만든다. 상대에게 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/316
+613,악마의키스,노말,변화,-,75,10,,상대 1마리,상대를 1~3턴 동안 잠듦 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/613
+317,아침햇살,노말,변화,-,-,8,,자신,자신의 최대 HP의 1/2만큼 회복한다. 쾌청 상태인 경우 2/3만큼 회복한다. 다른 날씨인 경우 1/4만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/317
+125,받아던지기,격투,물리,70,-,10,접촉,상대 1마리,반드시 후공이 된다 (우선도 -1). 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/125
+126,구멍파기,땅,물리,80,100,12,접촉,상대 1마리,사용한 턴에 지중 상태가 되어 다음 턴에 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/126
+127,난동부리기,노말,물리,120,100,12,접촉,상대 랜덤 1마리,자신은 난동 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/127
+319,달콤한향기,노말,변화,-,100,20,,상대 전체,상대의 회피율을 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/319
+320,애교부리기,페어리,변화,-,100,20,,상대 1마리,상대의 공격을 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/320
+321,비바라기,물,변화,-,-,8,,필드 전체,5턴 동안 비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/321
+322,이상한빛,고스트,변화,-,100,12,,상대 1마리,상대를 혼란 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/322
+323,싸라기눈,얼음,변화,-,-,10,,필드 전체,5턴 동안 날씨를 싸라기눈으로 만든다. 턴 종료 시 얼음타입이 아닌 포켓몬 모두에게 최대 HP의 1/16 데미지를 준다.,https://gamewith.ai/pokemon-champions/ko/moves/323
+588,암흑강타,악,물리,75,100,5,접촉펀치,상대 1마리,반드시 급소에 맞는다.,https://gamewith.ai/pokemon-champions/ko/moves/588
+537,풀베기,노말,물리,50,95,30,접촉,상대 1마리,일반 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/537
+327,위액,독,변화,-,100,12,,상대 1마리,상대를 특성 없음 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/327
+130,분노,노말,물리,20,10,20,접촉,상대 1마리,"분노 상태가 되어, 데미지를 받을 때마다 자신의 공격이 1단계 오른다.",https://gamewith.ai/pokemon-champions/ko/moves/130
+328,분노가루,벌레,변화,-,-,20,가루,자신,상대의 기술을 모두 자신이 받는다. 상대를 선택하는 기술에만 효과가 있다.,https://gamewith.ai/pokemon-champions/ko/moves/328
+131,분노의앞니,노말,물리,-,90,12,접촉,상대 1마리,상대의 남은 HP의 절반만큼 데미지를 준다. 1만 남은 경우 1데미지를 준다.,https://gamewith.ai/pokemon-champions/ko/moves/131
+646,이차원홀,에스퍼,특수,80,-,5,,상대 1마리,대타출동 상태를 관통한다. 상대의 「방어」나 「가로채기」 등을 해제한다. 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/646
+651,이차원러시,악,물리,100,-,5,,상대 1마리,대타출동 상태를 관통한다. 상대의 '방어'나 '판별' 등을 해제한다. 공격한 뒤 자신의 방어가 1단계 떨어진다. 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/651
+329,아픔나누기,노말,변화,-,-,20,,상대 1마리,자신과 상대의 남은 HP를 더한 다음 1/2씩 나눠 갖는다.,https://gamewith.ai/pokemon-champions/ko/moves/329
+330,트집,악,변화,-,100,16,,상대 1마리,상대를 연속 불가 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/330
+695,한판내기,드래곤,물리,80,100,10,,상대 1마리,"입 안에 있는 시라단탄의 모습에 따라 능력이 1단계 올라간다('솟음'은 공격, '늘어짐'은 방어, '뻗음'은 스피드).",https://gamewith.ai/pokemon-champions/ko/moves/695
+607,얼어붙는시선,에스퍼,특수,90,100,10,,상대 1마리,10% 확률로 상대를 얼음 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/607
+331,실뿜기,벌레,변화,-,95,20,,상대 전체,상대의 스피드를 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/331
+645,옛노래,노말,특수,75,100,10,소리,상대 전체,10% 확률로 상대를 2~4턴 동안 잠듦 상태로 만든다. 상대의 대타출동 상태를 관통한다. 멜로엣타가 사용하면 폼체인지한다.,https://gamewith.ai/pokemon-champions/ko/moves/645
+5,목숨걸기,격투,특수,-,100,8,,상대 1마리,자신은 기절하게 되며 사용할 때 남은 HP만큼의 데미지를 준다.,https://gamewith.ai/pokemon-champions/ko/moves/5
+512,생명의물방울,물,변화,-,-,12,,아군 전체,자신과 같은 편의 HP를 각각 최대 HP의 1/4만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/512
+332,뽐내기,노말,변화,-,85,16,,상대 1마리,상대의 공격을 2단계 올리고 혼란 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/332
+6,코골기,노말,특수,50,100,16,소리,상대 1마리,자신이 잠듦 상태인 경우 사용할 수 있다. 30% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/6
+556,치료방울,노말,변화,-,-,8,소리,아군 전체,자신과 같은 편과 지닌 포켓몬 전원의 상태 이상을 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/556
+333,치유소원,에스퍼,변화,-,-,12,,자신,"자신은 기절하게 되지만 다음에 내보내는 포켓몬의 HP를 모두 회복하고 상태 이상을 회복한다. 다음에 나온 포켓몬이 회복되지 않는 경우, 효과는 기술을 사용한 위치에 남는다.",https://gamewith.ai/pokemon-champions/ko/moves/333
+334,치유파동,에스퍼,변화,-,-,12,파동,상대 1마리,상대의 HP를 최대 HP의 1/2만큼 회복시킨다.,https://gamewith.ai/pokemon-champions/ko/moves/334
+335,싫은소리,노말,변화,-,85,20,소리,상대 1마리,상대의 방어를 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/335
+132,돌떨구기,바위,물리,50,90,15,접촉,상대 1마리,통상적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/132
+133,바위깨기,격투,물리,40,100,15,접촉,상대 1마리,50% 확률로 상대의 방어를 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/133
+134,스톤샤워,바위,물리,75,90,12,,상대 전체,30% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/134
+8,바다회오리,물,특수,35,85,16,,상대 1마리,상대를 바인드 상태로 만든다. 수중 상태인 상대에게는 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/8
+336,거짓울음,악,변화,-,100,20,,상대 1마리,상대의 특수방어를 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/336
+337,노래하기,노말,변화,-,55,16,소리,상대 1마리,상대를 잠듦 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/337
+566,물거품아리아,물,특수,90,100,12,소리,전체,상대의 화상 상태를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/566
+136,떨어뜨리기,바위,물리,50,100,16,,상대 1마리,땅 위에 있지 않은 상대를 추락 상태로 만든다. 공중 상태인 상대에게도 맞는다.,https://gamewith.ai/pokemon-champions/ko/moves/136
+579,분풀이,악,물리,75,100,8,접촉,상대 1마리,사용한 턴 동안 자신의 능력이 떨어진 경우 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/579
+706,베껴그리기,노말,변화,-,100,10,,자신,자신과 우리 편의 특성을 상대와 같은 특성으로 변화시킨다.,https://gamewith.ai/pokemon-champions/ko/moves/706
+338,원한,고스트,변화,-,100,12,,상대 1마리,상대가 마지막으로 사용한 기술의 PP를 4 줄인다.,https://gamewith.ai/pokemon-champions/ko/moves/338
+669,천추지한,고스트,특수,75,100,12,,상대 1마리,상대의 공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/669
+505,가지찌르기,풀,물리,40,100,40,접촉,상대 1마리,일반 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/505
+340,연막,노말,변화,-,100,20,,상대 1마리,상대의 명중률을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/340
+341,순풍,비행,변화,-,-,16,바람,아군 필드,4턴 동안 같은 편 필드를 순풍 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/341
+648,축하,노말,변화,-,-,40,,자신,아무 일도 일어나지 않는다.,https://gamewith.ai/pokemon-champions/ko/moves/648
+685,정리정돈,노말,변화,-,-,12,,자신,"전체 필드의 끈적끈적네트, 스텔스록, 대타출동, 압정뿌리기, 독압정 상태를 해제한다. 자신의 공격, 스피드를 1단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/685
+343,추억의선물,악,변화,-,100,12,,상대 1마리,"자신은 기절하게 되지만 상대의 공격, 특수공격을 2단계 떨어뜨린다.",https://gamewith.ai/pokemon-champions/ko/moves/343
+344,당신먼저,노말,변화,-,-,16,,상대 1마리,상대의 행동 순서를 자신의 바로 다음으로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/344
+345,부르짖기,노말,변화,-,100,20,소리,상대 1마리,"상대의 공격, 특수공격을 1단계 떨어뜨린다.",https://gamewith.ai/pokemon-champions/ko/moves/345
+346,부추기기,악,변화,-,100,16,,상대 1마리,상대의 특수공격을 1단계 올리고 혼란 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/346
+524,다과회,노말,변화,-,-,12,,전체,필드의 전원은 각각 지니고 있는 나무열매를 먹는다.,https://gamewith.ai/pokemon-champions/ko/moves/524
+139,놀래키기,고스트,물리,30,100,15,접촉,상대 1마리,30% 확률로 상대를 풀죽게 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/139
+347,도깨비불,불꽃,변화,-,85,16,,상대 1마리,상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/347
+693,성묘,고스트,물리,50,100,12,,상대 1마리,지닌 포켓몬이 1마리 기절할 때마다 위력이 50 올라간다.,https://gamewith.ai/pokemon-champions/ko/moves/693
+348,원념,고스트,변화,-,-,5,,자신,상대의 기술로 기절하면 그 기술의 PP를 0으로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/348
+351,괴전파,전기,변화,-,100,16,,상대 1마리,상대의 특수공격을 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/351
+140,괴력,노말,물리,80,100,15,접촉,상대 1마리,통상적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/140
+142,화염바퀴,불꽃,물리,60,100,25,접촉,상대 1마리,"10% 확률로 상대를 화상 상태로 만든다. 자신이 얼음 상태일 때에도 쓸 수 있으며, 쓰면 얼음 상태가 낫는다.",https://gamewith.ai/pokemon-champions/ko/moves/142
+639,화염탄,불꽃,특수,100,100,5,,전체,30% 확률로 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/639
+734,화염의수호,불꽃,변화,-,-,10,,자신,반드시 선제공격할 수 있다(우선도 +4). 그 턴 동안 상대의 공격 기술을 받지 않는다. 연속으로 사용하면 성공률이 3분의 1→9분의 1…로 감소한다. 직접 공격을 한 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/734
+18,화염방사,불꽃,특수,90,100,16,,상대 1마리,10% 확률로 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/18
+506,화염볼,불꽃,물리,120,90,5,탄환,상대 1마리,"10% 확률로 상대를 화상 상태로 만든다. 자신이 얼음 상태일 때도 쓸 수 있으며, 사용하면 자신의 얼음 상태가 낫는다.",https://gamewith.ai/pokemon-champions/ko/moves/506
+692,발꿈치찍기,격투,물리,120,90,12,접촉,상대 1마리,30% 확률로 상대를 혼란 상태로 만든다. 빗나가거나 실패하면 자신의 최대 HP의 1/2만큼 데미지를 입는다.,https://gamewith.ai/pokemon-champions/ko/moves/692
+143,야습,고스트,물리,40,100,20,접촉,상대 1마리,반드시 선제공격할 수 있다. (우선도 +1),https://gamewith.ai/pokemon-champions/ko/moves/143
+544,그림자꿰매기,고스트,물리,90,100,12,,상대 1마리,상대를 교체 불가 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/544
+352,그림자분신,노말,변화,-,-,16,,자신,자신의 회피율을 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/352
+19,바람일으키기,비행,특수,40,100,35,바람,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/19
+144,원수갚기,노말,물리,70,100,5,접촉,상대 1마리,이전 턴에 같은 편이 쓰러져 있으면 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/144
+353,단단해지기,노말,변화,-,-,30,,자신,자신의 방어를 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/353
+354,사슬묶기,노말,변화,-,100,20,,상대 1마리,4턴 동안 상대를 기술봉인 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/354
+20,꽃가루경단,벌레,특수,90,100,16,탄환,상대 1마리,같은 편에게 사용하면 데미지를 주는 대신 최대 HP의 1/2만큼 같은 편의 HP를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/20
+145,깨물어부수기,악,물리,80,100,16,접촉물기,상대 1마리,20% 확률로 상대의 방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/145
+146,물기,악,물리,60,100,20,접촉물기,상대 1마리,30% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/146
+21,번개,전기,특수,110,70,12,,상대 1마리,30% 확률로 상대를 마비 상태로 만든다. 비 상태인 경우 상대에게 반드시 명중한다. 쾌청 상태인 경우 명중률이 50%가 된다. 공중 상태인 상대에게도 맞는다.,https://gamewith.ai/pokemon-champions/ko/moves/21
+675,번개폭풍,전기,특수,100,80,10,바람,상대 전체,20% 확률로 상대를 마비 상태로 만든다. 비가 올 때는 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/675
+147,번개엄니,전기,물리,65,95,16,접촉물기,상대 1마리,10% 확률로 상대를 마비 상태로 만든다. 10% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/147
+148,번개펀치,전기,물리,75,100,16,접촉펀치,상대 1마리,10% 확률로 상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/148
+150,객기,노말,물리,70,100,20,접촉,상대 1마리,"자신이 독, 맹독, 마비, 화상 상태일 때 위력이 2배가 된다. 화상 상태에 의한 물리 기술의 데미지가 반감되는 효과는 무시한다.",https://gamewith.ai/pokemon-champions/ko/moves/150
+355,껍질에숨기,물,변화,-,-,40,,자신,자신의 방어를 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/355
+356,껍질깨기,노말,변화,-,-,16,,자신,"자신의 방어, 특수방어를 1단계 떨어뜨리고 공격, 특수공격, 스피드를 2단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/356
+151,깨트리기,격투,물리,75,100,16,접촉,상대 1마리,"상대 필드의 빛의장막, 리플렉터, 오로라베일 상태를 해제하고 공격한다.",https://gamewith.ai/pokemon-champions/ko/moves/151
+149,죽기살기,노말,물리,-,100,8,접촉,상대 1마리,상대의 남은 HP에서 자신의 남은 HP를 뺀 수치만큼 데미지를 준다. 상대의 HP가 자신의 HP 이하면 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/149
+152,암석봉인,바위,물리,60,95,16,,상대 1마리,상대의 스피드를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/152
+153,암석포,바위,물리,150,90,8,탄환,상대 1마리,사용한 다음 턴에 자신은 반동 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/153
+658,암석액스,바위,물리,65,90,16,베기,상대 1마리,상대 필드를 스텔스록 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/658
+22,기합구슬,격투,특수,120,70,8,탄환,상대 1마리,10% 확률로 상대의 특수방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/22
+357,기충전,노말,변화,-,-,20,,자신,자신은 급소업 상태가 된다. (+2),https://gamewith.ai/pokemon-champions/ko/moves/357
+154,힘껏펀치,격투,물리,150,100,20,접촉펀치,상대 1마리,자신이 기술을 사용하는 턴에 상대로부터 먼저 기술로 데미지를 입으면 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/154
+157,기사회생,격투,물리,-,100,16,접촉,상대 1마리,자신의 남은 HP가 적을수록 위력이 올라간다. (위력은 20~200),https://gamewith.ai/pokemon-champions/ko/moves/157
+733,변덕레이저,드래곤,특수,80,100,8,,상대 1마리,30% 확률로 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/733
+158,흡혈,벌레,물리,80,100,12,접촉,상대 1마리,상대에게 준 데미지의 1/2만큼 자신의 HP를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/158
+701,대검돌격,드래곤,물리,120,100,5,접촉,상대 1마리,사용한 후부터 다음 행동까지 상대의 공격이 반드시 명중하고 데미지가 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/701
+652,거수참,강철,물리,100,100,5,접촉,상대 1마리,상대가 다이맥스 중이면 데미지가 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/652
+653,거수탄,강철,물리,100,100,5,접촉,상대 1마리,상대가 다이맥스 중이면 데미지가 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/653
+159,베어가르기,노말,물리,70,100,20,접촉베기,상대 1마리,급소에 맞기 쉽다. (급소 랭크 +1),https://gamewith.ai/pokemon-champions/ko/moves/159
+360,안개제거,비행,변화,-,-,16,,상대 1마리,"상대의 회피율을 1단계 떨어뜨린다. 리플렉터, 압정뿌리기, 신비의부적, 필드 등을 해제한다.",https://gamewith.ai/pokemon-champions/ko/moves/360
+362,금속음,강철,변화,-,85,20,소리,상대 1마리,상대의 특수방어를 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/362
+560,풀의맹세,풀,특수,80,100,10,,상대 1마리,"더블 배틀에서 기술 「불꽃의맹세」와 조합하여 사용하면 4턴 동안 불꽃타입 이외의 상대에게 데미지를 주고, 기술 「물의맹세」와 조합하면 4턴 동안 상대의 스피드가 떨어진다. 또한 위력이 150이 된다.",https://gamewith.ai/pokemon-champions/ko/moves/560
+24,풀묶기,풀,특수,-,100,20,접촉,상대 1마리,상대가 무거울수록 위력이 올라간다. (위력은 20~120),https://gamewith.ai/pokemon-champions/ko/moves/24
+655,개척하기,풀,물리,50,100,20,접촉,상대 1마리,자신의 스피드를 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/655
+363,간지르기,노말,변화,-,100,20,,상대 1마리,"상대의 공격, 방어를 1단계 떨어뜨린다.",https://gamewith.ai/pokemon-champions/ko/moves/363
+748,부리캐논,비행,물리,120,100,8,탄환,상대 1마리,"기술을 사용하기 전에 접촉 기술을 받으면, 그 상대를 화상 상태로 만든다.",https://gamewith.ai/pokemon-champions/ko/moves/748
+511,물고버티기,악,물리,80,100,10,접촉물기,상대 1마리,자신과 상대 중 어느 한쪽이 기절할 때까지 교체할 수 없게 된다. 자신이나 상대가 고스트 타입일 경우에는 추가 효과가 없다.,https://gamewith.ai/pokemon-champions/ko/moves/511
+365,흑안개,얼음,변화,-,-,20,,필드 전체,전체 필드의 능력 변화를 없앤다.,https://gamewith.ai/pokemon-champions/ko/moves/365
+366,검은눈빛,노말,변화,-,-,8,,상대 1마리,상대를 교체 불가 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/366
+165,안다리걸기,격투,물리,-,100,20,접촉,상대 1마리,상대가 무거울수록 위력이 올라간다. (위력은 20~120),https://gamewith.ai/pokemon-champions/ko/moves/165
+164,역린,드래곤,물리,120,100,12,접촉,상대 랜덤 1마리,자신은 난동 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/164
+28,원시의힘,바위,특수,60,100,8,,상대 1마리,"10% 확률로 자신의 공격, 방어, 특수공격, 특수방어, 스피드를 1단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/28
+166,공격지령,벌레,물리,90,100,15,,상대 1마리,급소에 맞기 쉽다. (급소 랭크 +1),https://gamewith.ai/pokemon-champions/ko/moves/166
+367,광합성,풀,변화,-,-,8,,자신,자신의 최대 HP의 1/2만큼 회복한다. 쾌청 상태인 경우 2/3만큼 회복한다. 다른 날씨인 경우 1/4만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/367
+368,고속이동,에스퍼,변화,-,-,20,,자신,자신의 스피드를 2단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/368
+167,고속스핀,노말,물리,50,100,20,접촉,상대 1마리,"자신의 바인드, 씨뿌리기 상태와 같은 편 필드의 압정뿌리기, 독압정, 끈적끈적네트, 스텔스록 상태를 해제한다. 자신의 스피드를 1단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/167
+29,얼음숨결,얼음,특수,60,90,12,,상대 1마리,반드시 급소에 맞는다.,https://gamewith.ai/pokemon-champions/ko/moves/29
+170,얼음뭉치,얼음,물리,40,100,20,,상대 1마리,반드시 선제공격할 수 있다. (우선도 +1),https://gamewith.ai/pokemon-champions/ko/moves/170
+169,얼음엄니,얼음,물리,65,95,16,접촉물기,상대 1마리,10% 확률로 상대를 얼음 상태로 만든다. 10% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/169
+674,찬바람폭풍,비행,특수,100,80,10,바람,상대 전체,30% 확률로 상대의 스피드를 1단계 떨어뜨린다. 비가 올 때는 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/674
+369,마음의눈,노말,변화,-,-,5,,자신,다음 턴의 자신의 기술이 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/369
+30,얼어붙은바람,얼음,특수,55,95,16,바람,상대 전체,상대의 스피드를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/30
+542,얼어붙은세계,얼음,특수,65,95,10,,상대 전체,상대의 스피드 랭크를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/542
+31,눈싸라기,얼음,특수,40,100,25,,상대 전체,10%의 확률로 상대를 얼음 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/31
+172,나뭇잎,풀,물리,40,100,40,,상대 1마리,일반 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/172
+372,날따름,노말,변화,-,-,20,,자신,상대의 기술을 모두 자신이 받는다. 상대를 선택하는 기술에만 효과가 있다.,https://gamewith.ai/pokemon-champions/ko/moves/372
+373,버티기,노말,변화,-,-,12,,자신,사용한 턴 동안 기절할 듯한 기술로 데미지를 입으면 HP를 1 남기고 버틴다. 연속해서 사용하면 성공률이 이전에 사용했을 때의 1/3이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/373
+174,구르기,바위,물리,30,90,20,접촉,상대 1마리,5턴 동안 연속으로 공격한다. 기술이 맞을 때마다 위력이 2배가 된다. 빗나가면 멈춘다. '웅크리기'를 사용했다면 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/174
+374,겁나는얼굴,노말,변화,-,100,12,,상대 1마리,상대의 스피드를 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/374
+633,근원의파동,물,특수,110,85,10,,상대 전체,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/633
+702,회생의기도,노말,변화,-,-,1,,자신,기절한 지닌 포켓몬을 최대 HP의 1/2 상태로 부활시킨다.,https://gamewith.ai/pokemon-champions/ko/moves/702
+378,지휘,에스퍼,변화,-,-,16,,상대 1마리,상대가 직전에 사용한 기술을 한 번 더 사용하게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/378
+379,최면술,에스퍼,변화,-,60,20,,상대 1마리,상대를 잠듦 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/379
+380,순서미루기,악,변화,-,100,16,,상대 1마리,상대의 행동 순서를 사용한 턴의 가장 마지막으로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/380
+640,심판의뭉치,노말,특수,100,100,10,,상대 1마리,지니게 한 플레이트에 따라 기술의 타입이 바뀐다.,https://gamewith.ai/pokemon-champions/ko/moves/640
+719,썰렁개그,얼음,변화,-,-,12,,필드 전체,5턴 동안 눈 상태로 만든다. 다른 지닌 포켓몬과 교체한다.,https://gamewith.ai/pokemon-champions/ko/moves/719
+35,소란피기,노말,특수,90,100,12,소리,상대 랜덤 1마리,자신은 소란피기 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/35
+703,소금절이,바위,물리,40,100,16,,상대 1마리,상대를 소금절이 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/703
+36,해수스파우팅,물,특수,150,100,8,,상대 전체,자신의 남은 HP가 적을수록 위력이 떨어진다. (위력은 1~150),https://gamewith.ai/pokemon-champions/ko/moves/36
+37,소금물,물,특수,65,100,10,,상대 1마리,상대의 HP가 절반 이하면 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/37
+635,자연의분노,페어리,특수,-,90,10,,상대 1마리,상대의 남은 HP를 절반으로 만든다. 남은 HP가 1인 상대는 쓰러뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/635
+383,자연의힘,노말,변화,-,-,20,,상대 1마리,"지형이 풀숲일 때는 「에너지볼」, 수상일 때는 「하이드로펌프」, 모래밭일 때는 「대지의힘」, 바위터와 동굴일 때는 「파워젬」, 화산일 때는 「분염」, 빙판일 때는 「냉동빔」, 미스트필드일 때는 「문포스」, 그래스필드일 때는 「에너지볼」, 일렉트릭필드일 때는 「10만볼트」, 사이코필드일 때는 「사이코키네시스」, 그 외에는 「트라이어택」이 된다.",https://gamewith.ai/pokemon-champions/ko/moves/383
+182,핥기,고스트,물리,30,100,30,접촉,상대 1마리,30% 확률로 상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/182
+578,질투의불꽃,불꽃,특수,70,100,8,,상대 전체,사용한 턴 동안 상대의 능력이 올라간 경우 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/578
+185,보복,악,물리,50,100,12,접촉,상대 1마리,상대보다 나중에 공격하면 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/185
+684,꼬리자르기,노말,변화,-,-,12,,자신,자신의 최대 HP의 1/2만큼 HP를 소비하여 대타를 내보낸다. 이후 다른 지닌 포켓몬과 교체한다. 대타는 자신을 대신해 기술을 받는다. 최대 HP의 1/4의 데미지를 입으면 사라진다.,https://gamewith.ai/pokemon-champions/ko/moves/684
+384,꼬리흔들기,노말,변화,-,100,30,,상대 전체,상대의 방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/384
+187,사념의박치기,에스퍼,물리,80,90,16,접촉,상대 1마리,20% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/187
+386,저리가루,풀,변화,-,75,20,가루,상대 1마리,"상대를 마비 상태로 만든다. 전기타입이나 풀타입, 가루가 통하지 않는 상대에게는 효과가 없다.",https://gamewith.ai/pokemon-champions/ko/moves/386
+189,조이기,노말,물리,15,85,20,접촉,상대 1마리,상대를 바인드 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/189
+665,승리의 춤,격투,변화,-,-,10,춤,자신,"자신의 공격, 방어, 스피드를 1단계씩 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/665
+390,흰안개,얼음,변화,-,-,30,,아군 전체,5턴 동안 자신과 같은 편의 포켓몬은 능력이 떨어지지 않게 된다. 교체해도 효과는 계속된다.,https://gamewith.ai/pokemon-champions/ko/moves/390
+39,진공파,격투,특수,40,100,20,,상대 1마리,반드시 선제공격할 수 있다.(우선도 +1),https://gamewith.ai/pokemon-champions/ko/moves/39
+195,신속,노말,물리,80,100,8,접촉,상대 1마리,반드시 선제공격할 수 있다. (우선도 +2),https://gamewith.ai/pokemon-champions/ko/moves/195
+660,신비의힘,에스퍼,특수,70,90,10,,상대 1마리,100% 확률로 자신의 특수공격을 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/660
+543,신비의칼,격투,특수,85,100,10,,상대 1마리,상대의 방어 능력치로 데미지를 계산한다.,https://gamewith.ai/pokemon-champions/ko/moves/543
+391,신비의부적,노말,변화,-,-,20,,아군 필드,5턴 동안 같은 편 필드를 신비의부적 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/391
+381,자기암시,노말,변화,-,-,12,,상대 1마리,상대의 능력 변화를 자신도 똑같이 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/381
+382,HP회복,노말,변화,-,-,8,,자신,자신의 최대 HP의 1/2만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/382
+178,지옥의바퀴,격투,물리,80,80,20,접촉,상대 1마리,상대에게 준 데미지의 1/4을 자신도 받는다.,https://gamewith.ai/pokemon-champions/ko/moves/178
+179,지옥찌르기,악,물리,80,100,16,접촉,상대 1마리,상대를 지옥찌르기 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/179
+181,지진,땅,물리,100,100,12,,전체,지중 상태인 상대에게는 위력이 2배가 된다. 그래스필드 상태일 때 위력이 1/2이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/181
+183,바둥바둥,노말,물리,-,100,16,접촉,상대 1마리,자신의 남은 HP가 적을수록 위력이 올라간다. (위력은 20~200),https://gamewith.ai/pokemon-champions/ko/moves/183
+184,분함의발구르기,땅,물리,75,100,12,접촉,상대 1마리,직전 턴에 자신이 행동하지 못했거나 기술이 빗나가거나 실패한 경우 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/184
+186,땅고르기,땅,물리,60,100,20,,전체,상대의 스피드를 1단계 떨어뜨린다. 그래스필드 상태일 때 위력이 1/2이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/186
+188,자폭,노말,물리,200,100,8,폭발,전체,사용하면 자신은 기절하게 된다.,https://gamewith.ai/pokemon-champions/ko/moves/188
+385,자기장조작,전기,변화,-,-,20,,아군 전체,"특성이 플러스, 마이너스인 자신과 같은 편의 방어, 특수방어를 1단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/385
+745,악독사슬,독,특수,100,100,5,,상대 1마리,50%의 확률로 상대를 맹독 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/745
+193,치근거리기,페어리,물리,90,90,12,접촉,상대 1마리,10% 확률로 상대의 공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/193
+387,충전,전기,변화,-,-,20,,자신,자신의 특수방어를 1단계 올린다. 전기위력업 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/387
+388,중력,에스퍼,변화,-,-,8,,필드 전체,5턴 동안 전체 필드를 중력 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/388
+389,정화,독,변화,-,-,20,,상대 1마리,"상대의 상태 이상을 치료하고, 자신의 HP도 최대 HP의 1/2 회복한다. 상대가 상태 이상이 아닐 때는 실패한다.",https://gamewith.ai/pokemon-champions/ko/moves/389
+194,땅가르기,땅,물리,-,30,8,,상대 1마리,상대를 기절시킨다. 명중률은 30%로 고정된다.,https://gamewith.ai/pokemon-champions/ko/moves/194
+40,신통력,에스퍼,특수,80,100,20,,상대 1마리,10% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/40
+735,질풍신뢰,전기,특수,70,100,5,,상대 1마리,반드시 선제공격할 수 있다(우선도 +1). 상대가 사용하려는 기술이 공격 기술이 아니면 실패한다. 상대에게 선제공격을 당했을 때도 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/735
+41,흡수,풀,특수,20,100,25,,상대 1마리,상대에게 입힌 데미지의 절반에 해당하는 HP를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/41
+589,수류연타,물,물리,25,100,5,접촉펀치,상대 1마리,1턴에 3번 연속으로 공격하며 반드시 급소에 맞는다.,https://gamewith.ai/pokemon-champions/ko/moves/589
+198,이판사판태클,노말,물리,120,100,16,접촉,상대 1마리,준 데미지의 1/3만큼 자신도 데미지를 입는다.,https://gamewith.ai/pokemon-champions/ko/moves/198
+394,막말내뱉기,악,변화,-,100,20,소리,상대 1마리,"상대의 공격, 특수공격을 1단계 떨어뜨리고 자신은 다른 지닌 포켓몬과 교체한다.",https://gamewith.ai/pokemon-champions/ko/moves/394
+603,모래모으기,땅,변화,-,-,5,,자신,최대 HP의 절반을 회복한다. 날씨가 모래바람일 때는 최대 HP의 2/3 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/603
+396,모래바람,바위,변화,-,-,8,바람,필드 전체,5턴 동안 모래바람 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/396
+397,모래뿌리기,땅,변화,-,100,15,,상대 1마리,상대의 명중률을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/397
+200,모래지옥,땅,물리,35,85,16,,상대 1마리,상대를 바인드 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/200
+399,바꿔치기,악,변화,-,100,12,,상대 1마리,상대와 자신의 지니고 있는 도구를 바꾼다.,https://gamewith.ai/pokemon-champions/ko/moves/399
+197,박치기,노말,물리,70,100,15,접촉,상대 1마리,30% 확률로 상대를 풀죽게 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/197
+400,성장,노말,변화,-,-,20,,자신,"자신의 공격, 특수공격을 1단계 올린다. 쾌청 상태인 경우 2단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/400
+203,성스러운칼,격투,물리,90,100,16,접촉베기,상대 1마리,상대의 능력 변화를 무시하고 데미지를 준다.,https://gamewith.ai/pokemon-champions/ko/moves/203
+614,성스러운불꽃,불꽃,물리,100,95,5,,상대 1마리,"50% 확률로 상대를 화상 상태로 만든다. 자신이 얼음 상태일 때도 사용할 수 있으며, 사용하면 얼음 상태가 낫는다.",https://gamewith.ai/pokemon-champions/ko/moves/614
+45,절대영도,얼음,특수,-,30,8,,상대 1마리,상대를 기절시킨다. 명중률은 30%로 고정된다. 얼음타입인 상대에게는 맞지 않는다. 얼음타입 이외의 포켓몬이 사용하면 명중률이 20%가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/45
+401,송전,전기,변화,-,-,20,,상대 1마리,상대가 기술을 사용하기 전에 이 기술이 명중하면 그 턴 동안 상대의 기술은 전기타입이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/401
+205,공중날기,비행,물리,90,95,16,접촉,상대 1마리,사용한 턴에 공중 상태가 되어 다음 턴에 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/205
+206,몸통박치기,노말,물리,40,100,35,접촉,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/206
+209,폭포오르기,물,물리,80,100,16,접촉,상대 1마리,20% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/209
+402,비축하기,노말,변화,-,-,20,,자신,"자신의 방어, 특수방어를 1단계 올린다. 비축하기 상태를 1회 추가한다. 비축하기 상태는 최대 3회까지 추가할 수 있다.",https://gamewith.ai/pokemon-champions/ko/moves/402
+527,문어굳히기,격투,변화,-,100,15,,상대 1마리,고스트 타입 이외에는 교체할 수 없게 된다. 상대는 그동안 매 턴 방어와 특수방어 랭크가 1랭크씩 떨어진다.,https://gamewith.ai/pokemon-champions/ko/moves/527
+211,힘껏치기,노말,물리,80,75,20,접촉,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/211
+50,병상첨병,고스트,특수,65,100,12,,상대 1마리,상대가 상태 이상인 경우 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/50
+51,회오리,드래곤,특수,40,100,20,바람,상대 전체,20%의 확률로 상대를 풀죽게 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/51
+670,농성,강철,변화,-,-,12,,자신,자신의 방어를 2단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/670
+47,대지의힘,땅,특수,90,100,12,,상대 1마리,10% 확률로 상대의 특수방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/47
+576,대지의파동,노말,특수,50,100,12,파동,상대 1마리,"자신이 필드의 효과를 받고 있는 경우, 위력이 2배가 된다. 필드의 종류에 따라 타입이 바뀐다.",https://gamewith.ai/pokemon-champions/ko/moves/576
+207,대폭발,노말,물리,250,100,8,폭발,전체,사용하면 자신은 기절하게 된다.,https://gamewith.ai/pokemon-champions/ko/moves/207
+661,대격분,불꽃,물리,120,100,12,,상대 랜덤 1마리,자신은 난동 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/661
+48,불대문자,불꽃,특수,110,85,8,,상대 1마리,10% 확률로 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/48
+49,탁류,물,특수,90,85,12,,상대 전체,30% 확률로 상대의 명중률을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/49
+632,단애의칼,땅,물리,120,85,10,,상대 전체,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/632
+403,작아지기,노말,변화,-,-,12,,자신,자신의 회피율을 2단계 올린다. 자신은 작아지기 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/403
+404,힘흡수,풀,변화,-,100,12,,상대 1마리,상대의 공격 수치만큼 자신의 HP를 회복한다. 상대의 공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/404
+217,지구던지기,격투,물리,-,100,20,접촉,상대 1마리,상대 HP에 50데미지를 준다.,https://gamewith.ai/pokemon-champions/ko/moves/217
+405,초음파,노말,변화,-,55,20,소리,상대 1마리,상대를 1~4턴 동안 혼란 상태로 만든다. 상대의 「대타출동」 상태를 관통한다.,https://gamewith.ai/pokemon-champions/ko/moves/405
+406,나비춤,벌레,변화,-,-,20,춤,자신,"자신의 특수공격, 특수방어, 스피드를 1단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/406
+407,도발,악,변화,-,100,20,,상대 1마리,상대를 도발 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/407
+218,쪼아대기,비행,물리,60,100,20,접촉,상대 1마리,상대가 나무열매를 지니고 있으면 그 나무열매를 대신 먹고 자신이 효과를 받는다.,https://gamewith.ai/pokemon-champions/ko/moves/218
+408,달빛,페어리,변화,-,-,8,,자신,자신의 최대 HP의 1/2만큼 회복한다. 쾌청 상태인 경우 2/3만큼 회복한다. 다른 날씨인 경우 1/4만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/408
+219,기어오르기,악,물리,20,100,12,접촉,상대 1마리,자신의 올라간 능력 변화 1단계당 이 기술의 위력이 20씩 올라간다.,https://gamewith.ai/pokemon-champions/ko/moves/219
+220,깜짝베기,악,물리,70,100,20,접촉베기,상대 1마리,급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/220
+222,손바닥치기,격투,물리,15,100,20,접촉,상대 1마리,1턴에 2~5회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/222
+221,쪼기,비행,물리,35,100,35,접촉,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/221
+223,뿔찌르기,노말,물리,65,100,25,접촉,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/223
+224,뿔드릴,노말,물리,-,30,8,접촉,상대 1마리,상대를 기절시킨다. 명중률은 30%로 고정된다.,https://gamewith.ai/pokemon-champions/ko/moves/224
+225,날개치기,비행,물리,60,100,35,접촉,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/225
+226,제비반환,비행,물리,60,-,20,접촉베기,상대 1마리,상대에게 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/226
+409,초롱초롱눈동자,페어리,변화,-,100,20,,상대 1마리,상대의 공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/409
+410,경혈찌르기,노말,변화,-,-,20,,아군,"자신 또는 같은 편의 공격, 방어, 특수공격, 특수방어, 스피드, 명중률, 회피율 중 하나를 2단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/410
+411,손톱갈기,악,변화,-,-,15,,자신,자신의 공격과 명중률이 1단계씩 올라간다.,https://gamewith.ai/pokemon-champions/ko/moves/411
+227,고드름떨구기,얼음,물리,85,90,12,,상대 1마리,30% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/227
+228,고드름침,얼음,물리,25,100,20,,상대 1마리,2~5회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/228
+412,칼춤,노말,변화,-,-,20,춤,자신,자신의 공격을 2단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/412
+536,덩굴채찍,풀,물리,45,100,25,접촉,상대 1마리,일반 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/536
+650,적당히손봐주기,노말,물리,40,100,40,접촉,상대 1마리,쓰러뜨릴 수 있는 공격이라도 반드시 상대의 HP를 1만큼 남긴다.,https://gamewith.ai/pokemon-champions/ko/moves/650
+413,도우미,노말,변화,-,-,20,,아군,사용한 턴 동안 같은 편의 기술 위력을 1.5배로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/413
+558,철제광선,강철,특수,140,95,8,,상대 1마리,공격한 다음 자신의 최대 HP의 1/2만큼 데미지를 입는다.,https://gamewith.ai/pokemon-champions/ko/moves/558
+414,철벽,강철,변화,-,-,16,,자신,자신의 방어를 2단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/414
+649,손에손잡기,노말,변화,-,-,40,,아군,아무 일도 일어나지 않는다.,https://gamewith.ai/pokemon-champions/ko/moves/649
+416,천사의키스,페어리,변화,-,75,12,,상대 1마리,상대를 혼란 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/416
+229,만나자마자,벌레,물리,100,100,12,접촉,상대 1마리,등장하고 가장 먼저 사용하지 않으면 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/229
+54,전기쇼크,전기,특수,40,100,30,,상대 1마리,10%의 확률로 상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/54
+529,전격부리,전기,물리,85,100,10,접촉,상대 1마리,상대보다 먼저 행동하면 기술의 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/529
+55,전격파,전기,특수,60,-,20,,상대 1마리,반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/55
+230,전광석화,노말,물리,40,100,20,접촉,상대 1마리,반드시 선제공격할 수 있다. (우선도 +1),https://gamewith.ai/pokemon-champions/ko/moves/230
+711,전광쌍격,전기,물리,120,100,5,접촉,상대 1마리,자신의 전기타입이 없어진다. 자신이 전기타입이 아닌 경우 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/711
+417,전기자석파,전기,변화,-,90,20,,상대 1마리,상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/417
+418,전자부유,전기,변화,-,-,12,,자신,자신은 전자부유 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/418
+56,전자포,전기,특수,120,50,8,탄환,상대 1마리,상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/56
+419,블록,노말,변화,-,-,8,,상대 1마리,상대를 교체 불가 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/419
+421,멀리짖기,노말,변화,-,-,20,소리,아군 전체,자신과 같은 편의 공격을 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/421
+630,시간의포효,드래곤,특수,150,90,5,,상대 1마리,사용한 다음 턴에는 행동할 수 없다.,https://gamewith.ai/pokemon-champions/ko/moves/630
+422,예민해지기,노말,변화,-,-,30,,상대 1마리,다음 턴 자신의 기술이 반드시 급소에 맞는다.,https://gamewith.ai/pokemon-champions/ko/moves/422
+427,똬리틀기,독,변화,-,-,20,,자신,"자신의 공격, 방어, 명중률을 1단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/427
+428,녹기,독,변화,-,-,20,,자신,자신의 방어를 2단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/428
+234,돌진,노말,물리,90,85,20,접촉,상대 1마리,상대에게 준 데미지의 1/4을 자신도 받는다.,https://gamewith.ai/pokemon-champions/ko/moves/234
+235,비장의무기,노말,물리,140,100,8,접촉,상대 1마리,다른 배운 기술을 모두 사용하지 않은 경우 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/235
+236,마지막일침,벌레,물리,50,100,20,접촉,상대 1마리,이 기술로 상대를 쓰러뜨리면 공격이 3단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/moves/236
+237,덤벼들기,벌레,물리,80,100,16,접촉,상대 1마리,상대의 공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/237
+654,달려들기,벌레,물리,50,100,20,접촉,상대 1마리,상대의 스피드를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/654
+238,뛰어오르기,비행,물리,85,85,8,접촉,상대 1마리,사용한 턴에 공중 상태가 되어 다음 턴에 공격한다. 30% 확률로 상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/238
+239,무릎차기,격투,물리,130,90,12,접촉,상대 1마리,빗나가거나 실패하면 자신의 최대 HP의 1/2만큼 데미지를 입는다.,https://gamewith.ai/pokemon-champions/ko/moves/239
+240,배대뒤치기,격투,물리,60,90,12,접촉,상대 1마리,상대에게 교체할 포켓몬이 있는 경우 랜덤한 포켓몬으로 교체시킨다.,https://gamewith.ai/pokemon-champions/ko/moves/240
+250,유턴,벌레,물리,70,100,20,접촉,상대 1마리,공격한 다음 다른 지닌 포켓몬과 교체한다.,https://gamewith.ai/pokemon-champions/ko/moves/250
+231,독찌르기,독,물리,80,100,20,접촉,상대 1마리,30% 확률로 상대를 독 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/231
+424,맹독,독,변화,-,90,12,,상대 1마리,상대를 맹독 상태로 만든다. 독타입 포켓몬이 사용하면 상대에게 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/424
+232,맹독엄니,독,물리,50,100,16,접촉물기,상대 1마리,50% 확률로 상대를 맹독 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/232
+730,독실,독,변화,-,100,20,,상대 1마리,상대의 스피드를 2단계 떨어뜨린다. 상대를 독 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/730
+425,독가루,독,변화,-,75,20,가루,상대 1마리,상대를 독 상태로 만든다. 풀타입이나 가루가 통하지 않는 상대에게는 효과가 없다.,https://gamewith.ai/pokemon-champions/ko/moves/425
+233,독침,독,물리,15,100,35,,상대 1마리,30%의 확률로 상대를 독 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/233
+667,독침천발,독,물리,60,100,12,,상대 1마리,"50% 확률로 상대를 독 상태로 만든다. 상대가 독, 맹독 상태인 경우 위력이 2배가 된다.",https://gamewith.ai/pokemon-champions/ko/moves/667
+426,독압정,독,변화,-,-,20,,상대 필드,상대 필드를 독압정 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/426
+423,독가스,독,변화,-,90,40,,상대 전체,상대를 독 상태로 만든다. 독/강철타입 상대에게는 효과가 없다.,https://gamewith.ai/pokemon-champions/ko/moves/423
+519,사죄의찌르기,악,물리,80,-,10,접촉,상대 1마리,반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/519
+60,진흙뿌리기,땅,특수,20,100,12,,상대 1마리,상대의 명중률을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/60
+249,도둑질,악,물리,60,100,20,접촉,상대 1마리,자신이 도구를 지니고 있지 않은 경우 상대의 도구를 빼앗는다.,https://gamewith.ai/pokemon-champions/ko/moves/249
+433,비밀이야기,노말,변화,-,-,20,소리,상대 1마리,상대의 특수공격을 1단계 떨어뜨린다. 반드시 명중한다. 상대의 '대타출동' 상태를 관통한다.,https://gamewith.ai/pokemon-champions/ko/moves/433
+434,동료만들기,노말,변화,-,100,16,,상대 1마리,상대의 특성을 자신과 같은 특성으로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/434
+435,친해지기,노말,변화,-,-,20,,상대 1마리,상대의 공격을 1단계 떨어뜨린다. 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/435
+436,울음소리,노말,변화,-,100,40,소리,상대 전체,상대의 공격을 1단계 떨어뜨린다. 상대의 '대타출동' 상태를 관통한다.,https://gamewith.ai/pokemon-champions/ko/moves/436
+251,내던지기,악,물리,-,100,12,,상대 1마리,지니고 있는 도구에 따라 위력과 효과가 바뀐다. 사용하면 도구는 사라진다.,https://gamewith.ai/pokemon-champions/ko/moves/251
+437,게으름피우기,노말,변화,-,-,8,,자신,자신의 최대 HP의 1/2만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/437
+438,눈물그렁그렁,노말,변화,-,-,20,,상대 1마리,"상대의 공격, 특수공격을 1단계 떨어뜨린다. 상대의 회피율, 기술 방어 등을 무시하고 맞힐 수 있다.",https://gamewith.ai/pokemon-champions/ko/moves/438
+62,파도타기,물,특수,90,100,16,,전체,수중 상태인 상대에게는 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/62
+439,고민씨,풀,변화,-,100,12,,상대 1마리,상대의 특성을 불면으로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/439
+440,역할,에스퍼,변화,-,-,12,,상대 1마리,자신의 특성을 상대와 같은 특성으로 바꾼다.,https://gamewith.ai/pokemon-champions/ko/moves/440
+627,묵사발,노말,물리,-,100,5,접촉,상대 1마리,상대의 남은 HP가 많을수록 위력이 높아진다. (위력 = 120 × 상대의 남은 HP ÷ 상대의 최대 HP)로 최고 위력은 120.,https://gamewith.ai/pokemon-champions/ko/moves/627
+252,두번차기,격투,물리,30,100,30,접촉,상대 1마리,1턴에 2회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/252
+442,쾌청,불꽃,변화,-,-,8,,필드 전체,5턴 동안 쾌청 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/442
+443,째려보기,노말,변화,-,100,30,,상대 전체,상대의 방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/443
+444,희망사항,노말,변화,-,-,12,,자신,자신이 위치한 자리를 희망사항 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/444
+254,속이기,노말,물리,40,100,12,접촉,상대 1마리,상대를 풀죽게 한다. 등장하고 가장 먼저 사용하지 않으면 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/254
+445,잠꼬대,노말,변화,-,-,12,,자신,자신이 잠듦 상태인 경우 사용할 수 있다. 자신이 배운 다른 기술 중에서 무작위로 기술을 사용한다.,https://gamewith.ai/pokemon-champions/ko/moves/445
+676,열사의 폭풍,땅,특수,100,80,10,바람,상대 전체,20% 확률로 상대를 화상 상태로 만든다. 비가 올 때는 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/676
+586,열사의대지,땅,특수,70,100,12,,상대 1마리,30% 확률로 상대를 화상 상태로 만든다. 상대의 얼음 상태를 회복한다. 사용하면 자신의 얼음 상태를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/586
+63,열탕,물,특수,80,100,16,,상대 1마리,30% 확률로 상대를 화상 상태로 만든다. 상대의 얼음 상태를 회복한다. 사용하면 자신의 얼음 상태를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/63
+64,열풍,불꽃,특수,95,90,12,바람,상대 전체,10% 확률로 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/64
+446,끈적끈적네트,벌레,변화,-,-,20,,상대 필드,상대 필드를 끈적끈적네트 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/446
+447,수면가루,풀,변화,-,75,16,가루,상대 1마리,상대를 잠듦 상태로 만든다. 풀타입이나 가루가 통하지 않는 상대에게는 효과가 없다.,https://gamewith.ai/pokemon-champions/ko/moves/447
+448,잠자기,에스퍼,변화,-,-,8,,자신,자신의 HP와 상태 이상을 모두 회복한다. 2턴 동안 잠듦 상태가 된다. HP가 꽉 찬 상태면 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/448
+508,노려맞히기,물,특수,80,100,15,,상대 1마리,급소에 맞기 쉽다(랭크 +1). 대상을 변경하는 효과의 영향을 받지 않고 공격할 수 있다.,https://gamewith.ai/pokemon-champions/ko/moves/508
+449,뿌리박기,풀,변화,-,-,20,,자신,자신은 뿌리박기 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/449
+65,염동력,에스퍼,특수,50,100,25,,상대 1마리,10%의 확률로 상대를 1~4턴 동안 혼란 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/65
+256,누르기,노말,물리,85,100,16,접촉,상대 1마리,30% 확률로 상대를 마비 상태로 만든다. 작아지기 상태인 상대에게는 위력이 2배가 되며 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/256
+450,꿀꺽,노말,변화,-,-,12,,자신,비축하기 상태의 수치가 높을수록 HP를 많이 회복한다. 1번이라면 최대 HP의 1/4만큼 회복한다. 2번이라면 최대 HP의 1/2만큼 회복한다. 3번이라면 모두 회복한다. 비축하기 상태가 아닌 경우 이 기술은 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/450
+451,저주,고스트,변화,-,-,12,,특수,"자신의 최대 HP의 1/2만큼 HP를 소비하여 상대를 저주 상태로 만든다. 고스트타입이 아닌 경우, 자신의 스피드를 1단계 떨어뜨리고 공격과 방어를 1단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/451
+526,배수의진,격투,변화,-,-,8,,자신,"자신의 공격, 방어, 특수공격, 특수방어, 스피드를 1단계 올린다. 자신은 교체 불가 상태가 된다. 등장할 때마다 단 한 번 사용할 수 있다. 두 번째 이후에는 실패한다.",https://gamewith.ai/pokemon-champions/ko/moves/526
+577,엄습하는일격,벌레,물리,70,90,12,접촉,상대 1마리,상대의 특수공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/577
+69,파괴광선,노말,특수,150,90,8,,상대 1마리,사용한 다음 턴에 자신은 반동 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/69
+258,강철날개,강철,물리,70,90,20,접촉,상대 1마리,10% 확률로 자신의 방어를 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/258
+70,토해내기,노말,특수,-,100,12,,상대 1마리,비축하기 상태의 수치가 높을수록 위력이 올라간다. (위력은 100~300) 비축하기 상태가 아닌 경우 이 기술은 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/70
+261,찝기,노말,물리,55,100,30,접촉,상대 1마리,일반 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/261
+262,탁쳐서떨구기,악,물리,65,100,20,접촉,상대 1마리,상대가 도구를 지니고 있으면 위력이 1.5배가 된다. 상대의 도구를 없앤다.,https://gamewith.ai/pokemon-champions/ko/moves/262
+263,막치기,노말,물리,40,100,20,접촉,상대 1마리,일반 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/263
+264,발경,격투,물리,60,100,10,접촉,상대 1마리,30% 확률로 상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/264
+265,잎날가르기,풀,물리,55,95,25,베기,상대 전체,급소에 맞기 쉽다. (급소 랭크 +1),https://gamewith.ai/pokemon-champions/ko/moves/265
+72,파동탄,격투,특수,80,-,20,탄환파동,상대 1마리,상대에게 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/72
+73,꽃잎댄스,풀,특수,120,100,12,접촉춤,상대 랜덤 1마리,자신은 난동 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/73
+266,꽃보라,풀,물리,90,100,16,바람,전체,일반 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/266
+453,날개쉬기,비행,변화,-,-,8,,자신,자신의 최대 HP의 1/2만큼 회복한다. 비행타입이 사용하면 그 턴 동안 비행타입이 아니게 된다.,https://gamewith.ai/pokemon-champions/ko/moves/453
+454,튀어오르기,노말,변화,-,-,40,,자신,아무 일도 일어나지 않는다.,https://gamewith.ai/pokemon-champions/ko/moves/454
+557,파멸의소원,강철,특수,140,100,5,,상대 1마리,2턴 후의 종료 시에 데미지를 준다.,https://gamewith.ai/pokemon-champions/ko/moves/557
+749,파멸의빛,페어리,특수,140,90,8,,상대 1마리,준 데미지의 1/2만큼 자신도 데미지를 입는다.,https://gamewith.ai/pokemon-champions/ko/moves/749
+744,기선제압,격투,물리,65,100,16,접촉,상대 1마리,상대가 선제 기술을 사용하지 않은 경우 실패한다. 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/744
+455,배북,노말,변화,-,-,12,,자신,자신의 최대 HP의 1/2만큼 HP를 소비하여 공격을 6단계까지 올린다. 남은 HP가 부족한 경우 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/455
+659,봄의폭풍,페어리,특수,100,80,5,바람,상대 전체,30% 확률로 상대의 공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/659
+257,엄청난힘,격투,물리,120,100,8,접촉,상대 1마리,"자신의 공격, 방어를 1단계 떨어뜨린다.",https://gamewith.ai/pokemon-champions/ko/moves/257
+71,폭음파,노말,특수,140,100,12,소리,전체,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/71
+259,폭발펀치,격투,물리,100,50,8,접촉펀치,상대 1마리,상대를 혼란 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/259
+460,빛의장막,에스퍼,변화,-,-,20,,아군 전체,5턴 동안 같은 편 필드를 빛의장막 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/460
+673,비검천중파,악,물리,65,90,16,접촉베기,상대 1마리,상대 필드를 압정뿌리기 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/673
+270,할퀴기,노말,물리,40,100,35,접촉,상대 1마리,일반 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/270
+461,뒤집어엎기,악,변화,-,-,20,,상대 1마리,상대의 능력 변화를 모두 반대로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/461
+77,불꽃세례,불꽃,특수,40,100,25,,상대 1마리,10% 확률로 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/77
+672,백귀야행,고스트,특수,65,100,16,,상대 1마리,30% 확률로 상대를 화상 상태로 만든다. 상대가 상태 이상인 경우 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/672
+656,찬물끼얹기,물,특수,50,100,20,,상대 1마리,상대의 공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/656
+664,빙산바람,얼음,물리,120,85,12,,상대 1마리,30% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/664
+271,찌리리따끔따끔,전기,물리,80,100,10,접촉,상대 1마리,30% 확률로 상대를 풀죽게 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/271
+272,기습,악,물리,70,100,8,접촉,상대 1마리,상대가 공격 기술을 선택하였고 이 기술을 사용한 턴 동안 이미 공격하였다면 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/272
+464,봉인,에스퍼,변화,-,-,12,,상대 1마리,자신은 봉인 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/464
+466,날려버리기,노말,변화,-,-,20,바람,상대 1마리,상대에게 교체할 포켓몬이 있는 경우 랜덤한 포켓몬으로 교체시킨다.,https://gamewith.ai/pokemon-champions/ko/moves/466
+274,집단구타,악,물리,-,100,12,,상대 1마리,지닌 포켓몬의 수만큼 상대를 공격한다. 기절했거나 상태 이상에 걸린 포켓몬은 포함하지 않는다. 기술의 위력은 지닌 포켓몬의 공격으로 계산된다.,https://gamewith.ai/pokemon-champions/ko/moves/274
+581,부식가스,독,변화,-,100,20,,전체,자신을 제외한 필드의 전원이 지니고 있는 도구를 없앤다.,https://gamewith.ai/pokemon-champions/ko/moves/581
+78,눈보라,얼음,특수,110,70,8,바람,상대 전체,10% 확률로 상대를 얼음 상태로 만든다. 눈 상태인 경우 상대에게 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/78
+275,짓밟기,노말,물리,65,100,20,접촉,상대 1마리,30% 확률로 상대를 풀죽게 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/275
+469,분발,노말,변화,-,-,30,,자신,자신의 공격과 특수공격을 1랭크씩 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/469
+80,분연,불꽃,특수,80,100,16,,전체,30% 확률로 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/80
+81,분화,불꽃,특수,150,100,8,,상대 전체,자신의 남은 HP가 적을수록 위력이 떨어진다. (위력은 1~150),https://gamewith.ai/pokemon-champions/ko/moves/81
+710,분노의주먹,고스트,물리,50,100,12,접촉펀치,상대 1마리,기술로 데미지를 입을 때마다 위력이 50 올라간다. (최대 위력은 350) 지닌 포켓몬으로 돌아오면 위력이 원래대로 돌아온다.,https://gamewith.ai/pokemon-champions/ko/moves/710
+608,섬뜩한주문,에스퍼,특수,80,100,8,소리,상대 1마리,상대가 마지막으로 사용한 기술의 PP를 3 줄인다.,https://gamewith.ai/pokemon-champions/ko/moves/608
+666,들이받기,땅,물리,120,100,8,접촉펀치,상대 1마리,"자신의 방어, 특수방어를 1단계 떨어뜨린다.",https://gamewith.ai/pokemon-champions/ko/moves/666
+282,세차게휘두르기,악,물리,60,100,20,접촉,전체,일반 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/282
+471,뱀눈초리,노말,변화,-,100,20,,상대 1마리,상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/471
+472,변신,노말,변화,-,-,12,,상대 1마리,상대와 같은 포켓몬으로 변신한다. HP 이외의 스테이터스도 똑같아진다.,https://gamewith.ai/pokemon-champions/ko/moves/472
+86,방전,전기,특수,80,100,16,,전체,30% 확률로 상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/86
+713,앙갚음,악,물리,-,100,12,접촉,특수,사용한 턴에 상대의 기술로 입은 데미지를 1.5배로 돌려준다.,https://gamewith.ai/pokemon-champions/ko/moves/713
+474,울부짖기,노말,변화,-,-,20,소리,상대 1마리,상대에게 교체할 포켓몬이 있는 경우 랜덤한 포켓몬으로 교체시킨다.,https://gamewith.ai/pokemon-champions/ko/moves/474
+509,볼가득넣기,노말,변화,-,-,12,,자신,지니고 있는 나무열매를 먹는다. 자신의 방어를 2단계 올린다. 나무열매를 지니고 있지 않다면 이 기술을 사용할 수 없다.,https://gamewith.ai/pokemon-champions/ko/moves/509
+286,탐내기,노말,물리,60,100,20,접촉,상대 1마리,자신이 도구를 지니고 있지 않은 경우 상대의 도구를 빼앗는다.,https://gamewith.ai/pokemon-champions/ko/moves/286
+728,반딧불,벌레,변화,-,-,20,,자신,자신의 특수공격을 3단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/728
+287,볼부비부비,전기,물리,20,100,20,접촉,상대 1마리,상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/287
+88,회오리불꽃,불꽃,특수,35,85,16,,상대 1마리,상대를 바인드 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/88
+561,불꽃의맹세,불꽃,특수,80,100,10,,상대 1마리,"더블 배틀에서 기술 「풀의맹세」와 조합하여 사용하면 4턴 동안 매 턴 불꽃타입 이외의 상대에게 데미지를 주고, 기술 「물의맹세」와 조합하여 사용하면 4턴 동안 기술의 추가 효과가 잘 발동된다. 위력이 150이 된다.",https://gamewith.ai/pokemon-champions/ko/moves/561
+599,불꽃춤,불꽃,특수,80,100,12,춤,상대 1마리,50% 확률로 자신의 특수공격을 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/599
+288,불꽃엄니,불꽃,물리,65,95,16,접촉물기,상대 1마리,10% 확률로 상대를 화상 상태로 만든다. 10% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/288
+289,불꽃펀치,불꽃,물리,75,100,16,접촉펀치,상대 1마리,10% 확률로 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/289
+290,불꽃채찍,불꽃,물리,90,100,16,접촉,상대 1마리,상대의 방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/290
+476,멸망의노래,노말,변화,-,-,8,소리,전체,필드의 전원을 멸망 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/476
+473,방어지령,벌레,변화,-,-,10,,자신,자신의 방어와 특수방어를 1랭크씩 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/473
+87,폭풍,비행,특수,110,70,12,바람,상대 1마리,30% 확률로 상대를 혼란 상태로 만든다. 비 상태인 경우 상대에게 반드시 명중한다. 쾌청 상태인 경우 명중률이 50%가 된다. 공중 상태인 상대에게도 맞는다.,https://gamewith.ai/pokemon-champions/ko/moves/87
+291,김밥말이,노말,물리,15,90,20,접촉,상대 1마리,상대를 바인드 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/291
+477,압정뿌리기,땅,변화,-,-,20,,상대 필드,상대 필드를 압정뿌리기 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/477
+94,엉겨붙기,벌레,특수,20,100,20,접촉,상대 1마리,상대를 바인드 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/94
+480,흉내쟁이,노말,변화,-,-,20,,자신,마지막으로 사용된 기술을 사용한다. 사용된 기술이 없는 경우 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/480
+521,마법가루,에스퍼,변화,-,100,20,가루,상대 1마리,상대의 타입을 에스퍼타입으로 바꾼다. 풀타입이나 가루가 통하지 않는 상대에게는 효과가 없다.,https://gamewith.ai/pokemon-champions/ko/moves/521
+481,방어,노말,변화,-,-,8,,자신,사용한 턴 동안 상대의 기술로부터 몸을 보호한다. 연속해서 사용하면 성공률이 이전에 사용했을 때의 1/3이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/481
+482,웅크리기,노말,변화,-,-,40,,자신,자신의 방어를 1랭크 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/482
+677,초승달의기도,에스퍼,변화,-,-,5,,아군 전체,자신과 같은 편의 HP가 최대 HP의 1/4씩 회복되고 상태 이상도 회복된다.,https://gamewith.ai/pokemon-champions/ko/moves/677
+625,초승달춤,에스퍼,변화,-,-,10,,자신,"자신을 「기절」시키고, 다음에 내보내는 자신의 포켓몬의 모든 HP・상태이상・PP를 전부 회복시킨다.",https://gamewith.ai/pokemon-champions/ko/moves/625
+483,대타출동,노말,변화,-,-,12,,자신,자신의 최대 HP의 1/4만큼 HP를 소비하여 대타를 내보낸다. 대타는 자신을 대신해 기술을 받는다. 최대 HP의 1/4의 데미지를 입으면 사라진다.,https://gamewith.ai/pokemon-champions/ko/moves/483
+484,판별,격투,변화,-,-,8,,자신,사용한 턴 동안 상대의 기술로부터 몸을 보호한다. 연속해서 사용하면 성공률이 이전에 사용했을 때의 1/3이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/484
+725,시럽봄,풀,특수,60,90,12,탄환,상대 1마리,3턴 동안 상대를 물엿범벅 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/725
+95,물수리검,물,특수,15,100,20,,상대 1마리,2~5회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/95
+96,물대포,물,특수,40,100,25,,상대 1마리,평범한 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/96
+562,물의맹세,물,특수,80,100,10,,상대 1마리,"더블 배틀에서 기술 「불꽃의맹세」와 조합하여 사용하면 4턴 동안 기술의 추가 효과가 잘 발동되고, 기술 「풀의맹세」와 조합하여 사용하면 4턴 동안 상대의 스피드가 떨어진다. 위력이 150이 된다.",https://gamewith.ai/pokemon-champions/ko/moves/562
+97,물의파동,물,특수,60,100,20,파동,상대 1마리,20% 확률로 상대를 혼란 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/97
+486,물붓기,물,변화,-,100,20,,상대 1마리,상대의 타입을 물타입으로 바꾼다.,https://gamewith.ai/pokemon-champions/ko/moves/486
+295,마구찌르기,노말,물리,15,85,20,접촉,상대 1마리,1턴에 2~5회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/295
+296,마구할퀴기,노말,물리,18,80,15,접촉,상대 1마리,1턴에 2~5회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/296
+487,길동무,고스트,변화,-,-,8,,자신,자신은 길동무 상태가 된다. 연속해서 사용하면 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/487
+297,칼등치기,노말,물리,40,100,40,접촉,상대 1마리,쓰러뜨릴 수 있는 공격이라도 반드시 상대의 HP를 1만큼 남긴다.,https://gamewith.ai/pokemon-champions/ko/moves/297
+99,미래예지,에스퍼,특수,120,100,12,,상대 1마리,상대가 위치한 자리를 미래의 공격 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/99
+740,매혹의보이스,페어리,특수,80,100,12,소리,상대 1마리,사용한 턴 동안 상대의 능력이 올라간 경우 상대를 혼란 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/740
+707,제살깎기,노말,변화,-,-,10,,자신,"자신의 HP를 절반 깎고, 공격과 특수공격과 스피드를 2단계씩 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/707
+298,벌레먹기,벌레,물리,60,100,20,접촉,상대 1마리,상대가 나무열매를 지니고 있으면 그 나무열매를 대신 먹고 자신이 효과를 받는다.,https://gamewith.ai/pokemon-champions/ko/moves/298
+101,벌레의야단법석,벌레,특수,90,100,12,소리,상대 1마리,10% 확률로 상대의 특수방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/101
+102,벌레의저항,벌레,특수,50,100,20,,상대 전체,상대의 특수공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/102
+690,원념의칼,불꽃,물리,90,100,12,접촉베기,상대 1마리,상대에게 준 데미지의 1/2만큼 자신의 HP를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/690
+489,명상,에스퍼,변화,-,-,20,,자신,"자신의 특수공격, 특수방어를 1단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/489
+642,잠재댄스,노말,특수,90,100,15,춤,상대 1마리,"춤추는새의 폼에 따라 기술의 타입이 바뀐다(「이글이글폼」이 불꽃, 「파칙파칙폼」이 전기, 「하늘하늘폼」이 에스퍼, 「둥실둥실폼」이 고스트).",https://gamewith.ai/pokemon-champions/ko/moves/642
+606,타오르는분노,악,특수,90,100,10,,상대 전체,20% 확률로 상대를 풀죽게 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/606
+104,불사르기,불꽃,특수,130,100,8,,상대 1마리,자신의 불꽃타입이 없어진다. 사용하면 자신의 얼음 상태를 회복한다. 자신이 불꽃타입이 아닌 경우 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/104
+491,흉내내기,노말,변화,-,-,10,,상대 1마리,"상대가 마지막에 사용한 기술을, 흉내내기 대신에 익힌다. 자신이 교체되면 사용할 수 있는 기술은 흉내내기로 돌아간다.",https://gamewith.ai/pokemon-champions/ko/moves/491
+492,숲의저주,풀,변화,-,100,20,,상대 1마리,상대를 숲의저주 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/492
+304,양날박치기,바위,물리,150,80,8,접촉,상대 1마리,준 데미지의 1/2만큼 자신도 데미지를 입는다.,https://gamewith.ai/pokemon-champions/ko/moves/304
+105,불태우기,불꽃,특수,60,100,15,,상대 전체,상대가 나무열매 등을 지니고 있을 경우 태워서 쓸 수 없게 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/105
+741,열불내기,불꽃,물리,75,100,12,접촉,상대 1마리,직전 턴에 자신이 행동하지 못했거나 기술이 빗나가거나 실패한 경우 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/741
+493,씨뿌리기,풀,변화,-,90,12,,상대 1마리,상대를 씨뿌리기 상태로 만든다. 풀타입 상대에게는 효과가 없다.,https://gamewith.ai/pokemon-champions/ko/moves/493
+305,업어후리기,격투,물리,60,100,12,접촉,상대 1마리,반드시 급소에 맞는다.,https://gamewith.ai/pokemon-champions/ko/moves/305
+686,설경,얼음,변화,-,-,8,,필드 전체,5턴 동안 눈 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/686
+306,눈사태,얼음,물리,60,100,12,접촉,상대 1마리,이 기술을 사용하는 턴에 상대에게 기술의 데미지를 입으면 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/306
+494,손가락흔들기,노말,변화,-,-,10,,자신,많은 기술 중에서 랜덤으로 1개를 사용한다.,https://gamewith.ai/pokemon-champions/ko/moves/494
+106,꿈먹기,에스퍼,특수,100,100,15,,상대 1마리,잠듦 상태인 상대에게만 쓸 수 있다. 상대에게 준 데미지의 절반만큼 HP를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/106
+107,용해액,독,특수,40,100,30,,상대 전체,10% 확률로 상대의 특수방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/107
+108,요정의바람,페어리,특수,40,100,30,바람,상대 1마리,평범한 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/108
+541,뇌격,전기,물리,130,85,5,접촉,상대 1마리,20% 확률로 상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/541
+605,천둥차기,격투,물리,90,100,10,접촉,상대 1마리,상대의 방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/605
+559,용성군,드래곤,특수,130,90,8,,상대 1마리,자신의 특수공격을 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/559
+111,용의숨결,드래곤,특수,60,100,20,,상대 1마리,30% 확률로 상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/111
+112,용의파동,드래곤,특수,85,100,12,파동,상대 1마리,통상적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/112
+497,용의춤,드래곤,변화,-,-,20,춤,자신,"자신의 공격, 스피드를 1단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/497
+516,사과산,풀,특수,90,100,12,,상대 1마리,상대의 특수방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/516
+113,돌림노래,노말,특수,60,100,16,소리,상대 1마리,같은 턴에 복수의 포켓몬이 이 기술을 사용하면 첫 번째가 사용한 바로 다음에 두 번째 이후가 사용한다. 두 번째 이후의 위력은 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/113
+309,냉동펀치,얼음,물리,75,100,16,접촉펀치,상대 1마리,10% 확률로 상대를 얼음 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/309
+114,냉동빔,얼음,특수,90,100,12,,상대 1마리,10% 확률로 상대를 얼음 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/114
+115,연옥,불꽃,특수,100,50,8,,상대 1마리,상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/115
+310,연속자르기,벌레,물리,40,95,20,접촉베기,상대 1마리,연속으로 맞힐 때마다 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/310
+501,목화포자,풀,변화,-,100,20,가루,상대 전체,상대의 스피드를 2단계 떨어뜨린다. 풀타입이나 가루가 통하지 않는 상대에게는 효과가 없다.,https://gamewith.ai/pokemon-champions/ko/moves/501
+643,발버둥,노말,물리,50,-,1,접촉,상대 랜덤 1마리,다른 기술의 PP가 0이 되는 등으로 선택할 수 있는 기술이 없는 턴에 사용한다. 타입에 관계없이 데미지를 준다. 자신도 최대 HP의 4분의 1(소수점 이하 버림) 데미지를 받는다. 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/643
+502,나쁜음모,악,변화,-,-,20,,자신,자신의 특수공격을 2단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/502
+119,아이언테일,강철,물리,100,75,16,접촉,상대 1마리,30% 확률로 상대의 방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/119
+120,아이언헤드,강철,물리,80,100,16,접촉,상대 1마리,20% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/120
+569,아이언롤러,강철,물리,130,100,8,접촉,상대 1마리,필드가 전개되어 있지 않은 경우 실패한다. 필드를 해제한다.,https://gamewith.ai/pokemon-champions/ko/moves/569
+700,아이스스피너,얼음,물리,80,100,16,접촉,상대 1마리,필드를 해제한다.,https://gamewith.ai/pokemon-champions/ko/moves/700
+641,아이스해머,얼음,물리,100,90,12,접촉펀치,상대 1마리,자신의 스피드를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/641
+714,아쿠아커터,물,물리,70,100,20,베기,상대 1마리,급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/714
+121,아쿠아제트,물,물리,40,100,20,접촉,상대 1마리,반드시 선제공격할 수 있다. (우선도 +1),https://gamewith.ai/pokemon-champions/ko/moves/121
+681,아쿠아스텝,물,물리,80,100,12,접촉춤,상대 1마리,자신의 스피드를 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/681
+122,아쿠아테일,물,물리,90,90,12,접촉,상대 1마리,통상적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/122
+123,아쿠아브레이크,물,물리,85,100,12,접촉,상대 1마리,20% 확률로 상대의 방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/123
+315,아쿠아링,물,변화,-,-,20,,자신,자신은 아쿠아링 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/315
+682,액셀브레이크,격투,물리,100,100,5,접촉,상대 1마리,효과가 굉장할 때 위력이 1.3배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/682
+601,액셀록,바위,물리,40,100,20,접촉,상대 1마리,반드시 선제공격할 수 있다. (우선도 +1),https://gamewith.ai/pokemon-champions/ko/moves/601
+124,애크러뱃,비행,물리,55,100,16,접촉,상대 1마리,자신이 도구를 지니고 있지 않은 경우 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/124
+318,어시스트기어,강철,변화,-,-,20,,아군 전체,특성 「플러스」와 「마이너스」의 공격과 특수공격을 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/318
+3,어시스트파워,에스퍼,특수,20,100,12,,상대 1마리,자신의 올라간 능력 변화 1단계당 이 기술의 위력이 20씩 올라간다.,https://gamewith.ai/pokemon-champions/ko/moves/3
+4,애시드봄,독,특수,40,100,20,탄환,상대 1마리,상대의 특수방어를 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/4
+612,아스트랄비트,고스트,특수,120,100,5,,상대 전체,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/612
+598,아프로브레이크,노말,물리,120,100,15,접촉,상대 1마리,상대에게 준 데미지의 1/4을 자신도 받는다.,https://gamewith.ai/pokemon-champions/ko/moves/598
+324,아로마테라피,풀,변화,-,-,5,,아군 전체,같은 편 모두의 상태 이상을 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/324
+325,아로마미스트,페어리,변화,-,-,20,,아군,자신의 특수방어를 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/325
+128,앵커샷,강철,물리,80,100,20,접촉,상대 1마리,고스트 타입 이외에는 교체할 수 없게 된다. 자신이 필드에서 벗어나면 효과는 사라진다.,https://gamewith.ai/pokemon-champions/ko/moves/128
+326,앙코르,노말,변화,-,100,8,,상대 1마리,상대를 앙코르 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/326
+689,아머캐논,불꽃,특수,120,100,8,,상대 1마리,"자신의 방어, 특수방어를 1단계 떨어뜨린다.",https://gamewith.ai/pokemon-champions/ko/moves/689
+118,암해머,격투,물리,100,90,12,접촉펀치,상대 1마리,자신의 스피드를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/118
+129,속임수,악,물리,95,100,16,접촉,상대 1마리,자신의 공격이 아닌 상대의 공격 수치에 따라 데미지가 결정된다.,https://gamewith.ai/pokemon-champions/ko/moves/129
+683,라이트닝드라이브,전기,특수,100,100,5,접촉,상대 1마리,효과가 굉장할 때 위력이 1.3배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/683
+135,인파이트,격투,물리,120,100,8,접촉,상대 1마리,"자신의 방어, 특수방어를 1단계 떨어뜨린다.",https://gamewith.ai/pokemon-champions/ko/moves/135
+7,웨더볼,노말,특수,50,100,12,탄환,상대 1마리,날씨가 바뀐 경우 위력이 2배가 되며 기술의 타입도 바뀐다. 쾌청 상태: 불꽃 비 상태: 물 눈 상태: 얼음 모래바람 상태: 바위,https://gamewith.ai/pokemon-champions/ko/moves/7
+662,웨이브태클,물,물리,120,100,12,접촉,상대 1마리,준 데미지의 1/3만큼 자신도 데미지를 입는다.,https://gamewith.ai/pokemon-champions/ko/moves/662
+137,우드해머,풀,물리,120,100,16,접촉,상대 1마리,준 데미지의 1/3만큼 자신도 데미지를 입는다.,https://gamewith.ai/pokemon-champions/ko/moves/137
+138,우드혼,풀,물리,75,100,10,접촉,상대 1마리,상대에게 준 데미지의 1/2만큼 자신의 HP를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/138
+9,에어커터,비행,특수,60,95,20,베기바람,상대 전체,급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/9
+10,에어슬래시,비행,특수,75,95,16,베기,상대 1마리,30% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/moves/10
+615,에어로블라스트,비행,특수,100,95,5,,상대 1마리,급소에 맞기 쉽다. (급소 랭크 +1),https://gamewith.ai/pokemon-champions/ko/moves/615
+11,에코보이스,노말,특수,40,100,15,소리,상대 1마리,매 턴 누군가가 기술을 계속해서 사용하면 위력이 40씩 올라간다. 상대의 「대타출동」 상태를 관통한다.,https://gamewith.ai/pokemon-champions/ko/moves/11
+12,에너지볼,풀,특수,90,100,12,탄환,상대 1마리,10% 확률로 상대의 특수방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/12
+530,아가미물기,물,물리,85,100,10,접촉물기,상대 1마리,상대보다 먼저 행동하면 기술의 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/530
+13,일렉트릭네트,전기,특수,55,95,16,,상대 전체,상대의 스피드를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/13
+339,일렉트릭필드,전기,변화,-,-,12,,필드 전체,5턴 동안 전체 필드를 일렉트릭필드 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/339
+14,일렉트릭볼,전기,특수,-,100,12,탄환,상대 1마리,자신의 스피드가 상대보다 빠를수록 위력이 올라간다. (위력은 40~150),https://gamewith.ai/pokemon-champions/ko/moves/14
+731,일렉트로빔,전기,특수,130,100,12,,상대 1마리,사용한 턴에 차지 상태가 되어 다음 턴에 공격한다. 비 상태인 경우 차지 상태를 생략하고 바로 공격할 수 있다. 사용한 턴에 자신의 특수공격을 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/731
+17,대포무노포,물,특수,65,85,10,,상대 1마리,50%의 확률로 상대의 명중률을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/17
+523,오버드라이브,전기,특수,80,100,10,소리,상대 전체,상대의 「대타출동」 상태를 관통한다.,https://gamewith.ai/pokemon-champions/ko/moves/523
+15,오버히트,불꽃,특수,130,90,8,,상대 1마리,자신의 특수공격을 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/15
+525,오라휠,전기,물리,110,100,12,,상대 1마리,자신의 스피드를 1단계 올린다. 모르페코의 폼에 따라 타입이 바뀐다.,https://gamewith.ai/pokemon-champions/ko/moves/525
+668,오라윙,에스퍼,특수,80,100,10,,상대 1마리,급소에 맞기 쉽다(급소 랭크 +1). 공격한 뒤 100% 확률로 자신의 스피드가 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/moves/668
+16,오로라빔,얼음,특수,65,100,20,,상대 1마리,10%의 확률로 상대의 공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/16
+342,오로라베일,얼음,변화,-,-,20,,아군 필드,5턴 동안 같은 편 필드를 오로라베일 상태로 만든다. 눈 상태인 경우에만 사용할 수 있다.,https://gamewith.ai/pokemon-champions/ko/moves/342
+141,카운터,격투,물리,-,100,20,접촉,특수,사용한 턴에 상대의 물리 기술로 입은 데미지를 2배로 돌려준다.,https://gamewith.ai/pokemon-champions/ko/moves/141
+709,카타스트로피,악,특수,-,90,10,,상대 1마리,상대의 남은 HP를 절반(소수점 이하 올림)으로 만든다. 남은 HP가 1인 상대는 쓰러뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/709
+631,화룡점정,비행,물리,120,100,5,접촉,상대 1마리,자신의 방어와 특수방어가 각각 1랭크씩 떨어진다.,https://gamewith.ai/pokemon-champions/ko/moves/631
+349,가드셰어,에스퍼,변화,-,-,12,,상대 1마리,자신과 상대의 방어와 특수방어 수치를 각각 더해서 1/2씩 나눠 갖는다.,https://gamewith.ai/pokemon-champions/ko/moves/349
+350,가드스왑,에스퍼,변화,-,-,12,,상대 1마리,"자신의 방어, 특수방어 능력 변화를 상대의 방어, 특수방어 능력 변화와 바꾼다.",https://gamewith.ai/pokemon-champions/ko/moves/350
+359,버섯포자,풀,변화,-,100,15,가루,상대 1마리,상대를 1~3턴 동안 잠듦 상태로 만든다. 풀타입이나 가루가 통하지 않는 상대에게는 효과가 없다.,https://gamewith.ai/pokemon-champions/ko/moves/359
+705,킬러스핀,독,물리,30,100,16,접촉,상대 전체,"자신의 바인드, 씨뿌리기 상태와 같은 편 필드의 압정뿌리기, 독압정, 끈적끈적네트, 스텔스록 상태를 해제한다. 상대를 독 상태로 만든다.",https://gamewith.ai/pokemon-champions/ko/moves/705
+361,킹실드,강철,변화,-,-,8,,자신,사용한 턴 동안 상대의 공격으로부터 몸을 보호하며 접촉 기술을 받으면 상대의 공격을 1단계 떨어뜨린다. 실드폼으로 폼체인지한다. 연속해서 사용하면 성공률이 이전에 사용했을 때의 1/3이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/361
+155,기어소서,강철,물리,50,85,15,접촉,상대 1마리,한 턴에 2회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/155
+358,기어체인지,강철,변화,-,-,10,,자신,"자신의 공격을 1단계 올리고, 스피드를 2단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/358
+156,기가임팩트,노말,물리,150,90,8,접촉,상대 1마리,사용한 다음 턴에 자신은 반동 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/156
+23,기가드레인,풀,특수,75,100,12,,상대 1마리,상대에게 준 데미지의 1/2만큼 자신의 HP를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/23
+583,퀵턴,물,물리,60,100,20,접촉,상대 1마리,공격한 다음 다른 지닌 포켓몬과 교체한다.,https://gamewith.ai/pokemon-champions/ko/moves/583
+160,집게해머,물,물리,100,95,12,접촉,상대 1마리,급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/160
+26,클리어스모그,독,특수,50,-,16,,상대 1마리,상대의 능력 변화를 원래대로 되돌린다. 상대에게 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/26
+540,크로스썬더,전기,물리,100,100,5,접촉,상대 1마리,같은 턴에 기술 「크로스플레임」이 사용되었으면 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/540
+162,크로스촙,격투,물리,100,80,8,접촉,상대 1마리,급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/162
+538,크로스플레임,불꽃,특수,100,100,5,,상대 1마리,같은 턴에 기술 「크로스썬더」가 사용되었으면 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/538
+163,크로스포이즌,독,물리,70,100,20,접촉베기,상대 1마리,10% 확률로 상대를 독 상태로 만든다. 급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/163
+663,클로로블라스트,풀,특수,150,95,5,,상대 1마리,자신의 HP를 최대 HP의 절반만큼 줄인다. '방어' 등으로 기술이 무효화된 경우에도 자신의 HP는 절반 줄어든다.,https://gamewith.ai/pokemon-champions/ko/moves/663
+574,그래스슬라이더,풀,물리,55,100,20,접촉,상대 1마리,그래스필드 상태의 효과를 받고 있는 경우 우선도 +1이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/574
+364,그래스필드,풀,변화,-,-,12,,필드 전체,5턴 동안 전체 필드를 그래스필드 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/364
+25,그래스믹서,풀,특수,65,90,10,,상대 1마리,50%의 확률로 상대의 명중률을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/25
+637,그라운드포스,땅,물리,90,100,10,,상대 전체,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/637
+161,그로우펀치,격투,물리,40,100,20,접촉펀치,상대 1마리,자신의 공격이 1단계 오른다.,https://gamewith.ai/pokemon-champions/ko/moves/161
+27,트림,독,특수,120,90,12,,상대 1마리,배틀 중에 나무열매를 먹지 않은 경우 이 기술은 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/27
+634,코어퍼니셔,드래곤,특수,100,100,10,,상대 전체,"이 기술의 데미지를 받은 포켓몬이 그 턴 중에 이미 기술을 사용했을 경우, 그 포켓몬의 특성을 무효화한다. 「배틀스위치」 등 폼에 관련된 특성이나, 「탈바꿈」 등 일부 고유 특성에는 통하지 않는다.",https://gamewith.ai/pokemon-champions/ko/moves/634
+370,코스믹파워,에스퍼,변화,-,-,20,,자신,"자신의 방어, 특수방어를 1단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/370
+371,코튼가드,풀,변화,-,-,12,,자신,자신의 방어를 3단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/371
+173,코멧펀치,강철,물리,90,90,12,접촉펀치,상대 1마리,20% 확률로 자신의 공격을 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/173
+582,코칭,격투,변화,-,-,12,,아군,"같은 편의 공격, 방어를 1단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/582
+507,코트체인지,노말,변화,-,100,10,,필드 전체,서로의 필드 상태를 맞바꾼다. 경과 턴 수는 그대로 이어진다.,https://gamewith.ai/pokemon-champions/ko/moves/507
+554,콜드플레어,얼음,특수,140,90,5,,상대 1마리,2번째 턴에 공격한다. 30% 확률로 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/554
+171,불새,비행,물리,140,90,8,,상대 1마리,사용한 턴에 차지 상태가 되어 다음 턴에 공격한다. 30% 확률로 상대를 풀죽게 한다. 급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/171
+168,고스트다이브,고스트,물리,90,100,12,접촉,상대 1마리,"사용한 턴에 잠복 상태가 되어 다음 턴에 공격한다. 방어, 판별 등의 효과를 해제하고 공격한다.",https://gamewith.ai/pokemon-champions/ko/moves/168
+718,골드러시,강철,특수,120,95,8,,상대 전체,자신의 특수공격을 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/718
+32,환상빔,에스퍼,특수,65,100,20,,상대 1마리,10%의 확률로 상대를 1~4턴 동안 혼란 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/32
+175,사이코커터,에스퍼,물리,70,100,20,베기,상대 1마리,급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/175
+33,사이코키네시스,에스퍼,특수,90,100,12,,상대 1마리,10% 확률로 상대의 특수방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/33
+375,사이코시프트,에스퍼,변화,-,100,10,,상대 1마리,자신의 상태 이상을 상대에게 옮긴다. 상대가 이미 상태 이상일 경우에는 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/375
+34,사이코쇼크,에스퍼,특수,80,100,12,,상대 1마리,이 기술은 특수 기술이나 상대의 방어를 기준으로 데미지를 계산한다.,https://gamewith.ai/pokemon-champions/ko/moves/34
+743,사이코노이즈,에스퍼,특수,75,100,12,소리,상대 1마리,2턴 동안 상대를 회복봉인 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/743
+176,사이코팽,에스퍼,물리,85,100,12,접촉물기,상대 1마리,"상대 필드의 빛의장막, 리플렉터, 오로라베일 상태를 해제하고 공격한다.",https://gamewith.ai/pokemon-champions/ko/moves/176
+376,사이코필드,에스퍼,변화,-,-,12,,필드 전체,5턴 동안 전체 필드를 사이코필드 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/376
+545,사이코브레이크,에스퍼,특수,100,100,10,,상대 1마리,상대의 방어 능력치로 데미지를 계산한다.,https://gamewith.ai/pokemon-champions/ko/moves/545
+721,사이코블레이드,에스퍼,물리,80,100,15,접촉베기,상대 1마리,일렉트릭필드에 있을 때 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/721
+747,사이코부스트,에스퍼,특수,140,90,5,,상대 1마리,자신의 특수공격이 2단계 떨어진다.,https://gamewith.ai/pokemon-champions/ko/moves/747
+377,사이드체인지,에스퍼,변화,-,-,16,,자신,자신과 같은 편의 자리를 바꾼다. 연속해서 사용하면 성공률이 이전에 사용했을 때의 1/3이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/377
+620,사우전드애로,땅,물리,90,100,10,,상대 전체,"비행 타입이나 특성 부유인 포켓몬에게도 맞으며, 이후에는 다른 땅 타입 기술도 맞는다.",https://gamewith.ai/pokemon-champions/ko/moves/620
+621,사우전드웨이브,땅,물리,90,100,10,,상대 전체,고스트 타입 이외에는 교체할 수 없게 된다. 자신이 필드에서 벗어나면 효과는 사라진다.,https://gamewith.ai/pokemon-champions/ko/moves/621
+742,썬더다이브,전기,물리,100,95,16,접촉,상대 1마리,빗나가거나 실패하면 자신의 최대 HP의 1/2만큼 데미지를 입는다. 작아지기 상태인 상대에게는 위력이 2배가 되며 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/742
+609,썬더프리즌,전기,특수,80,90,15,,상대 1마리,4~5턴 동안 매 턴 종료 후 최대 HP의 1/8의 데미지를 준다. 그동안 고스트 타입 이외에는 교체할 수 없다.,https://gamewith.ai/pokemon-champions/ko/moves/609
+572,셸암즈,독,특수,90,100,12,,상대 1마리,20% 확률로 상대를 독 상태로 만든다. 물리 기술일 때 데미지가 더 높은 경우 물리 기술이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/572
+177,셸블레이드,물,물리,75,95,12,접촉베기,상대 1마리,50% 확률로 상대의 방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/177
+180,시저크로스,벌레,물리,80,100,16,접촉베기,상대 1마리,일반 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/180
+722,휘적휘적포,풀,특수,80,90,16,,상대 전체,상대에게 준 데미지의 1/2만큼 자신의 HP를 회복한다. 20% 확률로 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/722
+191,섀도클로,고스트,물리,70,100,16,접촉베기,상대 1마리,급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/191
+551,섀도스틸,고스트,물리,90,100,10,접촉,상대 1마리,"상대의 능력 랭크 상승분을 0으로 만들고, 그만큼 자신의 능력을 올린 뒤 공격 데미지를 준다. 능력의 하강분에는 영향을 주지 않는다. 상대의 「대타출동」 상태를 관통한다.",https://gamewith.ai/pokemon-champions/ko/moves/551
+626,섀도다이브,고스트,물리,120,100,5,접촉,상대 1마리,1턴째에 사라지고 2턴째에 공격한다. 사라져 있는 동안에는 기술이 맞지 않는다. 상대의 「방어」나 「가로채기」 등을 해제한다.,https://gamewith.ai/pokemon-champions/ko/moves/626
+192,섀도펀치,고스트,물리,60,-,20,접촉펀치,상대 1마리,상대에게 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/192
+38,섀도볼,고스트,특수,80,100,16,탄환,상대 1마리,20% 확률로 상대의 특수방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/38
+595,섀도본,고스트,물리,85,100,10,,상대 1마리,20% 확률로 상대의 방어 랭크를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/595
+547,섀도레이,고스트,특수,100,100,5,,상대 1마리,상대의 특성의 영향을 받지 않고 공격할 수 있다.,https://gamewith.ai/pokemon-champions/ko/moves/547
+392,심플빔,노말,변화,-,100,16,,상대 1마리,상대의 특성을 단순으로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/392
+726,시드플레어,풀,특수,120,85,5,,상대 1마리,40%의 확률로 상대의 특수방어를 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/726
+696,제트펀치,물,물리,60,100,16,접촉펀치,상대 1마리,반드시 선제공격할 수 있다.(우선도 +1),https://gamewith.ai/pokemon-champions/ko/moves/696
+623,지오컨트롤,페어리,변화,-,-,10,,자신,"1턴째에 모으고, 2턴째에 자신의 특수공격과 특수방어와 스피드가 각각 2랭크씩 오른다.",https://gamewith.ai/pokemon-champions/ko/moves/623
+190,자이로볼,강철,물리,-,100,8,접촉탄환,상대 1마리,자신의 스피드가 상대보다 느릴수록 위력이 올라간다. (위력은 1~150),https://gamewith.ai/pokemon-champions/ko/moves/190
+587,정글힐,풀,변화,-,-,10,,아군 전체,자신과 같은 편 전체의 HP를 최대 HP의 1/4씩 회복하고 상태 이상도 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/587
+196,스위프뺨치기,노말,물리,25,85,12,접촉,상대 1마리,2~5회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/196
+393,스킬스왑,에스퍼,변화,-,-,12,,상대 1마리,자신과 상대의 특성을 바꾼다.,https://gamewith.ai/pokemon-champions/ko/moves/393
+570,스케일샷,드래곤,물리,25,90,20,,상대 1마리,2~5회 연속으로 공격한다. 자신의 방어를 1단계 떨어뜨리고 스피드를 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/570
+42,스케일노이즈,드래곤,특수,110,100,8,소리,상대 전체,자신의 방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/42
+746,스케치,노말,변화,-,-,1,,상대 1마리,상대가 사용한 기술을 자신의 것으로 만든다. 한 번 사용하면 스케치는 사라진다.,https://gamewith.ai/pokemon-champions/ko/moves/746
+517,스타어설트,격투,물리,150,100,5,,상대 1마리,사용한 다음 턴에는 행동할 수 없다.,https://gamewith.ai/pokemon-champions/ko/moves/517
+619,스팀버스트,물,특수,110,95,5,,상대 1마리,"30% 확률로 상대를 화상 상태로 만든다. 자신이 얼음 상태일 때도 사용할 수 있으며, 사용하면 얼음 상태가 낫는다. 상대의 얼음 상태를 낫게 한다.",https://gamewith.ai/pokemon-champions/ko/moves/619
+395,스텔스록,바위,변화,-,-,20,,상대 필드,상대 필드를 스텔스록 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/395
+199,스톤에지,바위,물리,100,80,8,,상대 1마리,급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/199
+201,스파크,전기,물리,65,100,20,접촉,상대 1마리,10% 확률로 상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/201
+43,스피드스타,노말,특수,60,-,20,,상대 전체,반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/43
+398,스피드스왑,에스퍼,변화,-,-,12,,상대 1마리,자신과 상대의 스피드를 바꾼다.,https://gamewith.ai/pokemon-champions/ko/moves/398
+590,숟가락휘기,에스퍼,변화,-,80,15,,상대 1마리,상대의 명중률을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/590
+202,스마트혼,강철,물리,70,-,12,접촉,상대 1마리,상대에게 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/202
+44,스모그,독,특수,30,70,20,,상대 1마리,10%의 확률로 상대를 독 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/44
+691,스레드트랩,벌레,변화,-,-,10,,자신,반드시 선제공격할 수 있다(우선도 +4). 그 턴 동안 상대의 공격 기술을 받지 않는다. 연속으로 쓰면 성공률이 3분의 1 → 9분의 1… 로 감소해 간다. 직접 공격을 해 온 상대의 스피드를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/691
+520,소울크래시,페어리,물리,75,100,15,접촉,상대 1마리,상대의 특수공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/520
+531,소울비트,드래곤,변화,-,-,8,소리춤,자신,"자신의 최대 HP의 1/3만큼 HP를 소비하여 자신의 공격, 방어, 특수공격, 특수방어, 스피드를 1단계 올린다. 남은 HP가 부족한 경우 실패한다.",https://gamewith.ai/pokemon-champions/ko/moves/531
+46,솔라빔,풀,특수,120,100,12,,상대 1마리,사용한 턴에 차지 상태가 되어 다음 턴에 공격한다. 쾌청 상태인 경우 차지 상태를 생략하고 바로 공격할 수 있다. 다른 날씨인 경우 위력이 1/2이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/46
+204,솔라블레이드,풀,물리,125,100,12,접촉베기,상대 1마리,사용한 턴에 차지 상태가 되어 다음 턴에 공격한다. 쾌청 상태인 경우 차지 상태를 생략하고 바로 공격할 수 있다. 다른 날씨인 경우 위력이 1/2이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/204
+737,타키온커터,강철,특수,50,-,10,베기,상대 1마리,1턴에 2회 연속으로 공격한다. 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/737
+212,씨폭탄,풀,물리,80,100,16,탄환,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/212
+213,씨기관총,풀,물리,25,100,20,탄환,상대 1마리,2~5회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/213
+596,알낳기,노말,변화,-,-,5,,자신,자신의 최대 HP의 1/2만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/596
+513,타르샷,바위,변화,-,100,15,,상대 1마리,상대의 스피드를 1랭크 떨어뜨린다. 상대의 약점에 불꽃 타입을 추가한다.,https://gamewith.ai/pokemon-champions/ko/moves/513
+208,다이빙,물,물리,80,100,12,접촉,상대 1마리,사용한 턴에 수중 상태가 되어 다음 턴에 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/208
+534,다이맥스포,드래곤,특수,100,100,5,,상대 1마리,상대가 다이맥스 상태이면 데미지가 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/534
+636,다이아스톰,바위,물리,100,95,5,,상대 전체,50% 확률로 자신의 방어가 2랭크 오른다.,https://gamewith.ai/pokemon-champions/ko/moves/636
+210,더스트슈트,독,물리,120,80,8,접촉,상대 1마리,30% 확률로 상대를 독 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/210
+214,더블어택,노말,물리,35,90,12,접촉,상대 1마리,2회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/214
+585,더블윙,비행,물리,40,90,12,접촉,상대 1마리,2회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/585
+215,더블촙,드래곤,물리,40,90,15,접촉,상대 1마리,1턴에 2회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/215
+553,더블펀처,강철,물리,60,100,5,접촉펀치,상대 1마리,한 턴에 2회 연속으로 공격한다. 각각 30% 확률로 풀죽게 만든다(전체적으로 51% 확률로 풀죽게 만든다).,https://gamewith.ai/pokemon-champions/ko/moves/553
+216,승부굳히기,악,물리,60,100,12,접촉,상대 1마리,사용한 턴 동안 상대가 이미 데미지를 입었다면 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/216
+727,다크홀,악,변화,-,50,10,,상대 전체,상대를 1~3턴 동안 잠듦 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/727
+52,차지빔,전기,특수,50,90,12,,상대 1마리,70% 확률로 자신의 특수공격을 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/52
+53,차밍보이스,페어리,특수,40,-,15,소리,상대 전체,반드시 명중한다. 상대의 「대타출동」 상태를 관통한다.,https://gamewith.ai/pokemon-champions/ko/moves/53
+688,트윈빔,에스퍼,특수,40,100,12,,상대 1마리,2회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/688
+723,덩굴방망이,풀,물리,100,100,10,,상대 1마리,"급소에 맞기 쉽다(급소 랭크 +1). 오거폰에게 부뚜막의 가면을 들리면 불꽃 타입, 우물의 가면을 들리면 물 타입, 주춧돌의 가면을 들리면 바위 타입의 기술이 된다.",https://gamewith.ai/pokemon-champions/ko/moves/723
+592,텍스처,노말,변화,-,-,30,,상대 1마리,자신의 타입을 자신의 가장 위에 있는 기술과 같은 타입으로 바꾼다.,https://gamewith.ai/pokemon-champions/ko/moves/592
+593,텍스처2,노말,변화,-,-,30,,상대 1마리,자신의 타입을 상대가 마지막에 사용한 기술을 반감하거나 무효화할 수 있는 타입으로 바꾼다. 어떤 타입이 될지는 랜덤이다.,https://gamewith.ai/pokemon-champions/ko/moves/593
+624,테크노버스터,노말,특수,120,100,5,,상대 1마리,지니게 한 「카세트」에 따라 타입이 바뀐다.,https://gamewith.ai/pokemon-champions/ko/moves/624
+732,테라클러스터,노말,특수,120,100,5,,상대 1마리,"테라파고스가 스텔라 폼으로 사용하면 전체 기술이 되며, 기술의 타입은 스텔라가 된다.",https://gamewith.ai/pokemon-champions/ko/moves/732
+678,테라버스트,노말,특수,80,100,10,,상대 1마리,"테라스탈 중이면 테라스탈 타입과 같은 타입의 기술이 되며, 공격과 특수공격을 비교하여 높은 쪽으로 데미지를 준다.",https://gamewith.ai/pokemon-champions/ko/moves/678
+415,순간이동,에스퍼,변화,-,-,20,,자신,반드시 후공이 된다(우선도 -6). 가지고 있는 포켓몬과 교체한다.,https://gamewith.ai/pokemon-champions/ko/moves/415
+712,거대해머,강철,물리,160,100,8,,상대 1마리,이 기술은 2회 연속으로 사용할 수 없다.,https://gamewith.ai/pokemon-champions/ko/moves/712
+514,데코레이션,페어리,변화,-,-,16,,상대 1마리,"상대의 공격, 특수공격을 2단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/514
+622,데스윙,비행,특수,80,100,10,,상대 1마리,상대에게 준 데미지의 3/4만큼 자신의 HP가 회복된다.,https://gamewith.ai/pokemon-champions/ko/moves/622
+57,트라이어택,노말,특수,80,100,12,,상대 1마리,"20% 확률로 상대를 마비, 화상, 얼음 중 하나의 상태로 만든다.",https://gamewith.ai/pokemon-champions/ko/moves/57
+58,트랩셸,불꽃,특수,150,100,5,,상대 전체,반드시 후공이 된다(우선도 -3). 상대의 물리 기술을 받으면 공격할 수 있다.,https://gamewith.ai/pokemon-champions/ko/moves/58
+518,집게덫,강철,물리,35,100,16,접촉,상대 1마리,상대를 바인드 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/518
+429,트릭,에스퍼,변화,-,100,12,,상대 1마리,상대와 자신의 지니고 있는 도구를 바꾼다.,https://gamewith.ai/pokemon-champions/ko/moves/429
+430,트릭가드,페어리,변화,-,-,10,,아군 전체,"반드시 선제공격할 수 있다(우선도 +3). 사용한 턴 동안 모든 같은 편을 향한 변화 기술을 무효화하지만, 필드를 대상으로 하는 기술에는 효과가 없다.",https://gamewith.ai/pokemon-champions/ko/moves/430
+679,트릭플라워,풀,물리,70,-,12,,상대 1마리,상대에게 반드시 명중한다. 반드시 급소에 맞는다.,https://gamewith.ai/pokemon-champions/ko/moves/679
+431,트릭룸,에스퍼,변화,-,-,8,,필드 전체,5턴 동안 전체 필드를 트릭룸 상태로 만든다. 트릭룸 상태에서 다시 사용하면 트릭룸 상태가 종료된다.,https://gamewith.ai/pokemon-champions/ko/moves/431
+584,트리플악셀,얼음,물리,20,90,12,접촉,상대 1마리,"첫 번째는 위력 20, 두 번째는 위력 40, 세 번째는 위력 60으로 3회 연속 공격한다. 도중에 빗나가면 공격이 끝난다.",https://gamewith.ai/pokemon-champions/ko/moves/584
+244,트리플킥,격투,물리,10,90,10,접촉,상대 1마리,1턴에 3회 연속으로 공격한다. 1회마다 위력이 10씩 올라간다. 1회마다 명중 판정이 있으며 빗나간 시점에 기술이 종료된다.,https://gamewith.ai/pokemon-champions/ko/moves/244
+704,트리플다이브,물,물리,30,95,10,접촉,상대 1마리,1턴에 3회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/704
+248,트로피컬킥,풀,물리,85,100,16,접촉,상대 1마리,상대의 공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/248
+420,토치카,독,변화,-,-,8,,자신,사용한 턴 동안 상대의 기술로부터 몸을 보호한다. 접촉 기술을 받으면 상대를 독 상태로 만든다. 연속해서 사용하면 성공률이 이전에 사용했을 때의 1/3이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/420
+432,망각술,에스퍼,변화,-,-,20,,자신,자신의 특수방어를 2단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/432
+708,도각참,악,물리,85,-,12,접촉베기,상대 1마리,상대에게 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/708
+532,드래곤애로,드래곤,물리,50,100,12,접촉,상대 1마리,"2회 연속으로 공격한다. 상대가 2마리 있는 경우 각각 1회씩 공격한다. 한쪽 상대에게만 효과가 있는 경우나, 방어 등을 사용하여 1마리에게만 공격할 수 있는 경우에는 1마리에게 2회 연속으로 공격한다.",https://gamewith.ai/pokemon-champions/ko/moves/532
+610,드래곤에너지,드래곤,특수,150,100,5,,상대 전체,자신의 HP가 적을수록 기술의 위력이 떨어진다. (150 × 자신의 남은 HP ÷ 자신의 최대 HP)가 위력이며 최솟값은 1이다.,https://gamewith.ai/pokemon-champions/ko/moves/610
+739,드래곤옐,드래곤,변화,-,-,16,소리,아군,"같은 편을 급소업 상태로 만든다. (드래곤타입은 +2, 그 외 타입은 +1)",https://gamewith.ai/pokemon-champions/ko/moves/739
+241,드래곤클로,드래곤,물리,80,100,16,접촉베기,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/241
+242,드래곤다이브,드래곤,물리,100,75,12,접촉,상대 1마리,20% 확률로 상대를 풀죽게 한다. 작아지기 상태인 상대에게는 위력이 2배가 되며 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/242
+243,드래곤테일,드래곤,물리,60,90,12,접촉,상대 1마리,상대에게 교체할 포켓몬이 있는 경우 랜덤한 포켓몬으로 교체시킨다.,https://gamewith.ai/pokemon-champions/ko/moves/243
+594,드래곤해머,드래곤,물리,90,100,15,접촉,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/594
+504,드럼어택,풀,물리,80,100,10,,상대 1마리,상대의 스피드를 1랭크 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/504
+245,회전부리,비행,물리,80,100,20,접촉,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/245
+246,드릴라이너,땅,물리,80,95,12,접촉,상대 1마리,급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/246
+59,드레인키스,페어리,특수,50,100,12,접촉,상대 1마리,상대에게 준 데미지의 3/4만큼 자신의 HP를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/59
+247,드레인펀치,격투,물리,75,100,12,접촉펀치,상대 1마리,상대에게 준 데미지의 1/2만큼 자신의 HP를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/247
+548,나이트버스트,악,특수,90,95,12,,상대 1마리,40% 확률로 상대의 명중률을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/548
+61,나이트헤드,고스트,특수,-,100,16,,상대 1마리,상대 HP에 50데미지를 준다.,https://gamewith.ai/pokemon-champions/ko/moves/61
+253,니트로차지,불꽃,물리,50,100,20,접촉,상대 1마리,자신의 스피드를 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/253
+441,니들가드,풀,변화,-,-,8,,자신,사용한 턴 동안 상대의 기술로부터 몸을 보호하며 접촉 기술로 공격한 상대 최대 HP의 1/8만큼 데미지를 준다. 연속해서 사용하면 성공률이 이전에 사용했을 때의 1/3이 된다.,https://gamewith.ai/pokemon-champions/ko/moves/441
+255,고양이돈받기,노말,물리,40,100,20,,상대 1마리,전투가 끝난 후에 돈을 받을 수 있다.,https://gamewith.ai/pokemon-champions/ko/moves/255
+699,찍찍베기,노말,물리,20,90,12,접촉베기,상대 1마리,1~10회 연속으로 공격한다. 도중에 빗나가면 공격이 끝난다.,https://gamewith.ai/pokemon-champions/ko/moves/699
+565,하이드로캐논,물,특수,150,90,8,,상대 1마리,사용한 다음 턴에 자신은 반동 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/565
+720,하이드로스팀,물,특수,80,100,15,,상대 1마리,"햇살이 강할 때에도 물 기술의 위력 반감을 받지 않고, 위력이 1.5배가 된다. 자신이 얼음 상태일 때에도 사용할 수 있으며, 사용하면 얼음 상태가 낫는다. 상대의 얼음 상태를 낫게 한다.",https://gamewith.ai/pokemon-champions/ko/moves/720
+67,하이드로펌프,물,특수,110,80,8,,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/67
+687,하이퍼드릴,노말,물리,100,100,5,접촉,상대 1마리,상대의 방어하기나 엇갈리기 등을 무시한다.,https://gamewith.ai/pokemon-champions/ko/moves/687
+68,하이퍼보이스,노말,특수,90,100,12,소리,상대 전체,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/68
+260,가위자르기,노말,물리,-,30,8,접촉,상대 1마리,상대를 기절시킨다. 명중률은 30%로 고정된다.,https://gamewith.ai/pokemon-champions/ko/moves/260
+647,해피타임,노말,변화,-,-,30,,아군 전체,전투 후에 얻는 돈이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/647
+697,하바네로엑기스,풀,변화,-,-,16,,상대 1마리,"상대의 방어를 2단계 떨어뜨리고, 공격을 2단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/697
+456,핼러윈,고스트,변화,-,100,20,,상대 1마리,상대를 핼러윈 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/456
+644,하트스왑,에스퍼,변화,-,-,10,,상대 1마리,자신과 상대에게 걸려 있는 능력 변화를 서로 맞바꾼다.,https://gamewith.ai/pokemon-champions/ko/moves/644
+563,하드플랜트,풀,특수,150,90,8,,상대 1마리,사용한 다음 턴에 자신은 반동 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/563
+738,하드프레스,강철,물리,-,100,12,접촉,상대 1마리,상대의 남은 HP가 많을수록 위력이 올라간다. (위력은 1~100),https://gamewith.ai/pokemon-champions/ko/moves/738
+452,배턴터치,노말,변화,-,-,20,,자신,"다른 지닌 포켓몬과 교체한다. 능력 변화, 대타출동 등을 그 포켓몬이 이어받는다.",https://gamewith.ai/pokemon-champions/ko/moves/452
+74,거품광선,물,특수,65,100,20,,상대 1마리,10% 확률로 상대의 스피드를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/74
+716,배리어러시,에스퍼,물리,90,90,12,접촉,상대 1마리,자신의 방어를 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/716
+267,불릿펀치,강철,물리,40,100,20,접촉펀치,상대 1마리,반드시 선제공격할 수 있다. (우선도 +1),https://gamewith.ai/pokemon-champions/ko/moves/267
+66,바크아웃,악,특수,55,95,16,소리,상대 전체,상대의 특수공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/66
+75,파라볼라차지,전기,특수,65,100,20,,전체,상대에게 준 데미지의 1/2만큼 자신의 HP를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/75
+736,파워풀에지,바위,물리,95,100,5,접촉베기,상대 1마리,방어하고 있는 상대에게 공격할 수 있다.,https://gamewith.ai/pokemon-champions/ko/moves/736
+268,파워휩,풀,물리,120,85,12,접촉,상대 1마리,일반 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/268
+457,파워셰어,에스퍼,변화,-,-,12,,상대 1마리,자신과 상대의 공격과 특수공격 수치를 각각 더해서 1/2씩 나눠 갖는다.,https://gamewith.ai/pokemon-champions/ko/moves/457
+657,파워시프트,노말,변화,-,-,10,,자신,자신은 공방반전 상태가 된다. 랭크 변화는 바뀌지 않는다.,https://gamewith.ai/pokemon-champions/ko/moves/657
+76,파워젬,바위,특수,80,100,20,,상대 1마리,평범한 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/76
+458,파워스왑,에스퍼,변화,-,-,12,,상대 1마리,"자신의 공격, 특수공격 능력 변화를 상대의 공격, 특수공격 능력 변화와 바꾼다.",https://gamewith.ai/pokemon-champions/ko/moves/458
+459,파워트릭,에스퍼,변화,-,-,12,,자신,자신은 공방반전 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/459
+269,히트스탬프,불꽃,물리,-,100,12,접촉,상대 1마리,"자신이 상대보다 무거울수록 위력이 올라간다. (위력은 40~120) 상대의 무게가 자신의 1/5 이하면 120, 1/4 이하면 100, 1/3 이하면 80, 1/2 이하면 60, 1/2 초과면 40이 된다. 작아지기 상태인 상대에게는 위력이 2배가 되며 반드시 명중한다.",https://gamewith.ai/pokemon-champions/ko/moves/269
+618,깜짝헤드,불꽃,특수,150,100,5,,전체,주위의 포켓몬이 대상. 자신의 HP를 최대 HP의 절반(소수점 이하 올림)만큼 줄인다. 「방어」 등으로 기술이 막혔을 경우에도 HP가 줄어든다.,https://gamewith.ai/pokemon-champions/ko/moves/618
+462,벌크업,격투,변화,-,-,20,,자신,"자신의 공격, 방어를 1단계 올린다.",https://gamewith.ai/pokemon-champions/ko/moves/462
+463,패스트가드,격투,변화,-,-,16,,아군 필드,사용한 턴 동안 자신과 같은 편을 선제 기술로부터 보호한다.,https://gamewith.ai/pokemon-champions/ko/moves/463
+600,페어리록,페어리,변화,-,-,12,,전체,필드의 전원을 페어리록 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/600
+715,페이탈클로,독,물리,80,100,16,접촉베기,상대 1마리,"30% 확률로 상대를 독, 마비, 잠듦 중 하나의 상태로 만든다.",https://gamewith.ai/pokemon-champions/ko/moves/715
+273,페인트,노말,물리,30,100,12,,상대 1마리,"방어, 판별 등의 효과를 해제하고 공격한다.",https://gamewith.ai/pokemon-champions/ko/moves/273
+465,깃털댄스,비행,변화,-,100,16,춤,상대 1마리,상대의 공격을 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/465
+549,포톤가이저,에스퍼,특수,100,100,5,,상대 1마리,자신의 공격과 특수공격 능력치 중 높은 쪽으로 데미지를 계산한다. 상대의 특성의 영향을 받지 않고 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/549
+276,플라잉프레스,격투,물리,100,95,12,접촉,상대 1마리,이 기술의 타입과 비행타입 두 타입의 상성을 종합하여 데미지가 결정된다. 작아지기 상태인 상대에게는 위력이 2배가 되며 반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/276
+467,흔들흔들댄스,노말,변화,-,100,20,춤,전체,자신을 제외한 필드의 전원을 혼란 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/467
+468,플라워가드,페어리,변화,-,-,10,,전체,풀타입 포켓몬의 방어를 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/468
+602,플라워힐,페어리,변화,-,-,10,,상대 1마리,대상 포켓몬의 HP를 최대 HP의 1/2 회복한다. 그래스필드일 때는 최대 HP의 2/3 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/602
+79,프리즈드라이,얼음,특수,70,100,20,,상대 1마리,물타입인 상대에게도 효과가 굉장해진다.,https://gamewith.ai/pokemon-champions/ko/moves/79
+555,프리즈볼트,얼음,물리,140,90,5,,상대 1마리,2번째 턴에 공격한다. 30% 확률로 상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/555
+604,플뢰르캐논,페어리,특수,130,90,5,,상대 1마리,자신의 특수공격이 2단계 떨어진다.,https://gamewith.ai/pokemon-champions/ko/moves/604
+680,플레어송,불꽃,특수,80,100,12,소리,상대 1마리,자신의 특수공격을 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/680
+277,플레어드라이브,불꽃,물리,120,100,16,접촉,상대 1마리,준 데미지의 1/3만큼 자신도 데미지를 입는다. 10% 확률로 상대를 화상 상태로 만든다. 사용하면 자신의 얼음 상태를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/277
+564,블라스트번,불꽃,특수,150,90,8,,상대 1마리,사용한 다음 턴에 자신은 반동 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/564
+724,블러드문,노말,특수,140,100,5,,상대 1마리,이 기술은 2턴 연속으로 사용할 수 없다.,https://gamewith.ai/pokemon-champions/ko/moves/724
+611,블리자드랜스,얼음,물리,120,100,5,,상대 전체,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/611
+278,브레이크클로,노말,물리,75,95,12,접촉베기,상대 1마리,50% 확률로 상대의 방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/278
+279,블레이즈킥,불꽃,물리,85,90,12,접촉,상대 1마리,10% 확률로 상대를 화상 상태로 만든다. 급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/279
+729,브레이브차지,에스퍼,변화,-,-,15,,자신,자신의 상태이상을 회복한다. 자신의 특수공격과 특수방어를 각각 1단계씩 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/729
+280,브레이브버드,비행,물리,120,100,16,접촉,상대 1마리,준 데미지의 1/3만큼 자신도 데미지를 입는다.,https://gamewith.ai/pokemon-champions/ko/moves/280
+510,블로킹,악,변화,-,100,10,,자신,반드시 선제공격할 수 있다(우선도 +4). 그 턴 동안 상대의 공격 기술을 받지 않는다. 연속으로 쓰면 성공률이 3분의 1 → 9분의 1 …으로 감소한다. 직접 공격을 해온 상대의 공격을 2랭크 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/510
+552,플라스마피스트,전기,물리,100,100,15,접촉펀치,상대 1마리,그 턴 동안 모든 노말타입 기술을 전기타입으로 바꾼다.,https://gamewith.ai/pokemon-champions/ko/moves/552
+550,프리즘레이저,에스퍼,특수,160,100,10,,상대 1마리,사용한 다음 턴에는 행동할 수 없다.,https://gamewith.ai/pokemon-champions/ko/moves/550
+281,프레젠트,노말,물리,-,90,15,,상대 1마리,"랜덤으로 위력이 40, 80, 120이 된다. 최대 HP의 1/4을 회복할 때도 있다.",https://gamewith.ai/pokemon-champions/ko/moves/281
+83,오물공격,독,특수,65,100,20,,상대 1마리,30% 확률로 상대를 독 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/83
+84,오물폭탄,독,특수,90,100,12,탄환,상대 1마리,30% 확률로 상대를 독 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/84
+82,오물웨이브,독,특수,95,100,12,,전체,10% 확률로 상대를 독 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/82
+283,헤비봄버,강철,물리,-,100,12,접촉,상대 1마리,"자신이 상대보다 무거울수록 위력이 올라간다. (위력은 40~120) 상대의 무게가 자신의 1/5 이하면 120, 1/4 이하면 100, 1/3 이하면 80, 1/2 이하면 60, 1/2 초과면 40이 된다. 작아지기 상태인 상대에게는 위력이 2배가 되며 반드시 명중한다.",https://gamewith.ai/pokemon-champions/ko/moves/283
+85,베놈쇼크,독,특수,65,100,12,,상대 1마리,"상대가 독, 맹독 상태인 경우 위력이 2배가 된다.",https://gamewith.ai/pokemon-champions/ko/moves/85
+470,베놈트랩,독,변화,-,100,20,,상대 전체,"독 상태, 맹독 상태인 상대의 공격, 특수공격, 스피드를 1랭크씩 떨어뜨린다.",https://gamewith.ai/pokemon-champions/ko/moves/470
+698,휠스핀,강철,물리,100,100,5,접촉,상대 1마리,자신의 스피드가 2단계 떨어진다.,https://gamewith.ai/pokemon-champions/ko/moves/698
+591,뼈다귀부메랑,땅,물리,50,90,10,,상대 1마리,1턴에 2번 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/591
+475,바디퍼지,강철,변화,-,-,15,,자신,자신의 스피드를 2랭크 올린다. 자신의 체중이 100kg 가벼워진다.,https://gamewith.ai/pokemon-champions/ko/moves/475
+535,바디프레스,격투,물리,80,100,12,접촉,상대 1마리,이 기술은 공격이 아닌 방어 수치에 따라 데미지가 결정된다.,https://gamewith.ai/pokemon-champions/ko/moves/535
+567,볼트태클,전기,물리,120,100,16,접촉,상대 1마리,준 데미지의 1/3만큼 자신도 데미지를 입는다. 10% 확률로 상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/567
+89,볼트체인지,전기,특수,70,100,20,,상대 1마리,공격한 다음 다른 지닌 포켓몬과 교체한다.,https://gamewith.ai/pokemon-champions/ko/moves/89
+285,본러시,땅,물리,30,90,12,,상대 1마리,2~5회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/285
+284,포이즌테일,독,물리,50,100,25,접촉,상대 1마리,10% 확률로 상대를 독 상태로 만든다. 급소에 맞기 쉽다. (급소 랭크 +1),https://gamewith.ai/pokemon-champions/ko/moves/284
+580,폴터가이스트,고스트,물리,110,90,8,,상대 1마리,상대가 도구를 지니고 있지 않은 경우 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/580
+628,마그마스톰,불꽃,특수,100,75,5,,상대 1마리,4~5턴 동안 매 턴 종료 후 최대 HP의 1/8 데미지를 준다. 그동안 고스트 타입 이외에는 교체할 수 없다.,https://gamewith.ai/pokemon-champions/ko/moves/628
+90,매지컬샤인,페어리,특수,80,100,12,,상대 전체,평범한 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/90
+91,매지컬플레임,불꽃,특수,75,100,12,,상대 1마리,상대의 특수공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/91
+92,매지컬리프,풀,특수,60,-,20,,상대 1마리,반드시 명중한다.,https://gamewith.ai/pokemon-champions/ko/moves/92
+478,매직코트,에스퍼,변화,-,-,15,,자신,"반드시 선제공격할 수 있다(우선도 +4). 사용한 턴 동안, 자신이 받는 변화 기술을 사용한 상대에게 되받아친다.",https://gamewith.ai/pokemon-champions/ko/moves/478
+479,매직룸,에스퍼,변화,-,-,12,,필드 전체,5턴 동안 전체 필드를 매직룸 상태로 만든다. 매직룸 상태에서 다시 사용하면 매직룸 상태가 종료된다.,https://gamewith.ai/pokemon-champions/ko/moves/479
+93,머드샷,땅,특수,55,95,16,,상대 1마리,상대의 스피드를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/93
+292,마하펀치,격투,물리,40,100,20,접촉펀치,상대 1마리,반드시 선제공격할 수 있다.(우선도 +1),https://gamewith.ai/pokemon-champions/ko/moves/292
+293,멀티어택,노말,물리,120,100,10,접촉,상대 1마리,지니고 있는 메모리에 따라 타입이 바뀐다.,https://gamewith.ai/pokemon-champions/ko/moves/293
+294,바늘미사일,벌레,물리,25,95,20,,상대 1마리,2~5회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/294
+573,미스트버스트,페어리,특수,100,100,8,폭발,전체,사용하면 자신은 기절하게 된다. 미스트필드 상태의 효과를 받고 있는 경우 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/573
+485,미스트필드,페어리,변화,-,-,12,,필드 전체,5턴 동안 전체 필드를 미스트필드 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/485
+616,미스트볼,에스퍼,특수,95,100,5,탄환,상대 1마리,50% 확률로 상대의 특수공격을 1랭크 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/616
+98,미러코트,에스퍼,특수,-,100,20,,특수,사용한 턴에 상대의 특수 기술로 입은 데미지를 2배로 돌려준다.,https://gamewith.ai/pokemon-champions/ko/moves/98
+488,미러타입,노말,변화,-,-,16,,상대 1마리,자신의 타입을 상대와 같은 타입으로 바꾼다.,https://gamewith.ai/pokemon-champions/ko/moves/488
+597,우유마시기,노말,변화,-,-,5,,자신,최대 HP의 절반을 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/597
+533,무한다이빔,드래곤,특수,160,90,5,,상대 1마리,사용한 다음 턴에는 행동할 수 없다.,https://gamewith.ai/pokemon-champions/ko/moves/533
+100,문포스,페어리,특수,95,100,16,,상대 1마리,10% 확률로 상대의 특수공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/100
+299,메가톤킥,노말,물리,120,75,8,접촉,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/299
+300,메가톤펀치,노말,물리,80,85,20,접촉펀치,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/300
+103,메가드레인,풀,특수,40,100,15,,상대 1마리,상대에게 준 데미지의 절반만큼 HP를 회복한다.,https://gamewith.ai/pokemon-champions/ko/moves/103
+301,메가혼,벌레,물리,120,85,12,접촉,상대 1마리,일반적인 공격 기술.,https://gamewith.ai/pokemon-champions/ko/moves/301
+302,메탈클로,강철,물리,50,95,35,접촉,상대 1마리,10% 확률로 자신의 공격이 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/moves/302
+303,메탈버스트,강철,물리,-,100,12,,특수,사용한 턴에 상대의 기술로 입은 데미지를 1.5배로 돌려준다.,https://gamewith.ai/pokemon-champions/ko/moves/303
+546,메테오드라이브,강철,물리,100,100,5,접촉,상대 1마리,상대의 특성의 영향을 받지 않고 공격할 수 있다.,https://gamewith.ai/pokemon-champions/ko/moves/546
+571,메테오빔,바위,특수,120,90,12,,상대 1마리,사용한 턴에 차지 상태가 되어 다음 턴에 공격한다. 사용한 턴에 자신의 특수공격을 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/571
+490,헤롱헤롱,노말,변화,-,100,16,,상대 1마리,상대를 헤롱헤롱 상태로 만든다. 성별이 같거나 불명인 상대에게는 실패한다.,https://gamewith.ai/pokemon-champions/ko/moves/490
+575,라이징볼트,전기,특수,70,100,20,,상대 1마리,"상대가 일렉트릭필드 상태의 효과를 받고 있는 경우, 위력이 2배가 된다.",https://gamewith.ai/pokemon-champions/ko/moves/575
+109,러스터캐논,강철,특수,80,100,12,,상대 1마리,10% 확률로 상대의 특수방어를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/109
+617,러스터퍼지,에스퍼,특수,95,100,5,,상대 1마리,50% 확률로 상대의 특수방어를 1랭크 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/617
+495,리사이클,노말,변화,-,-,12,,자신,자신이 마지막으로 소비한 도구를 원래 상태로 돌려놓아 다시 지닌다.,https://gamewith.ai/pokemon-champions/ko/moves/495
+496,리플렉터,에스퍼,변화,-,-,20,,아군 필드,5턴 동안 같은 편 필드를 리플렉터 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/496
+308,리벤지,격투,물리,60,100,10,접촉,상대 1마리,반드시 후공이 된다(우선도 -4). 그 턴에 상대로부터 데미지를 받았다면 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/308
+110,리프스톰,풀,특수,130,90,8,,상대 1마리,자신의 특수공격을 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/110
+307,리프블레이드,풀,물리,90,100,16,접촉베기,상대 1마리,급소업+1로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/307
+694,루미나콜리전,에스퍼,특수,80,100,12,,상대 1마리,상대의 특수방어를 2단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/694
+717,레이징불,노말,물리,90,100,12,접촉,상대 1마리,"자신의 폼에 따라 기술의 타입이 바뀐다. 상대 필드의 리플렉터, 빛의장막, 오로라베일 상태를 해제하고 공격한다.",https://gamewith.ai/pokemon-champions/ko/moves/717
+312,로켓박치기,노말,물리,130,100,10,접촉,상대 1마리,1턴째에 머리를 집어넣고 방어를 1단계 올린다. 2턴째에 상대를 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/312
+498,록온,노말,변화,-,-,8,,상대 1마리,자신은 록온 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/moves/498
+499,록커트,바위,변화,-,-,20,,자신,자신의 스피드를 2단계 올린다.,https://gamewith.ai/pokemon-champions/ko/moves/499
+313,록블라스트,바위,물리,25,90,12,탄환,상대 1마리,2~5회 연속으로 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/313
+311,로킥,격투,물리,65,100,20,접촉,상대 1마리,상대의 스피드를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/311
+500,와이드가드,바위,변화,-,-,12,,아군 필드,사용한 턴 동안 같은 편 전원을 공격하는 기술로부터 몸을 보호한다.,https://gamewith.ai/pokemon-champions/ko/moves/500
+568,와이드포스,에스퍼,특수,80,100,12,,상대 1마리,사이코필드 상태의 효과를 받고 있는 경우 위력이 1.5배가 되며 상대 전체를 공격한다.,https://gamewith.ai/pokemon-champions/ko/moves/568
+528,와이드브레이커,드래곤,물리,60,100,16,접촉,상대 전체,상대의 공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/moves/528
+314,와일드볼트,전기,물리,90,100,16,접촉,상대 1마리,준 데미지의 1/4만큼 자신도 데미지를 입는다.,https://gamewith.ai/pokemon-champions/ko/moves/314
+522,원더스팀,페어리,특수,90,95,10,,상대 1마리,20% 확률로 상대를 1~4턴 동안 혼란 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/moves/522
+503,원더룸,에스퍼,변화,-,-,12,,필드 전체,5턴 동안 전체 필드를 원더룸 상태로 만든다. 원더룸 상태에서 다시 사용하면 원더룸 상태가 종료된다.,https://gamewith.ai/pokemon-champions/ko/moves/503

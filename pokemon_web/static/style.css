@@ -1,0 +1,89 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: "Segoe UI", "Malgun Gothic", sans-serif; color: #222; background: #f5f6f8; }
+a { color: #2c5fb3; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.topbar { display: flex; align-items: center; gap: 20px; background: #2b3a55; color: #fff; padding: 12px 20px; }
+.topbar .logo { color: #fff; font-weight: 700; font-size: 18px; }
+.topbar nav a { color: #dfe6f3; margin-right: 14px; }
+.topbar nav a:hover { color: #fff; }
+
+.container { max-width: 1100px; margin: 0 auto; padding: 20px; }
+.foot { text-align: center; color: #888; font-size: 12px; padding: 24px; }
+h1 { font-size: 24px; margin: 10px 0 16px; }
+h2 { font-size: 18px; margin: 22px 0 10px; border-left: 4px solid #2b3a55; padding-left: 8px; }
+.desc { color: #666; }
+small.jp { color: #999; font-size: 14px; font-weight: 400; }
+
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; margin: 16px 0; }
+.card { background: #fff; border: 1px solid #e2e5ea; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; gap: 6px; }
+.card b { font-size: 16px; }
+.card span { color: #777; font-size: 13px; }
+.card:hover { border-color: #2b3a55; text-decoration: none; }
+
+.filters { display: flex; gap: 8px; margin: 12px 0 18px; flex-wrap: wrap; }
+.filters input, .filters select { padding: 7px 10px; border: 1px solid #ccc; border-radius: 6px; font-size: 14px; }
+.filters button { padding: 7px 16px; border: 0; border-radius: 6px; background: #2b3a55; color: #fff; cursor: pointer; }
+
+table.grid { width: 100%; border-collapse: collapse; background: #fff; border: 1px solid #e2e5ea; border-radius: 8px; overflow: hidden; }
+table.grid th, table.grid td { padding: 8px 10px; border-bottom: 1px solid #eef0f3; text-align: left; font-size: 14px; }
+table.grid thead th { background: #f0f2f6; font-weight: 600; }
+table.grid tbody tr:hover { background: #fafbfc; }
+.num { text-align: right; font-variant-numeric: tabular-nums; }
+.bold { font-weight: 700; }
+table.small td, table.small th { padding: 6px 10px; }
+.stats td { text-align: center; }
+.eff-txt { color: #555; font-size: 13px; }
+
+.type-badge { display: inline-block; color: #fff; font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 10px; margin-right: 3px; text-shadow: 0 1px 1px rgba(0,0,0,.25); }
+
+.abil-list { line-height: 1.7; }
+.eff { display: flex; flex-direction: column; gap: 8px; }
+.eff .lab { display: inline-block; width: 48px; font-weight: 700; }
+.lab.weak { color: #c0392b; }
+.lab.resist { color: #2e7d32; }
+.lab.immune { color: #555; }
+.none { color: #aaa; }
+.mult { font-size: 12px; color: #666; margin-right: 8px; }
+.mult.mhigh { color: #c0392b; font-weight: 700; }
+.mult.mlow { color: #2e7d32; }
+.mult.m0 { color: #555; font-weight: 700; }
+
+.chart-wrap { overflow-x: auto; }
+table.chart td, table.chart th { text-align: center; padding: 4px 6px; font-size: 12px; white-space: nowrap; }
+table.chart .corner { font-size: 11px; color: #666; }
+table.chart .cell.chigh { background: #fde0dc; color: #c0392b; font-weight: 700; }
+table.chart .cell.clow { background: #e3f1e4; color: #2e7d32; }
+table.chart .cell.c0 { background: #e8e8e8; color: #333; font-weight: 700; }
+
+/* 보강된 검색 폼 */
+form.search { background:#fff; border:1px solid #e2e5ea; border-radius:8px; padding:14px 16px; margin-bottom:18px; }
+form.search .frow { display:flex; align-items:center; gap:8px; flex-wrap:wrap; padding:7px 0; border-bottom:1px dashed #eef0f3; }
+form.search .frow:last-child { border-bottom:0; }
+form.search .frow > label { width:170px; min-width:170px; font-weight:600; color:#444; font-size:14px; }
+form.search input, form.search select { padding:6px 9px; border:1px solid #ccc; border-radius:6px; font-size:14px; }
+form.search input[type=text], form.search input[list] { min-width:150px; }
+.resist-row { display:inline-flex; align-items:center; gap:3px; margin-right:6px; }
+.resist-row .x { border:0; background:#eee; border-radius:4px; cursor:pointer; padding:2px 7px; }
+.sort-slot { display:inline-flex; gap:3px; margin-right:8px; }
+button.add { border:1px dashed #2b3a55; background:#f3f6fc; color:#2b3a55; border-radius:6px; padding:6px 10px; cursor:pointer; }
+button.primary { padding:8px 22px; border:0; border-radius:6px; background:#2b3a55; color:#fff; cursor:pointer; font-size:15px; }
+a.reset { color:#888; align-self:center; margin-left:8px; }
+
+/* AND/OR · 포함/제외 스위치 */
+.andor { display:inline-flex; align-items:center; cursor:pointer; user-select:none; }
+.andor input { display:none; }
+.andor .track { position:relative; display:inline-flex; border:1px solid #2b3a55; border-radius:14px; overflow:hidden; font-size:12px; font-weight:700; line-height:1; }
+.andor .opt { position:relative; z-index:1; padding:5px 12px; transition:color .15s; }
+.andor .opt.and { color:#fff; }
+.andor .opt.or { color:#2b3a55; }
+.andor .knob { position:absolute; top:0; left:0; width:50%; height:100%; background:#2b3a55; border-radius:14px; transition:left .15s; z-index:0; }
+.andor input:checked ~ .track .knob { left:50%; }
+.andor input:checked ~ .track .opt.and { color:#2b3a55; }
+.andor input:checked ~ .track .opt.or { color:#fff; }
+
+/* 검색 폼: 라벨+스위치는 한 줄 고정, 값 입력들만 .fields 안에서 줄바꿈 */
+form.search .frow > label { margin-right:4px; }
+form.search .andor { margin-right:6px; flex:0 0 auto; }
+form.search .fields { display:flex; flex-wrap:wrap; gap:6px; flex:1 1 320px; align-items:center; }
+form.search .fields input.mv { min-width:0; width:120px; flex:0 1 130px; }

@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% from "_macros.html" import tbadge %}
+{% block title %}기술 검색{% endblock %}
+{% block content %}
+<h1>기술 검색 ({{ rows|length }})</h1>
+
+<form class="search" method="get" action="/moves">
+  <div class="frow">
+    <label>이름</label>
+    <input type="text" name="q" value="{{ q }}" placeholder="기술명 일부">
+  </div>
+
+  <div class="frow">
+    <label>타입</label>
+    <select name="type">
+      <option value="">전체 타입</option>
+      {% for t in types %}<option value="{{ t }}" {{ 'selected' if t==type }}>{{ t }}</option>{% endfor %}
+    </select>
+  </div>
+
+  <div class="frow">
+    <label>분류</label>
+    <select name="category">
+      <option value="">전체 분류</option>
+      {% for ct in categories %}<option value="{{ ct }}" {{ 'selected' if ct==category }}>{{ ct }}</option>{% endfor %}
+    </select>
+  </div>
+
+  <div class="frow">
+    <label>정렬 (위에서부터 우선)</label>
+    <span class="fields">
+      {% for i in range(3) %}
+      <span class="sort-slot">
+        <select name="sort_col">
+          <option value="">정렬{{ i+1 }} 없음</option>
+          {% for c in sort_columns %}<option value="{{ c }}" {{ 'selected' if sorts_sel|length > i and sorts_sel[i][0]==c }}>{{ c }}</option>{% endfor %}
+        </select>
+        <select name="sort_dir">
+          <option value="asc" {{ 'selected' if sorts_sel|length > i and sorts_sel[i][1]=='asc' }}>순(오름)</option>
+          <option value="desc" {{ 'selected' if sorts_sel|length > i and sorts_sel[i][1]=='desc' }}>역순(내림)</option>
+        </select>
+      </span>
+      {% endfor %}
+    </span>
+  </div>
+
+  <div class="frow">
+    <button type="submit" class="primary">검색</button>
+    <a class="reset" href="/moves">초기화</a>
+  </div>
+</form>
+
+<table class="grid">
+  <thead><tr><th>기술명</th><th>타입</th><th>분류</th><th class="num">위력</th><th class="num">명중</th><th class="num">PP</th><th>대상</th></tr></thead>
+  <tbody>
+    {% for r in rows %}
+    <tr>
+      <td><a href="/moves/{{ r['ID'] }}">{{ r['기술명'] }}</a></td>
+      <td>{{ tbadge(r['타입']) }}</td><td>{{ r['분류'] }}</td>
+      <td class="num">{{ r['위력'] }}</td><td class="num">{{ r['명중'] }}</td><td class="num">{{ r['PP'] }}</td>
+      <td>{{ r['대상'] }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

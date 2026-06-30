@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% from "_macros.html" import tbadge %}
+{% block title %}타입 상성표{% endblock %}
+{% block content %}
+<h1>타입 상성표</h1>
+<p class="desc">행 = 공격 타입, 열 = 방어 타입. 값은 데미지 배수입니다. (가로로 스크롤하세요)</p>
+<div class="chart-wrap">
+<table class="grid chart">
+  <thead>
+    <tr><th class="corner">공격 \ 방어</th>
+      {% for d in types %}<th class="vert">{{ tbadge(d) }}</th>{% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for atk in types %}
+    <tr>
+      <th class="row-h">{{ tbadge(atk) }}</th>
+      {% for d in types %}
+        {% set v = matrix.get((atk, d), 1) %}
+        <td class="cell {{ 'c0' if v==0 else ('clow' if v<1 else ('chigh' if v>1 else '')) }}">{{ '%g' % v }}</td>
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endblock %}

@@ -1,0 +1,314 @@
+﻿ID,특성명,효과,상세URL
+1,아이스바디,눈 상태일 때 턴 종료 시 최대 HP의 1/16만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/abilities/1
+2,악취,기술로 데미지를 주었을 때 10% 확률로 상대를 풀죽게 한다.,https://gamewith.ai/pokemon-champions/ko/abilities/2
+3,두꺼운지방,불꽃타입과 얼음타입 기술로 입는 데미지가 반감된다.,https://gamewith.ai/pokemon-champions/ko/abilities/3
+4,시간벌기,같은 우선도를 가진 기술 중 가장 마지막에 기술을 사용하게 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/4
+5,애널라이즈,턴의 가장 마지막에 기술을 사용하면 기술의 위력이 1.3배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/5
+6,심술꾸러기,능력 변화가 역전해서 올라갈 때는 떨어지고 떨어질 때는 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/6
+7,젖은접시,비 상태일 때 턴 종료 시 최대 HP의 1/16만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/abilities/7
+8,잔비,등장 시 5턴 동안 비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/8
+9,개미지옥,"비행타입, 고스트타입, 부유 특성의 포켓몬 이외에는 도망치거나 교체할 수 없게 된다.",https://gamewith.ai/pokemon-champions/ko/abilities/9
+10,아로마베일,"자신과 같은 편은 헤롱헤롱, 도발, 연속 불가, 기술봉인, 회복봉인, 앙코르 상태가 되지 않는다.",https://gamewith.ai/pokemon-champions/ko/abilities/10
+11,위협,등장 시 상대의 공격을 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/abilities/11
+12,돌머리,자신까지 데미지를 입는 기술을 사용해도 HP가 줄지 않는다. 발버둥의 반동은 받는다.,https://gamewith.ai/pokemon-champions/ko/abilities/12
+13,짓궂은마음,변화 기술의 우선도가 1단계 올라간다. 단 악타입에게는 효과가 없다.,https://gamewith.ai/pokemon-champions/ko/abilities/13
+14,치유의마음,턴 종료 시 같은 편의 상태 이상을 50% 확률로 회복시킨다.,https://gamewith.ai/pokemon-champions/ko/abilities/14
+15,일루전,지닌 포켓몬 중 가장 마지막에 있는 포켓몬의 모습으로 등장한다. 타입과 능력은 바뀌지 않는다. 기술로 데미지를 입으면 원래대로 돌아온다.,https://gamewith.ai/pokemon-champions/ko/abilities/15
+16,색안경,효과가 별로인 기술이 통상의 위력이 된다. 1/4인 경우에는 1/2이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/16
+17,촉촉바디,비 상태일 때 턴 종료 시 상태 이상이 회복된다.,https://gamewith.ai/pokemon-champions/ko/abilities/17
+18,에어록,모든 포켓몬에 대한 날씨의 영향이 사라진다.,https://gamewith.ai/pokemon-champions/ko/abilities/18
+19,오라브레이크,"'페어리오라', '다크오라'의 효과가 반전되어 위력의 3/4배가 된다.",https://gamewith.ai/pokemon-champions/ko/abilities/19
+20,통찰,등장 시 상대가 지니고 있는 도구를 통찰할 수 있다.,https://gamewith.ai/pokemon-champions/ko/abilities/20
+21,부자유친,부모와 자식이 각각 1번씩 공격한다. 자식은 부모의 0.25배 위력으로 공격한다. 기술의 추가 효과는 2회분 발동한다.,https://gamewith.ai/pokemon-champions/ko/abilities/21
+22,끝의대지,배틀에 나왔을 때 날씨를 '햇살이 매우 강함'으로 만든다. 통상의 쾌청에 더해 물타입의 공격이 무효가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/22
+23,괴력집게,상대의 기술이나 특성에 의해 공격이 떨어지지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/23
+24,그림자밟기,고스트타입이 아닌 상대는 교체할 수 없게 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/24
+25,가속,턴 종료 시 스피드가 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/25
+26,단단한발톱,접촉 기술의 위력이 1.3배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/26
+27,틀깨기,상대의 특성에 상관없이 기술을 사용할 수 있다. 예외 되는 특성도 있다.,https://gamewith.ai/pokemon-champions/ko/abilities/27
+28,승기,상대에 의해 능력이 떨어지면 특수공격이 2단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/28
+29,전투무장,상대의 공격이 급소에 맞지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/29
+30,곡예,지니고 있는 도구가 없어지면 스피드가 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/30
+31,괴짜,눈앞의 포켓몬으로 변신한다. HP 이외의 스테이터스도 똑같아진다.,https://gamewith.ai/pokemon-champions/ko/abilities/31
+32,옹골참,HP가 꽉 찼을 때 일격에 기절할 듯한 기술로 데미지를 입으면 HP를 1 남기고 버틴다. 일격필살 기술의 효과도 받지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/32
+33,옹골찬턱,무는 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/33
+34,건조피부,물타입 기술의 효과를 받지 않으며 최대 HP의 1/4만큼 HP를 회복하지만 불꽃타입 기술로 입는 데미지가 1.25배가 된다. 비 상태일 때 턴 종료 시 최대 HP의 1/8만큼 HP를 회복하지만 쾌청 상태일 때 턴 종료 시 최대 HP의 1/8만큼 HP가 줄어든다.,https://gamewith.ai/pokemon-champions/ko/abilities/34
+35,위험예지,등장 시 상대가 자신에게 효과가 굉장한 기술이나 일격필살 기술을 가지고 있는지를 감지한다.,https://gamewith.ai/pokemon-champions/ko/abilities/35
+36,배짱,노말타입과 격투타입 기술을 고스트타입에게 맞힐 수 있다. 위협의 효과도 받지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/36
+37,흡반,상대의 교체시키는 기술이나 도구의 효과를 받지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/37
+38,대운,급소업+1이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/38
+39,공생,같은 편이 도구를 소비하면 자신이 지니고 있는 도구를 같은 편에게 건넨다.,https://gamewith.ai/pokemon-champions/ko/abilities/39
+40,긴장감,상대가 나무열매를 먹지 못하게 한다.,https://gamewith.ai/pokemon-champions/ko/abilities/40
+41,먹보,HP가 1/4일 때 먹는 나무열매를 HP가 1/2일 때 먹어 버린다.,https://gamewith.ai/pokemon-champions/ko/abilities/41
+42,풀모피,필드가 '그래스필드'일 때 방어가 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/42
+43,깨어진갑옷,물리 기술로 데미지를 입으면 방어가 1단계 떨어지고 스피드가 2단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/43
+44,클리어바디,상대의 기술이나 특성에 의해 능력이 떨어지지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/44
+45,급류,HP가 최대 HP의 1/3 이하가 되면 물타입 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/45
+46,근성,상태 이상일 때 공격이 1.5배가 된다. 화상 상태에 의한 물리 기술의 데미지가 반감되는 효과는 무시한다.,https://gamewith.ai/pokemon-champions/ko/abilities/46
+47,재생력,지닌 포켓몬으로 돌아오면 최대 HP의 1/3만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/abilities/47
+48,선파워,쾌청 상태일 때 특수공격이 1.5배가 되지만 턴 종료 시 최대 HP의 1/8만큼 HP가 줄어든다.,https://gamewith.ai/pokemon-champions/ko/abilities/48
+49,조가비갑옷,상대의 공격이 급소에 맞지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/49
+50,자기과신,공격으로 상대를 쓰러뜨리면 공격이 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/50
+51,자연회복,지닌 포켓몬으로 돌아오면 상태 이상이 회복된다.,https://gamewith.ai/pokemon-champions/ko/abilities/51
+52,습기,"전원은 폭발 기술을 사용할 수 없고 폭발하는 특성도 발동하지 않는다. 자폭・대폭발・깜짝헤드・미스트버스트가 실패하고, 유폭이 무효가 된다.",https://gamewith.ai/pokemon-champions/ko/abilities/52
+53,수확,사용한 나무열매를 턴 종료 시 50% 확률로 만들어 낸다. 쾌청 상태일 때는 반드시 만들어 낸다.,https://gamewith.ai/pokemon-champions/ko/abilities/53
+54,유연,마비 상태가 되지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/54
+55,승리의별,자신이나 같은 편의 명중률이 1.1배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/55
+56,자력,강철타입 포켓몬을 교체시키거나 도망칠 수 없게 한다.,https://gamewith.ai/pokemon-champions/ko/abilities/56
+57,하얀연기,상대의 기술이나 특성에 의해 능력이 떨어지지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/57
+58,싱크로,"상대의 기술이나 특성에 의해 독, 맹독, 마비, 화상 상태가 되면 상대도 같은 상태로 만든다.",https://gamewith.ai/pokemon-champions/ko/abilities/58
+59,심록,HP가 최대 HP의 1/3 이하가 되면 풀타입 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/59
+60,스위트베일,"자신과 같은 편은 잠듦, 졸음 상태가 되지 않는다.",https://gamewith.ai/pokemon-champions/ko/abilities/60
+61,쓱쓱,비 상태일 때 스피드가 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/61
+62,스카이스킨,노말타입 기술이 비행타입이 되며 위력이 1.2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/62
+63,스킬링크,연속 기술을 사용하면 최고 횟수로 사용한다.,https://gamewith.ai/pokemon-champions/ko/abilities/63
+64,이판사판,자신까지 데미지를 입는 기술의 위력이 1.2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/64
+65,스나이퍼,급소에 맞혔을 때의 위력이 1.5배가 아닌 2.25배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/65
+66,모래날림,등장 시 5턴 동안 모래바람 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/66
+67,모래헤치기,모래바람 상태일 때 스피드가 2배가 된다. 모래바람으로 인한 데미지를 받지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/67
+68,모래숨기,모래바람 상태일 때 회피율이 1.25배가 된다. 모래바람으로 인한 데미지를 받지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/68
+69,모래의힘,"모래바람 상태일 때 바위, 땅, 강철타입 기술의 위력이 1.3배가 된다. 모래바람으로 인한 데미지를 받지 않는다.",https://gamewith.ai/pokemon-champions/ko/abilities/69
+70,틈새포착,"상대의 빛의장막, 리플렉터, 오로라베일, 신비의부적, 대타출동을 무시하고 기술을 사용할 수 있다.",https://gamewith.ai/pokemon-champions/ko/abilities/70
+71,날카로운눈,상대의 회피율 변화를 무시하고 명중률도 떨어지지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/71
+72,슬로스타트,배틀에 나온 후 5턴 동안 공격과 스피드가 절반이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/72
+73,정의의마음,악타입 기술로 데미지를 입으면 공격이 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/73
+74,정신력,상대의 공격에 풀죽지 않으며 위협의 효과도 받지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/74
+75,정전기,접촉 기술을 받으면 30% 확률로 상대를 마비 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/75
+76,초식,풀타입 기술의 효과를 받지 않으며 공격이 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/76
+77,다크오라,모든 악타입의 기술의 위력이 1.33배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/77
+78,터보블레이즈,상대의 특성을 무시하고 기술을 쓸 수 있다. 공격 후에 받는 효과는 사라지지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/78
+79,내열,불꽃타입 기술로 입는 데미지가 반감된다. 화상 상태의 데미지도 반감된다.,https://gamewith.ai/pokemon-champions/ko/abilities/79
+80,탈피,턴 종료 시 30% 확률로 상태 이상이 회복된다.,https://gamewith.ai/pokemon-champions/ko/abilities/80
+81,달마모드,HP가 절반 이하가 되면 「달마모드」로 변화한다.,https://gamewith.ai/pokemon-champions/ko/abilities/81
+82,단순,능력 변화가 평소의 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/82
+83,우격다짐,공격의 추가 효과가 없어지지만 1.3배의 위력으로 기술을 사용할 수 있다. 반동으로 데미지를 입거나 능력이 떨어지는 효과는 받는다.,https://gamewith.ai/pokemon-champions/ko/abilities/83
+84,천하장사,물리 기술의 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/84
+85,축전,전기타입 기술의 효과를 받지 않으며 최대 HP의 1/4만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/abilities/85
+86,갈지자걸음,혼란 상태일 때 회피율이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/86
+87,저수,물타입 기술의 효과를 받지 않으며 최대 HP의 1/4만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/abilities/87
+88,적응력,자신과 타입이 같은 기술의 위력이 1.5배가 아닌 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/88
+89,테크니션,위력이 60 이하인 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/89
+90,철주먹,펀치 기술의 위력이 1.2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/90
+91,철가시,접촉하는 기술을 받으면 상대의 HP를 최대 HP의 1/8 줄인다.,https://gamewith.ai/pokemon-champions/ko/abilities/91
+92,테라볼티지,상대의 특성을 무시하고 기술을 쓸 수 있다. 공격 후에 받는 효과는 사라지지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/92
+93,델타스트림,등장했을 때 날씨를 「난기류」로 만든다. 비행타입의 약점이 되는 타입의 기술이 통상의 위력이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/93
+94,텔레파시,같은 편의 공격을 회피한다.,https://gamewith.ai/pokemon-champions/ko/abilities/94
+95,기분파,"날씨의 영향을 받아 물타입, 불꽃타입, 얼음타입 중 하나로 변화한다.",https://gamewith.ai/pokemon-champions/ko/abilities/95
+96,천진,상대의 능력 변화를 무시하고 공격할 수 있다. 상대의 능력 변화를 무시하고 공격을 받는다. 스피드는 무시할 수 없다.,https://gamewith.ai/pokemon-champions/ko/abilities/96
+97,하늘의은총,기술의 부가 효과의 확률이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/97
+98,투쟁심,기술의 위력이 성별이 같을 때는 1.25배 다를 때는 0.75배가 된다. 성별이 불명인 경우 평소의 위력이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/98
+99,독수,상대에게 접촉 기술을 맞히면 30% 확률로 독 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/99
+100,독가시,접촉 기술을 받으면 30% 확률로 상대를 독 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/100
+101,독폭주,독 상태가 되면 물리 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/101
+102,트레이스,등장 시 상대의 특성과 같은 특성이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/102
+103,둔감,"헤롱헤롱, 도발 상태가 되지 않으며 위협의 효과도 받지 않는다.",https://gamewith.ai/pokemon-champions/ko/abilities/103
+104,나이트메어,매 턴 잠들어 있는 상대에게 최대 HP의 1/8 데미지를 준다.,https://gamewith.ai/pokemon-champions/ko/abilities/104
+105,게으름,기술을 쓰면 다음 턴에 움직일 수 없게 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/105
+106,도주,바인드 상태가 되어도 교체할 수 있다.,https://gamewith.ai/pokemon-champions/ko/abilities/106
+107,미끈미끈,접촉 기술을 받으면 상대의 스피드를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/abilities/107
+108,열폭주,화상 상태가 되면 특수 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/108
+109,점착,지니고 있는 도구를 상대에게 빼앗기거나 잃어버리지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/109
+110,노가드,서로가 사용하는 기술의 명중률이 100%가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/110
+111,날씨부정,모든 날씨의 영향을 없앤다.,https://gamewith.ai/pokemon-champions/ko/abilities/111
+112,노말스킨,모든 기술이 노말타입이 된다. 위력이 1.2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/112
+113,저주받은바디,기술로 데미지를 입으면 30% 확률로 4턴 동안 상대를 기술봉인 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/113
+114,하드록,효과가 굉장한 기술로 입는 데미지가 3/4이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/114
+115,시작의바다,배틀에 나왔을 때 날씨를 「강한비」로 만든다. 일반적인 비에 더해 불꽃타입의 공격이 무효가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/115
+116,발광,상대의 회피율 변화를 무시하고 명중률도 떨어지지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/116
+117,부풀린가슴,상대의 기술이나 특성에 의해 방어가 떨어지지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/117
+118,배틀스위치,공격을 사용하면 블레이드폼으로 기술 킹실드를 사용하면 실드폼으로 변화한다.,https://gamewith.ai/pokemon-champions/ko/abilities/118
+119,속보,상태 이상일 때 스피드가 1.5배가 된다. 마비 상태의 스피드가 느려지는 효과도 무시한다.,https://gamewith.ai/pokemon-champions/ko/abilities/119
+120,일찍기상,잠듦 상태가 되어도 2배 빠르게 깨어난다.,https://gamewith.ai/pokemon-champions/ko/abilities/120
+121,의욕,물리 기술을 사용할 때 자신의 공격이 1.5배가 되지만 명중률은 0.8배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/121
+122,가뭄,등장 시 5턴 동안 쾌청 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/122
+123,주눅,악타입과 고스트타입과 벌레타입의 기술을 받거나 특성 「위협」을 받으면 스피드가 1랭크 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/123
+124,피뢰침,전기타입 기술을 자신에게 끌어모은다. 그 기술의 효과를 받지 않고 특수공격이 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/124
+125,퍼코트,물리 기술로 입는 데미지가 반감된다.,https://gamewith.ai/pokemon-champions/ko/abilities/125
+126,필터,효과가 굉장한 기술로 입는 데미지가 3/4이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/126
+127,페어리오라,전원의 페어리타입 기술의 위력이 1.33배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/127
+128,페어리스킨,노말타입 기술이 페어리타입이 되며 위력이 1.2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/128
+129,서투름,이 포켓몬이 지니고 있는 도구는 효과가 발생하지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/129
+130,복안,기술의 명중률이 1.3배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/130
+131,불굴의마음,풀이 죽으면 스피드가 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/131
+132,이상한비늘,상태 이상일 때 방어가 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/132
+133,불가사의부적,효과가 굉장한 기술로만 데미지를 받는다.,https://gamewith.ai/pokemon-champions/ko/abilities/133
+134,불면,"잠듦, 졸음 상태가 되지 않는다.",https://gamewith.ai/pokemon-champions/ko/abilities/134
+135,부유,"땅 위에 있지 않게 되어 땅타입 기술, 압정뿌리기, 독압정, 끈적끈적네트 상태의 효과를 받지 않는다.",https://gamewith.ai/pokemon-champions/ko/abilities/135
+136,플러스,플러스나 마이너스 특성을 가진 같은 편이 필드에 있으면 자신의 특수공격이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/136
+137,플라워기프트,날씨가 맑음일 때 자신과 같은 편의 공격과 특수방어가 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/137
+138,플라워베일,같은 편 풀타입 포켓몬은 능력이 떨어지지 않으며 상태 이상도 되지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/138
+139,프리즈스킨,노말타입 기술이 얼음타입이 되며 위력이 1.2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/139
+140,프레셔,자신에게 상대가 사용하는 기술의 PP를 추가로 1 줄인다.,https://gamewith.ai/pokemon-champions/ko/abilities/140
+141,프렌드가드,같은 편이 입는 데미지가 3/4이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/141
+142,헤비메탈,자신의 무게가 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/142
+143,변환자재,등장할 때마다 단 한 번 자신이 사용하는 기술과 같은 타입으로 변화한다.,https://gamewith.ai/pokemon-champions/ko/abilities/143
+144,변색,상대로부터 받은 기술의 타입으로 자신의 타입이 변화한다.,https://gamewith.ai/pokemon-champions/ko/abilities/144
+145,포이즌힐,"독, 맹독 상태가 되면 턴 종료 시 HP가 줄어드는 대신 최대 HP의 1/8만큼 회복한다.",https://gamewith.ai/pokemon-champions/ko/abilities/145
+146,방음,소리 기술의 효과를 받지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/146
+147,포자,"접촉 기술을 받으면 30% 확률로 상대를 독, 마비, 잠듦 중 하나의 상태로 만든다.",https://gamewith.ai/pokemon-champions/ko/abilities/147
+148,방진,모래바람 상태의 데미지를 입지 않는다. 가루 기술이나 특성의 효과도 받지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/148
+149,방탄,구슬/폭탄 기술의 효과를 받지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/149
+150,볼주머니,나무열매를 먹으면 그 효과와 더불어 최대 HP의 1/3만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/abilities/150
+151,불꽃몸,접촉 기술을 받으면 30% 확률로 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/151
+152,마이너스,플러스나 마이너스 특성을 가진 같은 편이 필드에 있으면 자신의 특수공격이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/152
+153,마이페이스,혼란 상태가 되지 않으며 위협의 효과도 받지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/153
+154,마그마의무장,얼음 상태가 되지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/154
+155,오기,상대에 의해 능력이 떨어지면 공격이 2단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/155
+156,매직가드,공격 기술 외에는 데미지를 입지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/156
+157,매직미러,상대의 변화 기술에 효과를 받지 않고 상대에게 되받아친다.,https://gamewith.ai/pokemon-champions/ko/abilities/157
+158,멀티타입,지니게 한 플레이트에 따라 자신의 타입이 바뀐다.,https://gamewith.ai/pokemon-champions/ko/abilities/158
+159,미라,접촉 기술을 받으면 상대의 특성을 미라로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/159
+160,수의베일,화상 상태가 되지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/160
+161,꿀모으기,배틀이 끝났을 때 달콤한꿀을 주워올 때가 있다.,https://gamewith.ai/pokemon-champions/ko/abilities/161
+162,미라클스킨,받는 변화 기술의 명중률이 50%가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/162
+163,벌레의알림,HP가 최대 HP의 1/3 이하가 되면 벌레타입 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/163
+164,변덕쟁이,턴 종료 시 능력 중 하나가 2단계 올라가고 나머지 중 하나가 1단계 떨어진다.,https://gamewith.ai/pokemon-champions/ko/abilities/164
+165,메가런처,파동 기술의 위력이 1.5배가 된다. 치유파동은 최대 HP의 3/4을 회복한다.,https://gamewith.ai/pokemon-champions/ko/abilities/165
+166,헤롱헤롱바디,이성으로부터 접촉 기술을 받으면 30% 확률로 상대를 헤롱헤롱 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/166
+167,면역,"독, 맹독 상태가 되지 않는다.",https://gamewith.ai/pokemon-champions/ko/abilities/167
+168,맹화,HP가 최대 HP의 1/3 이하가 되면 불꽃타입 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/168
+169,픽업,자신이 도구를 지니고 있지 않을 때 자신을 제외한 포켓몬이 소비한 도구를 턴 종료 시에 주워 온다.,https://gamewith.ai/pokemon-champions/ko/abilities/169
+170,타오르는불꽃,불꽃타입 기술의 효과를 받지 않으며 자신은 타오르는불꽃 상태가 된다. 타오르는불꽃 상태인 동안에는 자신의 불꽃타입 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/170
+171,의기양양,"잠듦, 졸음 상태가 되지 않는다.",https://gamewith.ai/pokemon-champions/ko/abilities/171
+172,유폭,접촉 기술을 받아 기절하면 상대 최대 HP의 1/4만큼 데미지를 준다.,https://gamewith.ai/pokemon-champions/ko/abilities/172
+173,눈숨기,눈 상태일 때 회피율이 1.25배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/173
+174,눈퍼뜨리기,등장 시 5턴 동안 눈 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/174
+175,엽록소,쾌청 상태일 때 스피드가 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/175
+176,순수한힘,물리 기술의 위력이 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/176
+177,예지몽,등장 시 상대의 기술 중에서 가장 위력이 높은 기술을 1개 간파한다.,https://gamewith.ai/pokemon-champions/ko/abilities/177
+178,마중물,물타입 기술의 데미지를 받지 않고 특수공격이 1랭크 올라간다. 자신 이외가 받는 물타입 기술을 끌어모은다.,https://gamewith.ai/pokemon-champions/ko/abilities/178
+179,무기력,HP가 절반 이하가 되면 공격과 특수공격이 반감된다.,https://gamewith.ai/pokemon-champions/ko/abilities/179
+180,라이트메탈,자신의 무게가 1/2이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/180
+181,리프가드,쾌청 상태일 때 상태 이상이 되지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/181
+182,인분,공격의 추가 효과를 받지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/182
+183,나쁜손버릇,자신이 도구를 지니고 있지 않을 때 접촉 기술을 받으면 상대의 도구를 훔친다.,https://gamewith.ai/pokemon-champions/ko/abilities/183
+184,메탈프로텍트,상대의 기술이나 특성으로 능력 랭크가 떨어지지 않는다. 기술이나 특성에 무시당하지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/184
+185,절대안깸,항상 잠듦 상태이며 깨어나지 않고 다른 상태 이상도 되지 않는다. 잠든 채로 기술을 쓸 수 있다.,https://gamewith.ai/pokemon-champions/ko/abilities/185
+186,스펙터가드,HP가 가득 찬 상태일 때 받는 데미지가 절반이 된다. 기술이나 특성에 무시당하지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/186
+187,일렉트릭메이커,등장 시 5턴 동안 전체 필드를 일렉트릭필드 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/187
+188,스웜체인지,HP가 절반이 되면 퍼펙트폼이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/188
+189,발끈,상대의 공격에 HP가 1/2 이하가 되면 특수공격이 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/189
+190,비비드바디,자신이나 같은 편을 향해 선제공격 기술을 쓸 수 없게 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/190
+191,부식,"강철타입, 독타입 포켓몬도 독, 맹독 상태로 만들 수 있다.",https://gamewith.ai/pokemon-champions/ko/abilities/191
+192,복슬복슬,접촉 기술로 입는 데미지가 반감된다. 불꽃타입 기술로 입는 데미지는 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/192
+193,탈,둔갑한 모습일 때 기술로 데미지를 입으면 데미지를 입는 대신 최대 HP의 1/8을 소비하여 들킨 모습으로 변화한다.,https://gamewith.ai/pokemon-champions/ko/abilities/193
+194,배터리,같은 편의 특수 기술의 위력을 1.3배로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/194
+195,잠복,교체로 나온 상대에게 2배의 데미지로 공격할 수 있다.,https://gamewith.ai/pokemon-champions/ko/abilities/195
+196,도망태세,상대의 기술로 HP가 절반이 되면 지닌 포켓몬과 교체한다.,https://gamewith.ai/pokemon-champions/ko/abilities/196
+197,힐링시프트,회복 기술을 먼저 쓸 수 있다.,https://gamewith.ai/pokemon-champions/ko/abilities/197
+198,지구력,기술로 데미지를 입으면 방어가 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/198
+199,무희,누군가가 춤 기술을 쓰면 자신도 그에 이어서 그 춤 기술을 쓸 수 있다.,https://gamewith.ai/pokemon-champions/ko/abilities/199
+200,리밋실드,HP가 절반 이하가 되면 코어폼이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/200
+201,내용물분출,기절할 듯한 기술로 데미지를 입으면 상대에게 받은 그 데미지를 돌려준다.,https://gamewith.ai/pokemon-champions/ko/abilities/201
+202,서핑테일,일렉트릭필드 상태일 때 스피드가 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/202
+203,리시버,쓰러진 같은 편의 특성과 같은 특성이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/203
+204,AR시스템,지니고 있는 메모리에 대응하여 자신의 타입이 바뀐다.,https://gamewith.ai/pokemon-champions/ko/abilities/204
+205,여왕의위엄,자신과 같은 편에게 상대는 선제 기술을 사용할 수 없다.,https://gamewith.ai/pokemon-champions/ko/abilities/205
+206,어군,HP가 최대 HP의 1/4보다 많을 때는 군집한모습이 된다. 1/4 이하가 되면 단독의모습이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/206
+207,꾸덕꾸덕굳기,물타입 기술의 데미지를 받으면 방어가 2단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/207
+208,유대변화,"상대를 쓰러뜨리면 공격, 특수공격, 스피드가 각각 1단계 올라간다.",https://gamewith.ai/pokemon-champions/ko/abilities/208
+209,사이코메이커,"배틀에 나갔을 때 필드를 사이코필드로 만든다. 땅에 있는 모든 포켓몬은 상대의 선제공격 기술을 받지 않게 되고, 또한 에스퍼타입 기술의 위력이 1.3배가 된다.",https://gamewith.ai/pokemon-champions/ko/abilities/209
+210,그래스메이커,"배틀에 나갔을 때 필드를 그래스필드로 만든다. 땅에 있으면 매 턴 최대 HP의 1/16을 회복한다. 풀타입의 위력이 1.3배가 된다. 지진, 땅고르기, 매그니튜드의 위력이 반감된다.",https://gamewith.ai/pokemon-champions/ko/abilities/210
+211,미스트메이커,"배틀에 나갔을 때 필드를 미스트필드로 만든다. 땅에 있는 모든 포켓몬은 상태 이상이 되지 않게 되고, 드래곤타입 기술의 데미지가 반감된다.",https://gamewith.ai/pokemon-champions/ko/abilities/211
+212,눈치우기,눈 상태일 때 스피드가 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/212
+213,컬리헤어,접촉 기술을 받으면 상대의 스피드를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/abilities/213
+214,일렉트릭스킨,"자신의 노말타입 기술이 전기타입이 되며, 위력이 1.2배가 된다.",https://gamewith.ai/pokemon-champions/ko/abilities/214
+215,과학의힘,배틀에 나가 있는 같은 편이 쓰러졌을 때 특정 특성을 제외하고 이어받아 같은 특성으로 바뀐다.,https://gamewith.ai/pokemon-champions/ko/abilities/215
+216,원격,사용하는 기술이 접촉 기술이 아니게 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/216
+217,촉촉보이스,소리 기술이 물타입이 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/217
+218,무도한행동,"독, 맹독 상태인 상대를 공격하면 반드시 급소에 맞는다.",https://gamewith.ai/pokemon-champions/ko/abilities/218
+219,수포,불꽃타입 기술로 입는 데미지가 반감된다. 물타입 기술의 위력이 2배가 된다. 화상 상태가 되지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/219
+220,위기회피,상대의 기술로 HP가 절반이 되면 지닌 포켓몬과 교체한다.,https://gamewith.ai/pokemon-champions/ko/abilities/220
+221,강철술사,강철타입 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/221
+222,비스트부스트,"자신의 기술로 상대를 쓰러뜨리면, 자신의 가장 높은 능력을 1단계 올린다.",https://gamewith.ai/pokemon-champions/ko/abilities/222
+223,프리즘아머,효과가 굉장한 기술로 받는 데미지를 3/4로 만든다. 기술이나 특성에 의해 무시되지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/223
+224,브레인포스,효과가 굉장한 공격의 위력이 1.25배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/224
+225,솜털,공격 기술을 받으면 자신 이외의 포켓몬의 스피드를 1단계 떨어뜨린다.,https://gamewith.ai/pokemon-champions/ko/abilities/225
+226,미러아머,자신이 받는 능력을 떨어뜨리는 효과를 받지 않으며 상대에게 되받아친다.,https://gamewith.ai/pokemon-champions/ko/abilities/226
+227,볼줍기,"도구를 지니고 있지 않은 경우, 1번째로 던져서 실패한 볼을 주워 온다.",https://gamewith.ai/pokemon-champions/ko/abilities/227
+228,증기기관,물타입과 불꽃타입 기술을 받으면 스피드가 6단계 올라간다. 지닌 포켓몬에 있으면 알의 부화에 필요한 걸음 수가 반감된다.,https://gamewith.ai/pokemon-champions/ko/abilities/228
+229,화학변화가스,"배틀에 나와 있는 한, 특정 특성을 제외하고, 포켓몬의 특성 효과가 사라져 발동하지 않게 된다.",https://gamewith.ai/pokemon-champions/ko/abilities/229
+230,그대로꿀꺽미사일,"「파도타기」나 「다이빙」을 하면, HP가 절반 이상이면 「입에문모습」, 절반 이하면 「통째로삼킨모습」이 된다. 데미지를 받으면 최대 HP의 1/4의 데미지를 입히고, 또한 「입에문모습」이면 방어를 1단계 떨어뜨리고, 「통째로삼킨모습」이면 마비 상태로 만든다.",https://gamewith.ai/pokemon-champions/ko/abilities/230
+231,파스텔베일,자신과 같은 편이 독 상태가 되지 않게 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/231
+232,모래뿜기,기술로 데미지를 입으면 5턴 동안 모래바람 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/232
+233,의태,"필드에 따라 타입이 바뀐다. 일렉트릭필드에서는 전기, 그래스필드에서는 풀, 사이코필드에서는 에스퍼, 미스트필드에서는 페어리가 된다.",https://gamewith.ai/pokemon-champions/ko/abilities/233
+234,펑크록,소리 기술의 위력이 1.3배가 된다. 자신이 받는 소리 기술의 데미지를 절반으로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/234
+235,불요의검,"배틀에 나왔을 때, 1번만 공격이 1단계 올라간다.",https://gamewith.ai/pokemon-champions/ko/abilities/235
+236,불굴의방패,"배틀에 나왔을 때, 1번만 방어가 1단계 올라간다.",https://gamewith.ai/pokemon-champions/ko/abilities/236
+237,숙성,먹는 나무열매의 효과가 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/237
+238,떠도는영혼,접촉 기술을 받으면 상대와 특성을 바꾼다.,https://gamewith.ai/pokemon-champions/ko/abilities/238
+239,배리어프리,"등장 시 빛의장막, 리플렉터, 오로라베일 상태를 해제한다.",https://gamewith.ai/pokemon-champions/ko/abilities/239
+240,파워스폿,같은 편의 기술의 위력이 1.3배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/240
+241,무아지경,"처음에 고른 기술밖에 사용할 수 없게 되지만, 물리 기술이 1.5배가 된다.",https://gamewith.ai/pokemon-champions/ko/abilities/241
+242,꼬르륵스위치,턴 종료 시 배부른 모양과 배고픈 모양을 번갈아 가며 모습을 바꾼다.,https://gamewith.ai/pokemon-champions/ko/abilities/242
+243,아이스페이스,"「아이스페이스」 상태에서 물리 공격을 받으면, 데미지를 받지 않고 「나이스페이스」 상태가 된다. 날씨가 싸라기눈이 되면 원래대로 돌아온다.",https://gamewith.ai/pokemon-champions/ko/abilities/243
+244,강철정신,같은 편의 강철타입 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/244
+245,스크루지느러미,상대의 공격 대상을 변경하는 효과를 무시하고 기술을 사용할 수 있다.,https://gamewith.ai/pokemon-champions/ko/abilities/245
+246,멸망의바디,접촉하는 기술을 받으면 서로 3턴이 지나면 기절한다. 교체하면 효과가 사라진다.,https://gamewith.ai/pokemon-champions/ko/abilities/246
+247,굳건한신념,기술을 끌어모으는 특성이나 기술의 영향을 무시한다.,https://gamewith.ai/pokemon-champions/ko/abilities/247
+248,얼음인분,특수 기술로 받는 데미지를 반감한다.,https://gamewith.ai/pokemon-champions/ko/abilities/248
+249,리베로,"배틀에 나와 있는 동안, 1번만 자신이 사용하는 기술과 같은 타입으로 변화한다.",https://gamewith.ai/pokemon-champions/ko/abilities/249
+250,보이지않는주먹,접촉 기술을 사용할 때 상대의 방어 효과를 무시하고 본래 데미지의 1/4만큼 데미지를 준다. 상대의 방어 효과 이외에는 발동된다.,https://gamewith.ai/pokemon-champions/ko/abilities/250
+251,퀵드로,30% 확률로 우선도가 같은 기술 중에서 가장 먼저 행동한다.,https://gamewith.ai/pokemon-champions/ko/abilities/251
+252,소울하트,필드의 포켓몬이 「기절」할 때마다 특수공격이 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/252
+253,까칠한피부,접촉 기술을 받으면 상대 최대 HP의 1/8만큼 데미지를 준다.,https://gamewith.ai/pokemon-champions/ko/abilities/253
+254,전기엔진,전기타입 기술의 효과를 받지 않으며 스피드가 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/254
+255,해감액,"HP를 흡수하는 기술을 받았을 때, 회복되는 대신 그만큼 HP가 줄어든다.",https://gamewith.ai/pokemon-champions/ko/abilities/255
+256,분노의경혈,상대의 공격이 급소에 맞으면 자신의 공격이 6단계까지 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/256
+257,다운로드,상대의 방어와 특수방어를 비교해 더 낮은 쪽에 맞춰 자신의 공격이나 특수공격을 1단계 올린다.,https://gamewith.ai/pokemon-champions/ko/abilities/257
+258,멀티스케일,HP가 꽉 찼을 때 입는 데미지가 반감된다.,https://gamewith.ai/pokemon-champions/ko/abilities/258
+259,질풍날개,HP가 꽉 찼을 때 비행타입 기술의 우선도가 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/259
+260,매지션,자신이 도구를 지니고 있지 않을 때 기술로 데미지를 준 상대의 도구를 빼앗는다.,https://gamewith.ai/pokemon-champions/ko/abilities/260
+261,기묘한약,등장 시 같은 편의 능력 변화를 원래대로 되돌린다.,https://gamewith.ai/pokemon-champions/ko/abilities/261
+262,트랜지스터,전기타입 기술의 위력이 1.3배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/262
+263,용의턱,드래곤타입 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/263
+264,혼연일체(백마),'긴장감'에 더해 '백마의 울음소리'를 함께 가진다.,https://gamewith.ai/pokemon-champions/ko/abilities/264
+265,백의울음,자신의 기술로 상대를 쓰러뜨리면 공격이 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/265
+266,흑의울음,자신의 기술로 상대를 쓰러뜨리면 특수공격이 1단계 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/266
+267,분노의껍질,"HP가 절반 이하가 되면, 방어와 특수방어가 1단계 내려가고 공격과 특수공격과 스피드가 1단계 올라간다.",https://gamewith.ai/pokemon-champions/ko/abilities/267
+268,테일아머,자신과 같은 편에게 상대는 선제 기술을 사용할 수 없다.,https://gamewith.ai/pokemon-champions/ko/abilities/268
+269,전기로바꾸기,기술로 데미지를 입으면 전기위력업 상태가 된다. 다음에 사용하는 전기타입 기술의 위력이 한 번만 2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/269
+270,되새김질,"나무열매를 먹으면, 다음 턴 종료 시 같은 나무열매를 한 번 더 먹는다.",https://gamewith.ai/pokemon-champions/ko/abilities/270
+271,노릇노릇바디,"불꽃타입 기술의 데미지를 받지 않고, 방어가 2단계 올라간다.",https://gamewith.ai/pokemon-champions/ko/abilities/271
+272,고대활성,"부스트에너지를 지니게 했을 때나 날씨가 맑을 때, HP를 제외한 가장 높은 능력치가 상승한다. 공격/방어/특수공격/특수방어인 경우에는 1.3배, 스피드인 경우에는 1.5배가 된다.",https://gamewith.ai/pokemon-champions/ko/abilities/272
+273,흙먹기,땅타입 기술의 효과를 받지 않으며 최대 HP의 1/4만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/abilities/273
+274,사령탑,"배틀에 나왔을 때, 같은 편에 어써러셔가 있으면 행동할 수 없게 되는 대신, 어써러셔의 공격/방어/특수공격/특수방어/스피드가 2단계씩 올라간다.",https://gamewith.ai/pokemon-champions/ko/abilities/274
+275,열교환,불꽃타입 기술을 받으면 공격이 1단계 올라간다. 화상 상태가 되지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/275
+276,편승,상대의 능력이 올라가면 자신도 똑같이 능력이 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/276
+277,바람타기,"같은 편의 순풍이 불거나, 바람 기술을 받으면 데미지를 받지 않고 공격이 1단계 올라간다.",https://gamewith.ai/pokemon-champions/ko/abilities/277
+278,풍력발전,"바람 기술을 받으면 「충전」 상태가 되어, 전기타입 기술의 위력을 한 번만 2배로 만든다.",https://gamewith.ai/pokemon-champions/ko/abilities/278
+279,진홍빛고동,"배틀에 나왔을 때, 날씨를 맑음으로 만든다. 날씨가 맑으면 공격이 1.3배가 된다.",https://gamewith.ai/pokemon-champions/ko/abilities/279
+280,하드론엔진,"등장했을 때, 필드를 「일렉트릭필드」로 만든다. 일렉트릭필드일 때는 특수공격이 1.3배가 된다.",https://gamewith.ai/pokemon-champions/ko/abilities/280
+281,쿼크차지,"부스트에너지를 지니게 했을 때나 일렉트릭필드일 때, HP를 제외한 가장 높은 능력치가 상승한다. 공격/방어/특수공격/특수방어인 경우에는 1.3배, 스피드인 경우에는 1.5배가 된다.",https://gamewith.ai/pokemon-champions/ko/abilities/281
+282,가시지않는향기,접촉한 상대의 특성을 「지워지지않는냄새」로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/282
+283,마이티체인지,지닌 포켓몬으로 돌아오면 마이티폼으로 변화한다.,https://gamewith.ai/pokemon-champions/ko/abilities/283
+284,황금몸,상대가 사용한 변화 기술의 효과를 받지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/284
+285,파수견,"「위협」의 효과를 받지 않고, 대신 공격이 1단계 올라간다. 교체시키는 기술이나 도구가 통하지 않는다.",https://gamewith.ai/pokemon-champions/ko/abilities/285
+286,재앙의그릇,자신을 제외한 포켓몬의 특수공격이 3/4배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/286
+287,재앙의검,자신을 제외한 포켓몬의 방어가 3/4배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/287
+288,재앙의목간,자신을 제외한 포켓몬의 공격이 3/4배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/288
+289,재앙의구슬,자신 이외의 포켓몬의 특수방어가 3/4배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/289
+290,균사의힘,변화 기술이 후공 기술이 되지만 상대의 특성을 무시하고 사용할 수 있다.,https://gamewith.ai/pokemon-champions/ko/abilities/290
+291,독치장,물리 기술로 데미지를 입으면 상대 필드를 독압정 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/291
+292,총대장,등장 시 배틀 중 쓰러진 지닌 포켓몬 1마리당 기술의 위력이 10%씩 올라간다. 최대 50%까지 올라간다.,https://gamewith.ai/pokemon-champions/ko/abilities/292
+293,예리함,베는 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/293
+294,바위나르기,바위타입 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/294
+295,정화의소금,상태 이상이 되지 않는다. 고스트타입 기술로 입는 데미지가 반감된다.,https://gamewith.ai/pokemon-champions/ko/abilities/295
+296,넘치는씨,공격을 받으면 필드를 '그래스필드'로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/296
+297,협연,배틀에 나왔을 때 같은 편의 능력 변화를 복사한다.,https://gamewith.ai/pokemon-champions/ko/abilities/297
+298,독사슬,공격 기술로 데미지를 주었을 때 30%의 확률로 상대를 맹독 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/298
+299,감미로운꿀,등장 시 상대의 회피율을 1단계 떨어뜨린다. 배틀 중 한 번만 발동한다.,https://gamewith.ai/pokemon-champions/ko/abilities/299
+300,대접,등장 시 같은 편의 HP를 그 포켓몬 최대 HP의 1/4만큼 회복한다.,https://gamewith.ai/pokemon-champions/ko/abilities/300
+301,심안,노말타입과 격투타입의 기술을 고스트타입에게 맞힐 수 있다. 상대의 회피율 변화를 무시하며 명중률도 떨어뜨려지지 않는다.,https://gamewith.ai/pokemon-champions/ko/abilities/301
+302,초상투영,"테라스탈 후에 특성이 변경되며, 폼에 따른 능력이 올라간다.",https://gamewith.ai/pokemon-champions/ko/abilities/302
+303,테라체인지,필드에 나왔을 때 테라스탈폼으로 폼체인지한다.,https://gamewith.ai/pokemon-champions/ko/abilities/303
+304,테라셸,HP가 가득 찼을 때 받는 기술이 '효과가 별로'인 상태가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/304
+305,제로포밍,테라파고스가 테라스탈하여 스텔라폼이 되었을 때 날씨와 필드의 변화를 해제한다.,https://gamewith.ai/pokemon-champions/ko/abilities/305
+306,독조종,기술로 상대를 '독 상태'나 '맹독 상태'로 만들었을 때 '혼란 상태'로도 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/306
+307,메가솔라,날씨가 쾌청 상태가 아니라도 쾌청 상태인 것처럼 기술을 사용할 수 있다.,https://gamewith.ai/pokemon-champions/ko/abilities/307
+308,드래곤스킨,노말타입 기술이 드래곤타입이 되며 위력이 1.2배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/308
+309,혼연일체(흑마),'긴장감'에 더해 '흑마의 울음소리'를 함께 가진다.,https://gamewith.ai/pokemon-champions/ko/abilities/309
+310,관통드릴,접촉 기술을 사용할 때 상대의 방어 효과를 무시하고 본래 데미지의 1/4만큼 데미지를 준다. 상대의 방어 효과 이외에는 발동된다.,https://gamewith.ai/pokemon-champions/ko/abilities/310
+311,하바네로분출,기술로 데미지를 입으면 상대를 화상 상태로 만든다.,https://gamewith.ai/pokemon-champions/ko/abilities/311
+312,천정부지,"땅 위에 있지 않게 되어 땅타입 기술, 압정뿌리기, 독압정, 끈적끈적네트 상태의 효과를 받지 않는다. 공격으로 상대를 쓰러뜨리면 자신의 가장 높은 능력이 1단계 올라간다.",https://gamewith.ai/pokemon-champions/ko/abilities/312
+313,불꽃의갈기,불꽃타입 기술의 위력이 1.5배가 된다.,https://gamewith.ai/pokemon-champions/ko/abilities/313

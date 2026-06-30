@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}특성 목록{% endblock %}
+{% block content %}
+<h1>특성 ({{ rows|length }})</h1>
+<form class="filters" method="get" action="/abilities">
+  <input type="text" name="q" value="{{ q }}" placeholder="특성명 검색">
+  <button type="submit">검색</button>
+</form>
+<table class="grid">
+  <thead><tr><th>특성명</th><th>효과</th></tr></thead>
+  <tbody>
+    {% for r in rows %}
+    <tr>
+      <td><a href="/abilities/{{ r['ID'] }}">{{ r['특성명'] }}</a></td>
+      <td class="eff-txt">{{ r['효과'] }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

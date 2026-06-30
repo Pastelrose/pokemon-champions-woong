@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# 요청 로그 (텍스트 파일, pokemon_web/logs/yyyymmdd.txt)
+pokemon_web/logs/
+
+# 예전 방식의 요청 로그 DB (더 이상 사용하지 않음)
+pokemon_champions_data/request_logs.duckdb
+pokemon_champions_data/request_logs.duckdb.wal
+
+# DuckDB write-ahead log
+*.duckdb.wal
+
+# 환경변수 비밀값 (.env는 제외, .env.example은 커밋)
+.env
+pokemon_web/.env
+!.env.example

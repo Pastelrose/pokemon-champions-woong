@@ -46,7 +46,7 @@
       <td><a href="/moves/{{ m['ID'] }}">{{ m['기술명'] }}</a></td>
       <td>{{ tbadge(m['타입']) }}</td>
       <td>{{ m['분류'] }}</td>
-      <td class="num">{{ m['위력'] }}</td><td class="num">{{ m['명중'] }}</td><td class="num">{{ m['PP'] }}</td>
+      <td class="num">{{ m['위력']|dash }}</td><td class="num">{{ m['명중']|dash }}</td><td class="num">{{ m['PP']|dash }}</td>
       <td>{{ m['대상'] }}</td>
       <td class="eff-txt">{{ m['효과'] }}</td>
     </tr>

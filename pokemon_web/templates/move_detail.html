@@ -7,8 +7,8 @@
 <table class="grid small">
   <thead><tr><th>분류</th><th>위력</th><th>명중</th><th>PP</th><th>성질</th><th>대상</th></tr></thead>
   <tbody><tr>
-    <td>{{ m['분류'] }}</td><td>{{ m['위력'] }}</td><td>{{ m['명중'] }}</td>
-    <td>{{ m['PP'] }}</td><td>{{ m['성질'] }}</td><td>{{ m['대상'] }}</td>
+    <td>{{ m['분류'] }}</td><td>{{ m['위력']|dash }}</td><td>{{ m['명중']|dash }}</td>
+    <td>{{ m['PP']|dash }}</td><td>{{ m['성질'] or '' }}</td><td>{{ m['대상'] }}</td>
   </tr></tbody>
 </table>
 <p class="eff-txt">{{ m['효과'] }}</p>

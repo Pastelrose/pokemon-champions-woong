@@ -1,6 +1,10 @@
 # Python
 __pycache__/
 *.pyc
+.pytest_cache/
+
+# IDE 설정 (개인 환경 설정이므로 버전 관리 제외)
+.idea/
 
 # 요청 로그 (텍스트 파일, pokemon_web/logs/yyyymmdd.txt)
 pokemon_web/logs/

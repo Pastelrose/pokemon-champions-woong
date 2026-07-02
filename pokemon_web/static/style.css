@@ -87,3 +87,7 @@ form.search .frow > label { margin-right:4px; }
 form.search .andor { margin-right:6px; flex:0 0 auto; }
 form.search .fields { display:flex; flex-wrap:wrap; gap:6px; flex:1 1 320px; align-items:center; }
 form.search .fields input.mv { min-width:0; width:120px; flex:0 1 130px; }
+
+/* 지닌물건 상세 */
+.item-img { max-width:96px; height:auto; }
+table.kv th { width:120px; text-align:left; vertical-align:top; }

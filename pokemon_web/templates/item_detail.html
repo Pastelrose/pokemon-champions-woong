@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}{{ it['이름'] }}{% endblock %}
+{% block content %}
+<p><a href="/items">← 지닌물건 목록</a></p>
+<h1>{{ it['이름'] }}</h1>
+
+{% if it['이미지URL'] %}
+<p><img src="{{ it['이미지URL'] }}" alt="{{ it['이름'] }}" class="item-img"></p>
+{% endif %}
+
+<table class="grid kv">
+  <tbody>
+    <tr><th>효과</th><td class="eff-txt">{{ it['효과'] }}</td></tr>
+    <tr><th>입수방법</th><td>{{ it['입수방법'] }}</td></tr>
+    {% if it['상세URL'] %}
+    <tr><th>원본 페이지</th><td><a href="{{ it['상세URL'] }}" target="_blank" rel="noopener">gamewith.ai에서 보기</a></td></tr>
+    {% endif %}
+  </tbody>
+</table>
+{% endblock %}

@@ -12,13 +12,13 @@ SORT_COLUMNS = {
     "싱글순위": "싱글순위", "더블순위": "더블순위", "이름": "이름",
 }
 
-# 기술 정렬 화이트리스트 (값 -> ORDER BY 식). 숫자 컬럼은 TRY_CAST.
+# 기술 정렬 화이트리스트 (값 -> ORDER BY 식). 위력/명중/PP는 INTEGER 컬럼.
 MOVE_SORT_COLUMNS = {
     "타입": "타입",
     "분류": "분류",
-    "위력": "TRY_CAST(위력 AS INTEGER)",
-    "명중": "TRY_CAST(명중 AS INTEGER)",
-    "PP": "TRY_CAST(PP AS INTEGER)",
+    "위력": "위력",
+    "명중": "명중",
+    "PP": "PP",
     "기술명": "기술명",
 }
 
@@ -145,7 +145,7 @@ def pokemon_learnset(pid):
         SELECT mv.ID, mv.기술명, mv.타입, mv.분류, mv.위력, mv.명중, mv.PP, mv.대상, mv.효과
         FROM pokemon_moves pm JOIN moves mv ON pm.move_id = mv.ID
         WHERE pm.pokemon_id = ?
-        ORDER BY mv.타입, TRY_CAST(mv.위력 AS INT) DESC NULLS LAST, mv.기술명
+        ORDER BY mv.타입, mv.위력 DESC NULLS LAST, mv.기술명
     """, [pid])
 
 
@@ -160,7 +160,9 @@ def pokemon_effectiveness(pid):
 def move_list(q="", type_="", category="", sort_cols=None, sort_dirs=None):
     where, params = [], []
     if q:
-        where.append("기술명 ILIKE '%' || ? || '%'"); params.append(q)
+        # 기술명 또는 효과 텍스트에 포함되면 검색됨
+        where.append("(기술명 ILIKE '%' || ? || '%' OR 효과 ILIKE '%' || ? || '%')")
+        params += [q, q]
     if type_:
         where.append("타입 = ?"); params.append(type_)
     if category:
@@ -193,7 +195,10 @@ def move_learners(mid):
 
 def ability_list(q=""):
     if q:
-        return query("SELECT ID, 특성명, 효과 FROM abilities WHERE 특성명 ILIKE '%' || ? || '%' ORDER BY 특성명", [q])
+        # 특성명 또는 효과 텍스트에 포함되면 검색됨
+        return query("SELECT ID, 특성명, 효과 FROM abilities "
+                     "WHERE 특성명 ILIKE '%' || ? || '%' OR 효과 ILIKE '%' || ? || '%' "
+                     "ORDER BY 특성명", [q, q])
     return query("SELECT ID, 특성명, 효과 FROM abilities ORDER BY 특성명")
 
 
@@ -211,8 +216,15 @@ def ability_pokemon(aid):
 
 def item_list(q=""):
     if q:
-        return query("SELECT ID, 이름, 효과, 입수방법 FROM items WHERE 이름 ILIKE '%' || ? || '%' ORDER BY 이름", [q])
+        # 이름 또는 효과 텍스트에 포함되면 검색됨
+        return query("SELECT ID, 이름, 효과, 입수방법 FROM items "
+                     "WHERE 이름 ILIKE '%' || ? || '%' OR 효과 ILIKE '%' || ? || '%' "
+                     "ORDER BY 이름", [q, q])
     return query("SELECT ID, 이름, 효과, 입수방법 FROM items ORDER BY 이름")
+
+
+def item_detail(iid):
+    return query_one("SELECT * FROM items WHERE ID = ?", [iid])
 
 
 def type_chart_matrix():

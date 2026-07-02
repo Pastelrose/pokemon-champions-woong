@@ -6,8 +6,8 @@
 
 <form class="search" method="get" action="/moves">
   <div class="frow">
-    <label>이름</label>
-    <input type="text" name="q" value="{{ q }}" placeholder="기술명 일부">
+    <label>이름/효과</label>
+    <input type="text" name="q" value="{{ q }}" placeholder="기술명 또는 효과 일부">
   </div>
 
   <div class="frow">
@@ -57,7 +57,7 @@
     <tr>
       <td><a href="/moves/{{ r['ID'] }}">{{ r['기술명'] }}</a></td>
       <td>{{ tbadge(r['타입']) }}</td><td>{{ r['분류'] }}</td>
-      <td class="num">{{ r['위력'] }}</td><td class="num">{{ r['명중'] }}</td><td class="num">{{ r['PP'] }}</td>
+      <td class="num">{{ r['위력']|dash }}</td><td class="num">{{ r['명중']|dash }}</td><td class="num">{{ r['PP']|dash }}</td>
       <td>{{ r['대상'] }}</td>
     </tr>
     {% endfor %}

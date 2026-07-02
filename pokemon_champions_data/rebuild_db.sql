@@ -13,7 +13,11 @@ DROP TABLE IF EXISTS pokemon_moves;
 DROP TABLE IF EXISTS pokemon_usage_rank;
 
 CREATE TABLE pokemon            AS SELECT * FROM read_csv_auto('pokemon_db.csv', header=true);
-CREATE TABLE moves              AS SELECT * FROM read_csv_auto('moves_db.csv', header=true);
+CREATE TABLE moves              AS SELECT * REPLACE (
+                                       CAST(위력 AS INTEGER) AS 위력,
+                                       CAST(명중 AS INTEGER) AS 명중,
+                                       CAST(PP   AS INTEGER) AS PP
+                                   ) FROM read_csv_auto('moves_db.csv', header=true);
 CREATE TABLE abilities          AS SELECT * FROM read_csv_auto('abilities_db.csv', header=true);
 CREATE TABLE items              AS SELECT * FROM read_csv_auto('items_db.csv', header=true);
 CREATE TABLE pokemon_abilities  AS SELECT * FROM read_csv_auto('pokemon_abilities.csv', header=true);

@@ -20,6 +20,8 @@ load_dotenv(os.path.join(BASE, ".env"))
 app = FastAPI(title="Pokemon Champions 조회")
 app.mount("/static", StaticFiles(directory=os.path.join(BASE, "static")), name="static")
 templates = Jinja2Templates(directory=os.path.join(BASE, "templates"))
+# None(빈 수치)을 화면에 "-"로 표시하는 필터
+templates.env.filters["dash"] = lambda v: "-" if v is None else v
 
 # 관리자 전용 재빌드 API 토큰(환경변수). 미설정 시 API 비활성(404).
 ADMIN_TOKEN = os.environ.get("ADMIN_TOKEN")
@@ -55,6 +57,12 @@ async def log_requests(request: Request, call_next):
 
 def render(name, request, **ctx):
     return templates.TemplateResponse(request, name, ctx)
+
+
+def not_found(request, message):
+    """base.html을 상속한 404 에러 페이지."""
+    return templates.TemplateResponse(request, "error.html",
+                                      {"message": message}, status_code=404)
 
 
 @app.get("/", response_class=HTMLResponse)
@@ -94,7 +102,7 @@ def pokemon_list(request: Request,
 def pokemon_detail(request: Request, pid: int):
     p = Q.pokemon_detail(pid)
     if not p:
-        return HTMLResponse("<h1>not found</h1>", status_code=404)
+        return not_found(request, "해당 포켓몬을 찾을 수 없습니다.")
     eff = Q.pokemon_effectiveness(pid)
     weak = [e for e in eff if e["최종배수"] > 1]
     resist = [e for e in eff if 0 < e["최종배수"] < 1]
@@ -105,13 +113,15 @@ def pokemon_detail(request: Request, pid: int):
 
 
 @app.get("/moves", response_class=HTMLResponse)
-def move_list(request: Request, q: str = "", type: str = "", category: str = "",
+def move_list(request: Request, q: str = "",
+              type_: str = Query(default="", alias="type"),
+              category: str = "",
               sort_col: List[str] = Query(default=[]),
               sort_dir: List[str] = Query(default=[])):
-    rows = Q.move_list(q=q, type_=type, category=category,
+    rows = Q.move_list(q=q, type_=type_, category=category,
                        sort_cols=sort_col, sort_dirs=sort_dir)
     sorts_sel = [(c, d) for c, d in zip(sort_col, sort_dir) if c]
-    return render("moves_list.html", request, rows=rows, q=q, type=type, category=category,
+    return render("moves_list.html", request, rows=rows, q=q, type=type_, category=category,
                   types=Q.TYPES, categories=["물리", "특수", "변화"],
                   sort_columns=list(Q.MOVE_SORT_COLUMNS.keys()), sorts_sel=sorts_sel)
 
@@ -120,7 +130,7 @@ def move_list(request: Request, q: str = "", type: str = "", category: str = "",
 def move_detail(request: Request, mid: int):
     m = Q.move_detail(mid)
     if not m:
-        return HTMLResponse("<h1>not found</h1>", status_code=404)
+        return not_found(request, "해당 기술을 찾을 수 없습니다.")
     return render("move_detail.html", request, m=m, learners=Q.move_learners(mid))
 
 
@@ -133,13 +143,21 @@ def ability_list(request: Request, q: str = ""):
 def ability_detail(request: Request, aid: int):
     a = Q.ability_detail(aid)
     if not a:
-        return HTMLResponse("<h1>not found</h1>", status_code=404)
+        return not_found(request, "해당 특성을 찾을 수 없습니다.")
     return render("ability_detail.html", request, a=a, pokemon=Q.ability_pokemon(aid))
 
 
 @app.get("/items", response_class=HTMLResponse)
 def item_list(request: Request, q: str = ""):
     return render("items_list.html", request, rows=Q.item_list(q=q), q=q)
+
+
+@app.get("/items/{iid}", response_class=HTMLResponse)
+def item_detail(request: Request, iid: int):
+    it = Q.item_detail(iid)
+    if not it:
+        return not_found(request, "해당 지닌물건을 찾을 수 없습니다.")
+    return render("item_detail.html", request, it=it)
 
 
 @app.get("/types", response_class=HTMLResponse)

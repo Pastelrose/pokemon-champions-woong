@@ -30,10 +30,13 @@ pokemon-champions-woong/
 ```
 cd pokemon_web
 pip install -r requirements.txt
-uvicorn app:app --reload --port 8000
+python -m uvicorn app:app --reload --port 8000
 ```
 
 브라우저에서 http://localhost:8000 접속.
+
+(Windows에서 `pip`으로 설치한 실행 파일(Scripts) 경로가 PATH에 없으면
+`uvicorn` 명령을 바로 찾지 못할 수 있습니다. 이때는 위처럼 `python -m uvicorn`으로 실행하세요.)
 
 DB 파일이 저장소에 포함되어 있어 별도 준비 없이 바로 실행됩니다.
 CSV를 수정한 경우에만 rebuild_db.sql로 DB를 재생성하면 됩니다

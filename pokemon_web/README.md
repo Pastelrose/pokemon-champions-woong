@@ -48,7 +48,7 @@ ADMIN_TOKEN=원하는_비밀값
 
 실행 및 호출:
 ```
-uvicorn app:app --reload --port 8000
+python -m uvicorn app:app --reload --port 8000
 curl -X POST http://localhost:8000/admin/rebuild-db -H "X-Admin-Token: 원하는_비밀값"
 ```
 응답 예: {"status":"ok","tables":{"pokemon":323,"moves":749, ...}}
@@ -64,8 +64,11 @@ pip install -r requirements.txt
 
 2. 실행 (pokemon_web 폴더 안에서)
 ```
-uvicorn app:app --reload --port 8000
+python -m uvicorn app:app --reload --port 8000
 ```
+
+(Windows에서 pip으로 설치한 실행 파일(Scripts) 경로가 PATH에 없으면
+`uvicorn` 명령을 바로 찾지 못할 수 있습니다. 이때는 위처럼 `python -m uvicorn`으로 실행하세요.)
 
 3. 브라우저에서 http://localhost:8000 접속
 

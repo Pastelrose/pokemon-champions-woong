@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "_macros.html" import pimg %}
 {% block title %}지닌물건 목록{% endblock %}
 {% block content %}
 <h1>지닌물건 ({{ rows|length }})</h1>
@@ -7,10 +8,11 @@
   <button type="submit">검색</button>
 </form>
 <table class="grid">
-  <thead><tr><th>이름</th><th>효과</th><th>입수방법</th></tr></thead>
+  <thead><tr><th></th><th>이름</th><th>효과</th><th>입수방법</th></tr></thead>
   <tbody>
     {% for r in rows %}
     <tr>
+      <td class="img-cell">{{ pimg(r['이미지URL'], r['이름']) }}</td>
       <td class="bold"><a href="/items/{{ r['ID'] }}">{{ r['이름'] }}</a></td>
       <td class="eff-txt">{{ r['효과'] }}</td>
       <td>{{ r['입수방법'] }}</td>

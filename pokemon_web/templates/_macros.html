@@ -12,6 +12,11 @@
 
 {% macro tpair(t1, t2) %}{{ tbadge(t1) }}{{ tbadge(t2) }}{% endmacro %}
 
+{% macro pimg(url, alt, big=false) %}
+{%- if url -%}<img class="sprite{{ ' sprite-lg' if big }}" src="{{ url }}" alt="{{ alt }}" loading="lazy">
+{%- else -%}<span class="sprite sprite-none{{ ' sprite-lg' if big }}"></span>{%- endif -%}
+{% endmacro %}
+
 {% macro mult(v) %}
 {%- if v == 0 -%}<span class="mult m0">x0</span>
 {%- elif v < 1 -%}<span class="mult mlow">x{{ '%g' % v }}</span>

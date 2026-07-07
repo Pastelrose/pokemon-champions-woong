@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "_macros.html" import tpair, andor, toggle %}
+{% from "_macros.html" import tpair, andor, toggle, pimg %}
 {% block title %}포켓몬 검색{% endblock %}
 {% block content %}
 <h1>포켓몬 검색 ({{ rows|length }})</h1>
@@ -113,7 +113,7 @@ function addResist(){
 
 <table class="grid">
   <thead><tr>
-    <th>이름</th><th>타입</th>
+    <th></th><th class="num">도감</th><th>이름</th><th>타입</th>
     <th class="num">HP</th><th class="num">공격</th><th class="num">방어</th>
     <th class="num">특공</th><th class="num">특방</th><th class="num">스피드</th>
     <th class="num">합계</th><th class="num">싱글</th><th class="num">더블</th>
@@ -121,6 +121,8 @@ function addResist(){
   <tbody>
     {% for r in rows %}
     <tr>
+      <td class="img-cell">{{ pimg(r['이미지URL'], r['이름']) }}</td>
+      <td class="num">{{ r['도감번호'] }}</td>
       <td><a href="/pokemon/{{ r['ID'] }}">{{ r['이름'] }}</a></td>
       <td>{{ tpair(r['타입1'], r['타입2']) }}</td>
       <td class="num">{{ r['HP'] }}</td><td class="num">{{ r['공격'] }}</td><td class="num">{{ r['방어'] }}</td>

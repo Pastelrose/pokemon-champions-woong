@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "_macros.html" import tpair, tbadge %}
+{% from "_macros.html" import tpair, tbadge, pimg %}
 {% block title %}{{ m['기술명'] }}{% endblock %}
 {% block content %}
 <p><a href="/moves">← 기술 목록</a></p>
@@ -15,10 +15,11 @@
 
 <h2>이 기술을 배우는 포켓몬 ({{ learners|length }})</h2>
 <table class="grid">
-  <thead><tr><th>이름</th><th>타입</th><th class="num">종족값합계</th></tr></thead>
+  <thead><tr><th></th><th>이름</th><th>타입</th><th class="num">종족값합계</th></tr></thead>
   <tbody>
     {% for p in learners %}
     <tr>
+      <td class="img-cell">{{ pimg(p['이미지URL'], p['이름']) }}</td>
       <td><a href="/pokemon/{{ p['ID'] }}">{{ p['이름'] }}</a></td>
       <td>{{ tpair(p['타입1'], p['타입2']) }}</td>
       <td class="num">{{ p['종족값합계'] }}</td>

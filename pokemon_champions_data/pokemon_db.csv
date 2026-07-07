@@ -1,324 +1,324 @@
-﻿ID,이름,일본어이름,타입1,타입2,HP,공격,방어,특공,특방,스피드,종족값합계,상세URL
-3,이상해꽃,フシギバナ,풀,독,80,82,83,100,100,80,525,https://gamewith.ai/pokemon-champions/ko/pokemon/3
-4,메가이상해꽃,メガフシギバナ,풀,독,80,100,123,122,120,80,625,https://gamewith.ai/pokemon-champions/ko/pokemon/4
-7,리자몽,リザードン,불꽃,비행,78,84,78,109,85,100,534,https://gamewith.ai/pokemon-champions/ko/pokemon/7
-8,메가리자몽X,メガリザードンX,불꽃,드래곤,78,130,111,130,85,100,634,https://gamewith.ai/pokemon-champions/ko/pokemon/8
-9,메가리자몽Y,メガリザードンY,불꽃,비행,78,104,78,159,115,100,634,https://gamewith.ai/pokemon-champions/ko/pokemon/9
-12,거북왕,カメックス,물,,79,83,100,85,105,78,530,https://gamewith.ai/pokemon-champions/ko/pokemon/12
-13,메가거북왕,メガカメックス,물,,79,103,120,135,115,78,630,https://gamewith.ai/pokemon-champions/ko/pokemon/13
-19,독침붕,スピアー,벌레,독,65,90,40,45,80,75,395,https://gamewith.ai/pokemon-champions/ko/pokemon/19
-20,메가독침붕,メガスピアー,벌레,독,65,150,40,15,80,145,495,https://gamewith.ai/pokemon-champions/ko/pokemon/20
-23,피죤투,ピジョット,노말,비행,83,80,75,70,70,101,479,https://gamewith.ai/pokemon-champions/ko/pokemon/23
-24,메가피죤투,メガピジョット,노말,비행,83,80,80,135,80,121,579,https://gamewith.ai/pokemon-champions/ko/pokemon/24
-32,아보크,アーボック,독,,60,95,69,65,79,80,448,https://gamewith.ai/pokemon-champions/ko/pokemon/32
-33,피카츄,ピカチュウ,전기,,35,55,40,50,50,90,320,https://gamewith.ai/pokemon-champions/ko/pokemon/33
-34,라이츄,ライチュウ,전기,,60,90,55,90,80,110,485,https://gamewith.ai/pokemon-champions/ko/pokemon/34
-35,알로라 라이츄,アローラライチュウ,전기,에스퍼,60,85,50,95,85,110,485,https://gamewith.ai/pokemon-champions/ko/pokemon/35
-36,메가라이츄X,メガライチュウX,전기,,60,135,95,90,95,110,585,https://gamewith.ai/pokemon-champions/ko/pokemon/36
-37,메가라이츄Y,メガライチュウY,전기,,60,100,55,160,80,130,585,https://gamewith.ai/pokemon-champions/ko/pokemon/37
-49,픽시,ピクシー,페어리,,95,70,73,95,90,60,483,https://gamewith.ai/pokemon-champions/ko/pokemon/49
-50,메가픽시,メガピクシー,페어리,비행,95,80,93,135,110,70,583,https://gamewith.ai/pokemon-champions/ko/pokemon/50
-53,나인테일,キュウコン,불꽃,,73,76,75,81,100,100,505,https://gamewith.ai/pokemon-champions/ko/pokemon/53
-54,알로라 나인테일,アローラキュウコン,얼음,페어리,73,67,75,81,100,109,505,https://gamewith.ai/pokemon-champions/ko/pokemon/54
-61,라플레시아,ラフレシア,풀,독,75,80,85,110,90,50,490,https://gamewith.ai/pokemon-champions/ko/pokemon/61
-81,윈디,ウインディ,불꽃,,90,110,80,100,80,95,555,https://gamewith.ai/pokemon-champions/ko/pokemon/81
-82,히스이 윈디,ヒスイウインディ,불꽃,바위,95,115,80,95,80,90,555,https://gamewith.ai/pokemon-champions/ko/pokemon/82
-88,후딘,フーディン,에스퍼,,55,50,45,135,95,120,500,https://gamewith.ai/pokemon-champions/ko/pokemon/88
-89,메가후딘,メガフーディン,에스퍼,,55,50,65,175,105,150,600,https://gamewith.ai/pokemon-champions/ko/pokemon/89
-92,괴력몬,カイリキー,격투,,90,130,80,65,85,55,505,https://gamewith.ai/pokemon-champions/ko/pokemon/92
-95,우츠보트,ウツボット,풀,독,80,105,65,100,70,70,490,https://gamewith.ai/pokemon-champions/ko/pokemon/95
-96,메가우츠보트,メガウツボット,풀,독,80,125,85,135,95,70,590,https://gamewith.ai/pokemon-champions/ko/pokemon/96
-111,야도란,ヤドラン,물,에스퍼,95,75,110,100,80,30,490,https://gamewith.ai/pokemon-champions/ko/pokemon/111
-112,메가야도란,メガヤドラン,물,에스퍼,95,75,180,130,80,30,590,https://gamewith.ai/pokemon-champions/ko/pokemon/112
-113,가라르 야도란,ガラルヤドラン,독,에스퍼,95,100,95,100,70,30,490,https://gamewith.ai/pokemon-champions/ko/pokemon/113
-130,팬텀,ゲンガー,고스트,독,60,65,60,130,75,110,500,https://gamewith.ai/pokemon-champions/ko/pokemon/130
-131,메가팬텀,メガゲンガー,고스트,독,60,65,80,170,95,130,600,https://gamewith.ai/pokemon-champions/ko/pokemon/131
-157,캥카,ガルーラ,노말,,105,95,80,40,80,90,490,https://gamewith.ai/pokemon-champions/ko/pokemon/157
-158,메가캥카,メガガルーラ,노말,,105,125,100,60,100,100,590,https://gamewith.ai/pokemon-champions/ko/pokemon/158
-164,아쿠스타,スターミー,물,에스퍼,60,75,85,100,85,115,520,https://gamewith.ai/pokemon-champions/ko/pokemon/164
-165,메가아쿠스타,メガスターミー,물,에스퍼,60,100,105,130,105,120,620,https://gamewith.ai/pokemon-champions/ko/pokemon/165
-172,쁘사이저,カイロス,벌레,,65,125,100,55,70,85,500,https://gamewith.ai/pokemon-champions/ko/pokemon/172
-173,메가쁘사이저,メガカイロス,벌레,비행,65,155,120,65,90,105,600,https://gamewith.ai/pokemon-champions/ko/pokemon/173
-174,켄타로스,ケンタロス,노말,,75,100,95,40,70,110,490,https://gamewith.ai/pokemon-champions/ko/pokemon/174
-176,갸라도스,ギャラドス,물,비행,95,125,79,60,100,81,540,https://gamewith.ai/pokemon-champions/ko/pokemon/176
-177,메가갸라도스,メガギャラドス,물,악,95,155,109,70,130,81,640,https://gamewith.ai/pokemon-champions/ko/pokemon/177
-179,메타몽,メタモン,노말,,48,48,48,48,48,48,288,https://gamewith.ai/pokemon-champions/ko/pokemon/179
-181,샤미드,シャワーズ,물,,130,65,60,110,95,65,525,https://gamewith.ai/pokemon-champions/ko/pokemon/181
-182,쥬피썬더,サンダース,전기,,65,65,60,110,95,130,525,https://gamewith.ai/pokemon-champions/ko/pokemon/182
-183,부스터,ブースター,불꽃,,65,130,60,95,110,65,525,https://gamewith.ai/pokemon-champions/ko/pokemon/183
-189,프테라,プテラ,바위,비행,80,105,65,60,75,130,515,https://gamewith.ai/pokemon-champions/ko/pokemon/189
-190,메가프테라,メガプテラ,바위,비행,80,135,85,70,95,150,615,https://gamewith.ai/pokemon-champions/ko/pokemon/190
-191,잠만보,カビゴン,노말,,160,110,65,65,110,30,540,https://gamewith.ai/pokemon-champions/ko/pokemon/191
-200,망나뇽,カイリュー,드래곤,비행,91,134,95,100,100,80,600,https://gamewith.ai/pokemon-champions/ko/pokemon/200
-201,메가망나뇽,メガカイリュー,드래곤,비행,91,124,115,145,125,100,700,https://gamewith.ai/pokemon-champions/ko/pokemon/201
-208,메가니움,メガニウム,풀,,80,82,100,83,100,80,525,https://gamewith.ai/pokemon-champions/ko/pokemon/208
-209,메가메가니움,メガメガニウム,풀,페어리,80,92,115,143,115,80,625,https://gamewith.ai/pokemon-champions/ko/pokemon/209
-212,블레이범,バクフーン,불꽃,,78,84,78,109,85,100,534,https://gamewith.ai/pokemon-champions/ko/pokemon/212
-213,히스이 블레이범,ヒスイバクフーン,불꽃,고스트,73,84,78,119,85,95,534,https://gamewith.ai/pokemon-champions/ko/pokemon/213
-216,장크로다일,オーダイル,물,,85,105,100,79,83,78,530,https://gamewith.ai/pokemon-champions/ko/pokemon/216
-217,메가장크로다일,メガオーダイル,물,드래곤,85,160,125,89,93,78,630,https://gamewith.ai/pokemon-champions/ko/pokemon/217
-225,아리아도스,アリアドス,벌레,독,70,90,70,60,70,40,400,https://gamewith.ai/pokemon-champions/ko/pokemon/225
-238,전룡,デンリュウ,전기,,90,75,85,115,90,55,510,https://gamewith.ai/pokemon-champions/ko/pokemon/238
-239,메가전룡,メガデンリュウ,전기,드래곤,90,95,105,165,110,45,610,https://gamewith.ai/pokemon-champions/ko/pokemon/239
-242,마릴리,マリルリ,물,페어리,100,50,80,60,80,50,420,https://gamewith.ai/pokemon-champions/ko/pokemon/242
-244,왕구리,ニョロトノ,물,,90,75,75,90,100,70,500,https://gamewith.ai/pokemon-champions/ko/pokemon/244
-254,에브이,エーフィ,에스퍼,,65,65,60,130,95,110,525,https://gamewith.ai/pokemon-champions/ko/pokemon/254
-255,블래키,ブラッキー,악,,95,65,110,60,130,65,525,https://gamewith.ai/pokemon-champions/ko/pokemon/255
-257,야도킹,ヤドキング,물,에스퍼,95,75,80,100,110,30,490,https://gamewith.ai/pokemon-champions/ko/pokemon/257
-258,가라르 야도킹,ガラルヤドキング,독,에스퍼,95,65,80,110,110,30,490,https://gamewith.ai/pokemon-champions/ko/pokemon/258
-264,쏘콘,フォレトス,벌레,강철,75,90,140,60,60,40,465,https://gamewith.ai/pokemon-champions/ko/pokemon/264
-267,강철톤,ハガネール,강철,땅,75,85,200,55,65,30,510,https://gamewith.ai/pokemon-champions/ko/pokemon/267
-268,메가강철톤,メガハガネール,강철,땅,75,125,230,55,95,30,610,https://gamewith.ai/pokemon-champions/ko/pokemon/268
-271,침바루,ハリーセン,물,독,65,95,85,55,55,85,440,https://gamewith.ai/pokemon-champions/ko/pokemon/271
-273,핫삼,ハッサム,벌레,강철,70,130,100,55,80,65,500,https://gamewith.ai/pokemon-champions/ko/pokemon/273
-274,메가핫삼,メガハッサム,벌레,강철,70,150,140,65,100,75,600,https://gamewith.ai/pokemon-champions/ko/pokemon/274
-276,헤라크로스,ヘラクロス,벌레,격투,80,125,75,40,95,85,500,https://gamewith.ai/pokemon-champions/ko/pokemon/276
-277,메가헤라크로스,メガヘラクロス,벌레,격투,80,185,115,40,105,75,600,https://gamewith.ai/pokemon-champions/ko/pokemon/277
-292,무장조,エアームド,강철,비행,65,80,140,40,70,70,465,https://gamewith.ai/pokemon-champions/ko/pokemon/292
-293,메가무장조,メガエアームド,강철,비행,65,140,110,40,100,110,565,https://gamewith.ai/pokemon-champions/ko/pokemon/293
-295,헬가,ヘルガー,악,불꽃,75,90,50,110,80,95,500,https://gamewith.ai/pokemon-champions/ko/pokemon/295
-296,메가헬가,メガヘルガー,악,불꽃,75,90,90,140,90,115,600,https://gamewith.ai/pokemon-champions/ko/pokemon/296
-315,마기라스,バンギラス,바위,악,100,134,110,95,100,61,600,https://gamewith.ai/pokemon-champions/ko/pokemon/315
-316,메가마기라스,メガバンギラス,바위,악,100,164,150,95,120,71,700,https://gamewith.ai/pokemon-champions/ko/pokemon/316
-322,나무킹,ジュカイン,풀,,70,85,65,105,85,120,530,https://gamewith.ai/pokemon-champions/ko/pokemon/322
-323,메가나무킹,メガジュカイン,풀,드래곤,70,110,75,145,85,145,630,https://gamewith.ai/pokemon-champions/ko/pokemon/323
-326,번치코,バシャーモ,불꽃,격투,80,120,70,110,70,80,530,https://gamewith.ai/pokemon-champions/ko/pokemon/326
-327,메가번치코,メガバシャーモ,불꽃,격투,80,160,80,130,80,100,630,https://gamewith.ai/pokemon-champions/ko/pokemon/327
-330,대짱이,ラグラージ,물,땅,100,110,90,85,90,60,535,https://gamewith.ai/pokemon-champions/ko/pokemon/330
-331,메가대짱이,メガラグラージ,물,땅,100,150,110,95,110,70,635,https://gamewith.ai/pokemon-champions/ko/pokemon/331
-352,패리퍼,ペリッパー,물,비행,60,50,100,95,70,65,440,https://gamewith.ai/pokemon-champions/ko/pokemon/352
-355,가디안,サーナイト,에스퍼,페어리,68,65,65,125,115,80,518,https://gamewith.ai/pokemon-champions/ko/pokemon/355
-356,메가가디안,メガサーナイト,에스퍼,페어리,68,85,65,165,135,100,618,https://gamewith.ai/pokemon-champions/ko/pokemon/356
-376,깜까미,ヤミラミ,악,고스트,50,75,75,65,65,50,380,https://gamewith.ai/pokemon-champions/ko/pokemon/376
-377,메가깜까미,メガヤミラミ,악,고스트,50,85,125,85,115,20,480,https://gamewith.ai/pokemon-champions/ko/pokemon/377
-378,입치트,クチート,강철,페어리,50,85,85,55,55,50,380,https://gamewith.ai/pokemon-champions/ko/pokemon/378
-379,메가입치트,メガクチート,강철,페어리,50,105,125,55,95,50,480,https://gamewith.ai/pokemon-champions/ko/pokemon/379
-382,보스로라,ボスゴドラ,강철,바위,70,110,180,60,60,50,530,https://gamewith.ai/pokemon-champions/ko/pokemon/382
-383,메가보스로라,メガボスゴドラ,강철,,70,140,230,60,80,50,630,https://gamewith.ai/pokemon-champions/ko/pokemon/383
-385,요가램,チャーレム,격투,에스퍼,60,60,75,60,75,80,410,https://gamewith.ai/pokemon-champions/ko/pokemon/385
-386,메가요가램,メガチャーレム,격투,에스퍼,60,100,85,80,85,100,510,https://gamewith.ai/pokemon-champions/ko/pokemon/386
-388,썬더볼트,ライボルト,전기,,70,75,60,105,60,105,475,https://gamewith.ai/pokemon-champions/ko/pokemon/388
-389,메가썬더볼트,メガライボルト,전기,,70,75,80,135,80,135,575,https://gamewith.ai/pokemon-champions/ko/pokemon/389
-398,샤크니아,サメハダー,물,악,70,120,40,95,40,95,460,https://gamewith.ai/pokemon-champions/ko/pokemon/398
-399,메가샤크니아,メガサメハダー,물,악,70,140,70,110,65,105,560,https://gamewith.ai/pokemon-champions/ko/pokemon/399
-403,폭타,バクーダ,불꽃,땅,70,100,70,105,75,40,460,https://gamewith.ai/pokemon-champions/ko/pokemon/403
-404,메가폭타,メガバクーダ,불꽃,땅,70,120,100,145,105,20,560,https://gamewith.ai/pokemon-champions/ko/pokemon/404
-405,코터스,コータス,불꽃,,70,85,140,85,70,20,470,https://gamewith.ai/pokemon-champions/ko/pokemon/405
-415,파비코리,チルタリス,드래곤,비행,75,70,90,70,105,80,490,https://gamewith.ai/pokemon-champions/ko/pokemon/415
-416,메가파비코리,メガチルタリス,드래곤,페어리,75,110,110,110,105,80,590,https://gamewith.ai/pokemon-champions/ko/pokemon/416
-432,밀로틱,ミロカロス,물,,95,60,79,100,125,81,540,https://gamewith.ai/pokemon-champions/ko/pokemon/432
-433,캐스퐁,ポワルン,노말,,70,70,70,70,70,70,420,https://gamewith.ai/pokemon-champions/ko/pokemon/433
-434,캐스퐁（태양의 모습）,ポワルン,불꽃,,70,70,70,70,70,70,420,https://gamewith.ai/pokemon-champions/ko/pokemon/434
-435,캐스퐁（빗방울의 모습）,ポワルン,물,,70,70,70,70,70,70,420,https://gamewith.ai/pokemon-champions/ko/pokemon/435
-436,캐스퐁（설운의 모습）,ポワルン,얼음,,70,70,70,70,70,70,420,https://gamewith.ai/pokemon-champions/ko/pokemon/436
-439,다크펫,ジュペッタ,고스트,,64,115,65,83,63,65,455,https://gamewith.ai/pokemon-champions/ko/pokemon/439
-440,메가다크펫,メガジュペッタ,고스트,,64,165,75,93,83,75,555,https://gamewith.ai/pokemon-champions/ko/pokemon/440
-444,치렁,チリーン,에스퍼,,75,50,80,95,90,65,455,https://gamewith.ai/pokemon-champions/ko/pokemon/444
-445,메가치렁,メガチリーン,에스퍼,강철,75,50,110,135,120,65,555,https://gamewith.ai/pokemon-champions/ko/pokemon/445
-446,앱솔,アブソル,악,,65,130,60,75,60,75,465,https://gamewith.ai/pokemon-champions/ko/pokemon/446
-447,메가앱솔,メガアブソル,악,,65,150,60,115,60,115,565,https://gamewith.ai/pokemon-champions/ko/pokemon/447
-451,얼음귀신,オニゴーリ,얼음,,80,80,80,80,80,80,480,https://gamewith.ai/pokemon-champions/ko/pokemon/451
-452,메가얼음귀신,メガオニゴーリ,얼음,,80,120,80,120,80,100,580,https://gamewith.ai/pokemon-champions/ko/pokemon/452
-467,메타그로스,メタグロス,강철,에스퍼,80,135,130,95,90,70,600,https://gamewith.ai/pokemon-champions/ko/pokemon/467
-468,메가메타그로스,メガメタグロス,강철,에스퍼,80,145,150,105,110,110,700,https://gamewith.ai/pokemon-champions/ko/pokemon/468
-489,토대부기,ドダイトス,풀,땅,95,109,105,75,85,56,525,https://gamewith.ai/pokemon-champions/ko/pokemon/489
-492,초염몽,ゴウカザル,불꽃,격투,76,104,71,104,71,108,534,https://gamewith.ai/pokemon-champions/ko/pokemon/492
-495,엠페르트,エンペルト,물,강철,84,86,88,111,101,60,530,https://gamewith.ai/pokemon-champions/ko/pokemon/495
-498,찌르호크,ムクホーク,노말,비행,85,120,70,50,60,100,485,https://gamewith.ai/pokemon-champions/ko/pokemon/498
-499,메가찌르호크,メガムクホーク,격투,비행,85,140,100,60,90,110,585,https://gamewith.ai/pokemon-champions/ko/pokemon/499
-506,렌트라,レントラー,전기,,80,120,79,95,79,70,523,https://gamewith.ai/pokemon-champions/ko/pokemon/506
-508,로즈레이드,ロズレイド,풀,독,60,70,65,125,105,90,515,https://gamewith.ai/pokemon-champions/ko/pokemon/508
-510,램펄드,ラムパルド,바위,,97,165,60,65,50,58,495,https://gamewith.ai/pokemon-champions/ko/pokemon/510
-512,바리톱스,トリデプス,바위,강철,60,52,168,47,138,30,495,https://gamewith.ai/pokemon-champions/ko/pokemon/512
-536,이어롭,ミミロップ,노말,,65,76,84,54,96,105,480,https://gamewith.ai/pokemon-champions/ko/pokemon/536
-537,메가이어롭,メガミミロップ,노말,격투,65,136,94,54,96,135,580,https://gamewith.ai/pokemon-champions/ko/pokemon/537
-551,화강돌,ミカルゲ,고스트,악,50,92,108,92,108,35,485,https://gamewith.ai/pokemon-champions/ko/pokemon/551
-554,한카리아스,ガブリアス,드래곤,땅,108,130,95,80,85,102,600,https://gamewith.ai/pokemon-champions/ko/pokemon/554
-555,메가한카리아스,メガガブリアス,드래곤,땅,108,170,115,120,95,92,700,https://gamewith.ai/pokemon-champions/ko/pokemon/555
-559,루카리오,ルカリオ,격투,강철,70,110,70,115,70,90,525,https://gamewith.ai/pokemon-champions/ko/pokemon/559
-560,메가루카리오,メガルカリオ,격투,강철,70,145,88,140,70,112,625,https://gamewith.ai/pokemon-champions/ko/pokemon/560
-563,하마돈 ♂,カバルドン,땅,,108,112,118,68,72,47,525,https://gamewith.ai/pokemon-champions/ko/pokemon/563
-564,하마돈 ♀,カバルドン,땅,,108,112,118,68,72,47,525,https://gamewith.ai/pokemon-champions/ko/pokemon/564
-568,독개굴,ドクロッグ,독,격투,83,106,65,86,65,85,490,https://gamewith.ai/pokemon-champions/ko/pokemon/568
-574,눈설왕,ユキノオー,풀,얼음,90,92,75,92,85,60,494,https://gamewith.ai/pokemon-champions/ko/pokemon/574
-575,메가눈설왕,メガユキノオー,풀,얼음,90,132,105,132,105,30,594,https://gamewith.ai/pokemon-champions/ko/pokemon/575
-576,포푸니라,マニューラ,악,얼음,70,120,65,45,85,125,510,https://gamewith.ai/pokemon-champions/ko/pokemon/576
-579,거대코뿌리,ドサイドン,땅,바위,115,140,130,55,55,40,535,https://gamewith.ai/pokemon-champions/ko/pokemon/579
-585,리피아,リーフィア,풀,,65,110,130,60,65,95,525,https://gamewith.ai/pokemon-champions/ko/pokemon/585
-586,글레이시아,グレイシア,얼음,,65,60,110,130,95,65,525,https://gamewith.ai/pokemon-champions/ko/pokemon/586
-587,글라이온,グライオン,땅,비행,75,95,125,45,75,95,510,https://gamewith.ai/pokemon-champions/ko/pokemon/587
-588,맘모꾸리,マンムー,얼음,땅,110,130,80,70,60,80,530,https://gamewith.ai/pokemon-champions/ko/pokemon/588
-590,엘레이드,エルレイド,에스퍼,격투,68,125,65,65,115,80,518,https://gamewith.ai/pokemon-champions/ko/pokemon/590
-591,메가엘레이드,メガエルレイド,에스퍼,격투,68,165,95,65,115,110,618,https://gamewith.ai/pokemon-champions/ko/pokemon/591
-594,눈여아,ユキメノコ,얼음,고스트,70,80,70,80,70,110,480,https://gamewith.ai/pokemon-champions/ko/pokemon/594
-595,메가눈여아,メガユキメノコ,얼음,고스트,70,80,70,140,100,120,580,https://gamewith.ai/pokemon-champions/ko/pokemon/595
-596,로토무,ロトム,전기,고스트,50,50,77,95,77,91,440,https://gamewith.ai/pokemon-champions/ko/pokemon/596
-597,히트로토무,ヒートロトム,전기,불꽃,50,65,107,105,107,86,520,https://gamewith.ai/pokemon-champions/ko/pokemon/597
-598,워시로토무,ウォッシュロトム,전기,물,50,65,107,105,107,86,520,https://gamewith.ai/pokemon-champions/ko/pokemon/598
-599,프로스트로토무,フロストロトム,전기,얼음,50,65,107,105,107,86,520,https://gamewith.ai/pokemon-champions/ko/pokemon/599
-600,스핀로토무,スピンロトム,전기,비행,50,65,107,105,107,86,520,https://gamewith.ai/pokemon-champions/ko/pokemon/600
-601,커트로토무,カットロトム,전기,풀,50,65,107,105,107,86,520,https://gamewith.ai/pokemon-champions/ko/pokemon/601
-625,샤로다,ジャローダ,풀,,75,75,95,75,95,113,528,https://gamewith.ai/pokemon-champions/ko/pokemon/625
-628,염무왕,エンブオー,불꽃,격투,110,123,65,100,65,65,528,https://gamewith.ai/pokemon-champions/ko/pokemon/628
-629,메가염무왕,メガエンブオー,불꽃,격투,110,148,75,110,110,75,628,https://gamewith.ai/pokemon-champions/ko/pokemon/629
-632,대검귀,ダイケンキ,물,,95,100,85,108,70,70,528,https://gamewith.ai/pokemon-champions/ko/pokemon/632
-633,히스이 대검귀,ヒスイダイケンキ,물,악,90,108,80,100,65,85,528,https://gamewith.ai/pokemon-champions/ko/pokemon/633
-635,보르그,ミルホッグ,노말,,60,85,69,60,69,77,420,https://gamewith.ai/pokemon-champions/ko/pokemon/635
-640,레파르다스,レパルダス,악,,64,88,50,88,50,106,446,https://gamewith.ai/pokemon-champions/ko/pokemon/640
-642,야나키,ヤナッキー,풀,,75,98,63,98,63,101,498,https://gamewith.ai/pokemon-champions/ko/pokemon/642
-644,바오키,バオッキー,불꽃,,75,98,63,98,63,101,498,https://gamewith.ai/pokemon-champions/ko/pokemon/644
-646,앗차키,ヒヤッキー,물,,75,98,63,98,63,101,498,https://gamewith.ai/pokemon-champions/ko/pokemon/646
-648,몽얌나,ムシャーナ,에스퍼,,116,55,85,107,95,29,487,https://gamewith.ai/pokemon-champions/ko/pokemon/648
-661,몰드류,ドリュウズ,땅,강철,110,135,60,50,65,88,508,https://gamewith.ai/pokemon-champions/ko/pokemon/661
-662,메가몰드류,メガドリュウズ,땅,강철,110,165,100,65,65,103,608,https://gamewith.ai/pokemon-champions/ko/pokemon/662
-663,다부니,タブンネ,노말,,103,60,86,60,86,50,445,https://gamewith.ai/pokemon-champions/ko/pokemon/663
-664,메가다부니,メガタブンネ,노말,페어리,103,60,126,80,126,50,545,https://gamewith.ai/pokemon-champions/ko/pokemon/664
-667,노보청,ローブシン,격투,,105,140,95,55,65,45,505,https://gamewith.ai/pokemon-champions/ko/pokemon/667
-678,펜드라,ペンドラー,벌레,독,60,100,89,55,69,112,485,https://gamewith.ai/pokemon-champions/ko/pokemon/678
-679,메가펜드라,メガペンドラー,벌레,독,60,140,149,75,99,62,585,https://gamewith.ai/pokemon-champions/ko/pokemon/679
-681,엘풍,エルフーン,풀,페어리,60,67,85,77,75,116,480,https://gamewith.ai/pokemon-champions/ko/pokemon/681
-690,악비아르,ワルビアル,땅,악,95,117,80,65,70,92,519,https://gamewith.ai/pokemon-champions/ko/pokemon/690
-701,곤율거니,ズルズキン,악,격투,65,90,115,45,115,58,488,https://gamewith.ai/pokemon-champions/ko/pokemon/701
-702,메가곤율거니,メガズルズキン,악,격투,65,130,135,55,135,68,588,https://gamewith.ai/pokemon-champions/ko/pokemon/702
-706,데스니칸,デスカーン,고스트,,58,50,145,95,105,30,483,https://gamewith.ai/pokemon-champions/ko/pokemon/706
-712,더스트나,ダストダス,독,,80,95,82,60,82,75,474,https://gamewith.ai/pokemon-champions/ko/pokemon/712
-715,조로아크,ゾロアーク,악,,60,105,60,120,60,105,510,https://gamewith.ai/pokemon-champions/ko/pokemon/715
-716,히스이 조로아크,ヒスイゾロアーク,노말,고스트,55,100,60,125,60,110,510,https://gamewith.ai/pokemon-champions/ko/pokemon/716
-724,란쿨루스,ランクルス,에스퍼,,110,65,75,125,85,30,490,https://gamewith.ai/pokemon-champions/ko/pokemon/724
-729,배바닐라,バイバニラ,얼음,,71,95,85,110,95,79,535,https://gamewith.ai/pokemon-champions/ko/pokemon/729
-738,에몽가,エモンガ,전기,비행,55,75,60,75,60,103,428,https://gamewith.ai/pokemon-champions/ko/pokemon/738
-757,저리더프,シビルドン,전기,,85,115,80,105,80,50,515,https://gamewith.ai/pokemon-champions/ko/pokemon/757
-758,메가저리더프,メガシビルドン,전기,,85,145,80,135,90,80,615,https://gamewith.ai/pokemon-champions/ko/pokemon/758
-763,샹델라,シャンデラ,고스트,불꽃,60,55,90,145,90,80,520,https://gamewith.ai/pokemon-champions/ko/pokemon/763
-764,메가샹델라,メガシャンデラ,고스트,불꽃,60,75,110,175,110,90,620,https://gamewith.ai/pokemon-champions/ko/pokemon/764
-769,툰베어,ツンベアー,얼음,,95,130,80,70,80,50,505,https://gamewith.ai/pokemon-champions/ko/pokemon/769
-773,메더,マッギョ,땅,전기,109,66,84,81,99,32,471,https://gamewith.ai/pokemon-champions/ko/pokemon/773
-774,가라르 메더,ガラルマッギョ,땅,강철,109,81,99,66,84,32,471,https://gamewith.ai/pokemon-champions/ko/pokemon/774
-779,골루그,ゴルーグ,땅,고스트,89,124,80,55,80,55,483,https://gamewith.ai/pokemon-champions/ko/pokemon/779
-780,메가골루그,メガゴルーグ,땅,고스트,89,159,105,70,105,55,583,https://gamewith.ai/pokemon-champions/ko/pokemon/780
-793,삼삼드래,サザンドラ,악,드래곤,92,105,90,125,90,98,600,https://gamewith.ai/pokemon-champions/ko/pokemon/793
-795,불카모스,ウルガモス,벌레,불꽃,85,60,65,135,105,100,550,https://gamewith.ai/pokemon-champions/ko/pokemon/795
-817,브리가론,ブリガロン,풀,격투,88,107,122,74,75,64,530,https://gamewith.ai/pokemon-champions/ko/pokemon/817
-818,메가브리가론,メガブリガロン,풀,격투,88,137,172,74,115,44,630,https://gamewith.ai/pokemon-champions/ko/pokemon/818
-821,마폭시,マフォクシー,불꽃,에스퍼,75,69,72,114,100,104,534,https://gamewith.ai/pokemon-champions/ko/pokemon/821
-822,메가마폭시,メガマフォクシー,불꽃,에스퍼,75,69,72,159,125,134,634,https://gamewith.ai/pokemon-champions/ko/pokemon/822
-825,개굴닌자,ゲッコウガ,물,악,72,95,67,103,71,122,530,https://gamewith.ai/pokemon-champions/ko/pokemon/825
-826,메가개굴닌자,メガゲッコウガ,물,악,72,125,77,133,81,142,630,https://gamewith.ai/pokemon-champions/ko/pokemon/826
-828,파르토,ホルード,노말,땅,85,56,77,50,77,78,423,https://gamewith.ai/pokemon-champions/ko/pokemon/828
-831,파이어로,ファイアロー,불꽃,비행,78,81,71,74,69,126,499,https://gamewith.ai/pokemon-champions/ko/pokemon/831
-834,비비용,ビビヨン,벌레,비행,80,52,50,90,50,89,411,https://gamewith.ai/pokemon-champions/ko/pokemon/834
-836,화염레오 ♂,カエンジシ,불꽃,노말,86,68,72,109,66,106,507,https://gamewith.ai/pokemon-champions/ko/pokemon/836
-837,화염레오 ♀,カエンジシ,불꽃,노말,86,68,72,109,66,106,507,https://gamewith.ai/pokemon-champions/ko/pokemon/837
-838,메가화염레오 ♂,メガカエンジシ,불꽃,노말,86,88,92,129,86,126,607,https://gamewith.ai/pokemon-champions/ko/pokemon/838
-839,메가화염레오 ♀,メガカエンジシ,불꽃,노말,86,88,92,129,86,126,607,https://gamewith.ai/pokemon-champions/ko/pokemon/839
-842,플라엣테(영원의 꽃),フラエッテ(えいえんのはな),페어리,,74,65,67,125,128,92,551,https://gamewith.ai/pokemon-champions/ko/pokemon/842
-843,메가플라엣테,メガフラエッテ,페어리,,74,85,87,155,148,102,651,https://gamewith.ai/pokemon-champions/ko/pokemon/843
-844,플라제스,フラージェス,페어리,,78,65,68,112,154,75,552,https://gamewith.ai/pokemon-champions/ko/pokemon/844
-848,부란다,ゴロンダ,격투,악,95,124,78,69,71,58,495,https://gamewith.ai/pokemon-champions/ko/pokemon/848
-849,트리미앙,トリミアン,노말,,75,80,60,65,90,102,472,https://gamewith.ai/pokemon-champions/ko/pokemon/849
-851,냐오닉스,ニャオニクス(オス),에스퍼,,74,48,76,83,81,104,466,https://gamewith.ai/pokemon-champions/ko/pokemon/851
-852,냐오닉스(암컷),ニャオニクス(メス),에스퍼,,74,48,76,83,81,104,466,https://gamewith.ai/pokemon-champions/ko/pokemon/852
-853,메가냐오닉스,メガニャオニクス(オス),에스퍼,,74,48,76,143,101,124,566,https://gamewith.ai/pokemon-champions/ko/pokemon/853
-854,메가냐오닉스,メガニャオニクス(メス),에스퍼,,74,48,76,143,101,124,566,https://gamewith.ai/pokemon-champions/ko/pokemon/854
-857,킬가르도（실드폼）,ギルガルド,강철,고스트,60,50,140,50,140,60,500,https://gamewith.ai/pokemon-champions/ko/pokemon/857
-858,킬가르도（블레이드폼）,ギルガルド,강철,고스트,60,140,50,140,50,60,500,https://gamewith.ai/pokemon-champions/ko/pokemon/858
-860,프레프티르,フレフワン,페어리,,101,72,72,99,89,29,462,https://gamewith.ai/pokemon-champions/ko/pokemon/860
-862,나루림,ペロリーム,페어리,,82,80,86,85,75,72,480,https://gamewith.ai/pokemon-champions/ko/pokemon/862
-864,칼라마네로,カラマネロ,악,에스퍼,86,92,88,68,75,73,482,https://gamewith.ai/pokemon-champions/ko/pokemon/864
-865,메가칼라마네로,メガカラマネロ,악,에스퍼,86,102,88,98,120,88,582,https://gamewith.ai/pokemon-champions/ko/pokemon/865
-867,거북손데스,ガメノデス,바위,물,72,105,115,54,86,68,500,https://gamewith.ai/pokemon-champions/ko/pokemon/867
-868,메가거북손데스,メガガメノデス,바위,격투,72,140,130,64,106,88,600,https://gamewith.ai/pokemon-champions/ko/pokemon/868
-870,드래캄,ドラミドロ,독,드래곤,65,75,90,97,123,44,494,https://gamewith.ai/pokemon-champions/ko/pokemon/870
-871,메가드래캄,メガドラミドロ,독,드래곤,65,85,105,132,163,44,594,https://gamewith.ai/pokemon-champions/ko/pokemon/871
-873,블로스터,ブロスター,물,,71,73,88,120,89,59,500,https://gamewith.ai/pokemon-champions/ko/pokemon/873
-875,일레도리자드,エレザード,전기,노말,62,55,52,109,94,109,481,https://gamewith.ai/pokemon-champions/ko/pokemon/875
-877,견고라스,ガチゴラス,바위,드래곤,82,121,119,69,59,71,521,https://gamewith.ai/pokemon-champions/ko/pokemon/877
-879,아마루르가,アマルルガ,바위,얼음,123,77,72,99,92,58,521,https://gamewith.ai/pokemon-champions/ko/pokemon/879
-880,님피아,ニンフィア,페어리,,95,65,65,110,130,60,525,https://gamewith.ai/pokemon-champions/ko/pokemon/880
-881,루차불,ルチャブル,격투,비행,78,92,75,74,63,118,500,https://gamewith.ai/pokemon-champions/ko/pokemon/881
-882,메가루차불,メガルチャブル,격투,비행,78,137,100,74,93,118,600,https://gamewith.ai/pokemon-champions/ko/pokemon/882
-883,데덴네,デデンネ,전기,페어리,67,58,57,81,67,101,431,https://gamewith.ai/pokemon-champions/ko/pokemon/883
-888,미끄래곤,ヌメルゴン,드래곤,,90,100,70,110,150,80,600,https://gamewith.ai/pokemon-champions/ko/pokemon/888
-889,히스이 미끄래곤,ヒスイヌメルゴン,강철,드래곤,80,100,100,110,150,60,600,https://gamewith.ai/pokemon-champions/ko/pokemon/889
-890,클레피,クレッフィ,강철,페어리,57,80,91,80,87,75,470,https://gamewith.ai/pokemon-champions/ko/pokemon/890
-892,대로트,オーロット,고스트,풀,85,110,76,65,82,56,474,https://gamewith.ai/pokemon-champions/ko/pokemon/892
-897,펌킨인（소과종）,パンプジン,고스트,풀,55,85,122,58,75,99,494,https://gamewith.ai/pokemon-champions/ko/pokemon/897
-898,펌킨인（중과종）,パンプジン,고스트,풀,65,90,122,58,75,84,494,https://gamewith.ai/pokemon-champions/ko/pokemon/898
-899,펌킨인（대과종）,パンプジン,고스트,풀,75,95,122,58,75,69,494,https://gamewith.ai/pokemon-champions/ko/pokemon/899
-900,펌킨인（특대과종）,パンプジン,고스트,풀,85,100,122,58,75,54,494,https://gamewith.ai/pokemon-champions/ko/pokemon/900
-902,크레베이스,クレベース,얼음,,95,117,184,44,46,28,514,https://gamewith.ai/pokemon-champions/ko/pokemon/902
-903,히스이 크레베이스,ヒスイクレベース,얼음,바위,95,127,184,34,36,38,514,https://gamewith.ai/pokemon-champions/ko/pokemon/903
-905,음번,オンバーン,비행,드래곤,85,70,80,97,80,123,535,https://gamewith.ai/pokemon-champions/ko/pokemon/905
-919,모크나이퍼,ジュナイパー,풀,고스트,78,107,75,100,100,70,530,https://gamewith.ai/pokemon-champions/ko/pokemon/919
-920,히스이 모크나이퍼,ヒスイジュナイパー,풀,격투,88,112,80,95,95,60,530,https://gamewith.ai/pokemon-champions/ko/pokemon/920
-923,어흥염,ガオガエン,불꽃,악,95,115,90,80,90,60,530,https://gamewith.ai/pokemon-champions/ko/pokemon/923
-926,누리레느,アシレーヌ,물,페어리,80,74,74,126,116,60,530,https://gamewith.ai/pokemon-champions/ko/pokemon/926
-929,왕큰부리,ドデカバシ,노말,비행,80,120,75,75,75,60,485,https://gamewith.ai/pokemon-champions/ko/pokemon/929
-936,모단단게,ケケンカニ,격투,얼음,97,132,77,62,67,43,478,https://gamewith.ai/pokemon-champions/ko/pokemon/936
-937,메가모단단게,メガケケンカニ,격투,얼음,97,157,122,62,107,33,578,https://gamewith.ai/pokemon-champions/ko/pokemon/937
-946,루가루암,ルガルガン(まひる),바위,,75,115,65,55,65,112,487,https://gamewith.ai/pokemon-champions/ko/pokemon/946
-947,루가루암(한밤중의 모습),ルガルガン(まよなか),바위,,85,115,75,55,75,82,487,https://gamewith.ai/pokemon-champions/ko/pokemon/947
-948,루가루암(황혼의 모습),ルガルガン(たそがれ),바위,,75,117,65,55,65,110,487,https://gamewith.ai/pokemon-champions/ko/pokemon/948
-952,더시마사리,ドヒドイデ,독,물,50,63,152,53,142,35,495,https://gamewith.ai/pokemon-champions/ko/pokemon/952
-954,만마드,バンバドロ,땅,,100,125,100,55,85,35,500,https://gamewith.ai/pokemon-champions/ko/pokemon/954
-956,깨비물거미,オニシズクモ,물,벌레,68,70,92,50,132,42,454,https://gamewith.ai/pokemon-champions/ko/pokemon/956
-962,염뉴트,エンニュート,독,불꽃,68,64,60,111,60,117,480,https://gamewith.ai/pokemon-champions/ko/pokemon/962
-967,달코퀸,アマージョ,풀,,72,120,98,50,98,72,510,https://gamewith.ai/pokemon-champions/ko/pokemon/967
-969,하랑우탄,ヤレユータン,노말,에스퍼,90,60,80,90,110,60,490,https://gamewith.ai/pokemon-champions/ko/pokemon/969
-970,내던숭이,ナゲツケサル,격투,,100,120,90,40,60,80,490,https://gamewith.ai/pokemon-champions/ko/pokemon/970
-984,따라큐,ミミッキュ,고스트,페어리,55,90,80,50,105,96,476,https://gamewith.ai/pokemon-champions/ko/pokemon/984
-986,할비롱,ジジーロン,노말,드래곤,78,60,85,135,91,36,485,https://gamewith.ai/pokemon-champions/ko/pokemon/986
-987,메가할비롱,メガジジーロン,노말,드래곤,78,85,110,160,116,36,585,https://gamewith.ai/pokemon-champions/ko/pokemon/987
-991,짜랑고우거,ジャラランガ,드래곤,격투,75,110,125,100,105,85,600,https://gamewith.ai/pokemon-champions/ko/pokemon/991
-1037,아머까오,アーマーガア,비행,강철,98,87,105,53,85,67,495,https://gamewith.ai/pokemon-champions/ko/pokemon/1037
-1055,애프룡,アップリュー,풀,드래곤,70,110,80,95,60,70,485,https://gamewith.ai/pokemon-champions/ko/pokemon/1055
-1056,단지래플,タルップル,풀,드래곤,110,85,80,100,80,30,485,https://gamewith.ai/pokemon-champions/ko/pokemon/1056
-1058,사다이사,サダイジャ,땅,,72,107,125,65,70,71,510,https://gamewith.ai/pokemon-champions/ko/pokemon/1058
-1071,포트데스（위작폼）,ポットデス,고스트,,60,65,65,134,114,70,508,https://gamewith.ai/pokemon-champions/ko/pokemon/1071
-1072,포트데스（진작폼）,ポットデス,고스트,,60,65,65,134,114,70,508,https://gamewith.ai/pokemon-champions/ko/pokemon/1072
-1075,브리무음,ブリムオン,에스퍼,페어리,57,90,95,136,103,29,510,https://gamewith.ai/pokemon-champions/ko/pokemon/1075
-1078,오롱털,オーロンゲ,악,페어리,95,120,65,95,75,60,510,https://gamewith.ai/pokemon-champions/ko/pokemon/1078
-1083,마임꽁꽁,バリコオル,얼음,에스퍼,80,85,75,110,100,70,520,https://gamewith.ai/pokemon-champions/ko/pokemon/1083
-1084,데스판,デスバーン,땅,고스트,58,95,145,50,105,30,483,https://gamewith.ai/pokemon-champions/ko/pokemon/1084
-1086,마휘핑,マホイップ,페어리,,65,60,75,110,121,64,495,https://gamewith.ai/pokemon-champions/ko/pokemon/1086
-1087,대여르,タイレーツ,격투,,65,100,100,70,60,75,470,https://gamewith.ai/pokemon-champions/ko/pokemon/1087
-1088,메가대여르,メガタイレーツ,격투,,65,135,135,70,65,100,570,https://gamewith.ai/pokemon-champions/ko/pokemon/1088
-1097,모르페코（배부른 모양）,モルペコ,전기,악,58,95,58,70,58,97,436,https://gamewith.ai/pokemon-champions/ko/pokemon/1097
-1098,모르페코（배고픈 모양）,モルペコ,전기,악,58,95,58,70,58,97,436,https://gamewith.ai/pokemon-champions/ko/pokemon/1098
-1108,드래펄트,ドラパルト,드래곤,고스트,88,120,75,100,75,142,600,https://gamewith.ai/pokemon-champions/ko/pokemon/1108
-1126,신비록,アヤシシ,노말,에스퍼,103,105,72,105,75,65,525,https://gamewith.ai/pokemon-champions/ko/pokemon/1126
-1127,사마자르,バサギリ,벌레,바위,70,135,95,45,70,85,500,https://gamewith.ai/pokemon-champions/ko/pokemon/1127
-1129,대쓰여너,イダイトウ(オス),물,고스트,120,112,65,80,75,78,530,https://gamewith.ai/pokemon-champions/ko/pokemon/1129
-1130,대쓰여너(암컷),イダイトウ(メス),물,고스트,120,92,65,100,75,78,530,https://gamewith.ai/pokemon-champions/ko/pokemon/1130
-1131,포푸니크,オオニューラ,격투,독,80,130,60,40,80,120,510,https://gamewith.ai/pokemon-champions/ko/pokemon/1131
-1132,장침바루,ハリーマン,악,독,85,115,95,65,65,85,510,https://gamewith.ai/pokemon-champions/ko/pokemon/1132
-1137,마스카나,マスカーニャ,풀,악,76,110,70,81,70,123,530,https://gamewith.ai/pokemon-champions/ko/pokemon/1137
-1140,라우드본,ラウドボーン,불꽃,고스트,104,75,100,110,75,66,530,https://gamewith.ai/pokemon-champions/ko/pokemon/1140
-1143,웨이니발,ウェーニバル,물,격투,85,120,80,85,75,85,530,https://gamewith.ai/pokemon-champions/ko/pokemon/1143
-1157,파밀리쥐（세 식구）,イッカネズミ,노말,,74,75,70,65,75,111,470,https://gamewith.ai/pokemon-champions/ko/pokemon/1157
-1169,콜로솔트,キョジオーン,바위,,100,100,130,45,90,35,500,https://gamewith.ai/pokemon-champions/ko/pokemon/1169
-1170,저승갓숭,コノヨザル,격투,고스트,110,115,80,50,90,90,535,https://gamewith.ai/pokemon-champions/ko/pokemon/1170
-1172,카디나르마,グレンアルマ,불꽃,에스퍼,85,60,100,125,80,75,525,https://gamewith.ai/pokemon-champions/ko/pokemon/1172
-1173,파라블레이즈,ソウブレイズ,불꽃,고스트,75,125,80,60,100,85,525,https://gamewith.ai/pokemon-champions/ko/pokemon/1173
-1175,찌리배리,ハラバリー,전기,,109,64,91,103,83,45,495,https://gamewith.ai/pokemon-champions/ko/pokemon/1175
-1179,키키링,リキキリン,노말,에스퍼,120,90,70,110,70,60,520,https://gamewith.ai/pokemon-champions/ko/pokemon/1179
-1184,팔데아 켄타로스(컴뱃종),パルデアケンタロス(かくとう),격투,,75,110,105,30,70,100,490,https://gamewith.ai/pokemon-champions/ko/pokemon/1184
-1185,팔데아 켄타로스(워터종),パルデアケンタロス(みず),격투,물,75,110,105,30,70,100,490,https://gamewith.ai/pokemon-champions/ko/pokemon/1185
-1186,팔데아 켄타로스(블레이즈종),パルデアケンタロス(ほのお),격투,불꽃,75,110,105,30,70,100,490,https://gamewith.ai/pokemon-champions/ko/pokemon/1186
-1193,스코빌런,スコヴィラン,풀,불꽃,65,108,65,108,65,75,486,https://gamewith.ai/pokemon-champions/ko/pokemon/1193
-1194,메가스코빌런,メガスコヴィラン,풀,불꽃,65,138,85,138,85,75,586,https://gamewith.ai/pokemon-champions/ko/pokemon/1194
-1198,클레스퍼트라,クエスパトラ,에스퍼,,95,60,60,101,60,105,481,https://gamewith.ai/pokemon-champions/ko/pokemon/1198
-1201,두드리짱,デカヌチャン,페어리,강철,85,75,77,70,105,94,506,https://gamewith.ai/pokemon-champions/ko/pokemon/1201
-1206,돌핀맨,イルカマン,물,,100,70,72,53,62,100,457,https://gamewith.ai/pokemon-champions/ko/pokemon/1206
-1207,돌핀맨,イルカマン,물,,100,160,97,106,87,100,650,https://gamewith.ai/pokemon-champions/ko/pokemon/1207
-1211,꿈트렁,ミミズズ,강철,,70,85,145,60,55,65,480,https://gamewith.ai/pokemon-champions/ko/pokemon/1211
-1213,킬라플로르,キラフロル,바위,독,83,55,90,130,81,86,525,https://gamewith.ai/pokemon-champions/ko/pokemon/1213
-1214,메가킬라플로르,メガキラフロル,바위,독,83,90,105,150,96,101,625,https://gamewith.ai/pokemon-champions/ko/pokemon/1214
-1216,묘두기,ハカドッグ,고스트,,72,101,100,50,97,68,488,https://gamewith.ai/pokemon-champions/ko/pokemon/1216
-1220,대도각참,ドドゲザン,악,강철,100,135,120,60,85,50,550,https://gamewith.ai/pokemon-champions/ko/pokemon/1220
-1247,타부자고,サーフゴー,강철,고스트,87,60,95,133,91,84,550,https://gamewith.ai/pokemon-champions/ko/pokemon/1247
-1261,그우린차（범작의 모습）,ヤバソチャ,풀,고스트,71,60,106,121,80,70,508,https://gamewith.ai/pokemon-champions/ko/pokemon/1261
-1262,그우린차（걸작의 모습）,ヤバソチャ,풀,고스트,71,60,106,121,80,70,508,https://gamewith.ai/pokemon-champions/ko/pokemon/1262
-1271,브리두라스,ブリジュラス,강철,드래곤,90,105,130,125,65,85,600,https://gamewith.ai/pokemon-champions/ko/pokemon/1271
-1275,과미드라,カミツオロチ,풀,드래곤,106,80,110,120,80,44,540,https://gamewith.ai/pokemon-champions/ko/pokemon/1275
-1281,파밀리쥐（네 식구）,イッカネズミ,노말,,74,75,70,65,75,111,470,https://gamewith.ai/pokemon-champions/ko/pokemon/1281
+﻿ID,도감번호,이름,일본어이름,영어이름,이미지URL,타입1,타입2,HP,공격,방어,특공,특방,스피드,종족값합계,상세URL
+3,3,이상해꽃,フシギバナ,Venusaur,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/003.png,풀,독,80,82,83,100,100,80,525,https://gamewith.ai/pokemon-champions/ko/pokemon/3
+4,3,메가이상해꽃,メガフシギバナ,Mega Venusaur,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/003_1.png,풀,독,80,100,123,122,120,80,625,https://gamewith.ai/pokemon-champions/ko/pokemon/4
+7,6,리자몽,リザードン,Charizard,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/006.png,불꽃,비행,78,84,78,109,85,100,534,https://gamewith.ai/pokemon-champions/ko/pokemon/7
+8,6,메가리자몽X,メガリザードンX,Mega Charizard X,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/006_1.png,불꽃,드래곤,78,130,111,130,85,100,634,https://gamewith.ai/pokemon-champions/ko/pokemon/8
+9,6,메가리자몽Y,メガリザードンY,Mega Charizard Y,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/006_2.png,불꽃,비행,78,104,78,159,115,100,634,https://gamewith.ai/pokemon-champions/ko/pokemon/9
+12,9,거북왕,カメックス,Blastoise,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/009.png,물,,79,83,100,85,105,78,530,https://gamewith.ai/pokemon-champions/ko/pokemon/12
+13,9,메가거북왕,メガカメックス,Mega Blastoise,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/009_1.png,물,,79,103,120,135,115,78,630,https://gamewith.ai/pokemon-champions/ko/pokemon/13
+19,15,독침붕,スピアー,Beedrill,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/015.png,벌레,독,65,90,40,45,80,75,395,https://gamewith.ai/pokemon-champions/ko/pokemon/19
+20,15,메가독침붕,メガスピアー,Mega Beedrill,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/015_1.png,벌레,독,65,150,40,15,80,145,495,https://gamewith.ai/pokemon-champions/ko/pokemon/20
+23,18,피죤투,ピジョット,Pidgeot,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/018.png,노말,비행,83,80,75,70,70,101,479,https://gamewith.ai/pokemon-champions/ko/pokemon/23
+24,18,메가피죤투,メガピジョット,Mega Pidgeot,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/018_1.png,노말,비행,83,80,80,135,80,121,579,https://gamewith.ai/pokemon-champions/ko/pokemon/24
+32,24,아보크,アーボック,Arbok,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/024.png,독,,60,95,69,65,79,80,448,https://gamewith.ai/pokemon-champions/ko/pokemon/32
+33,25,피카츄,ピカチュウ,Pikachu,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/025.png,전기,,35,55,40,50,50,90,320,https://gamewith.ai/pokemon-champions/ko/pokemon/33
+34,26,라이츄,ライチュウ,Raichu,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/026.png,전기,,60,90,55,90,80,110,485,https://gamewith.ai/pokemon-champions/ko/pokemon/34
+35,26,알로라 라이츄,アローラライチュウ,Alolan Raichu,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/026_1.png,전기,에스퍼,60,85,50,95,85,110,485,https://gamewith.ai/pokemon-champions/ko/pokemon/35
+36,26,메가라이츄X,メガライチュウX,Mega Raichu X,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/026_2.png,전기,,60,135,95,90,95,110,585,https://gamewith.ai/pokemon-champions/ko/pokemon/36
+37,26,메가라이츄Y,メガライチュウY,Mega Raichu Y,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/026_3.png,전기,,60,100,55,160,80,130,585,https://gamewith.ai/pokemon-champions/ko/pokemon/37
+49,36,픽시,ピクシー,Clefable,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/036.png,페어리,,95,70,73,95,90,60,483,https://gamewith.ai/pokemon-champions/ko/pokemon/49
+50,36,메가픽시,メガピクシー,Mega Clefable,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/036_1.png,페어리,비행,95,80,93,135,110,70,583,https://gamewith.ai/pokemon-champions/ko/pokemon/50
+53,38,나인테일,キュウコン,Ninetales,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/038.png,불꽃,,73,76,75,81,100,100,505,https://gamewith.ai/pokemon-champions/ko/pokemon/53
+54,38,알로라 나인테일,アローラキュウコン,Alolan Ninetales,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/038_1.png,얼음,페어리,73,67,75,81,100,109,505,https://gamewith.ai/pokemon-champions/ko/pokemon/54
+61,45,라플레시아,ラフレシア,Vileplume,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/045.png,풀,독,75,80,85,110,90,50,490,https://gamewith.ai/pokemon-champions/ko/pokemon/61
+81,59,윈디,ウインディ,Arcanine,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/059.png,불꽃,,90,110,80,100,80,95,555,https://gamewith.ai/pokemon-champions/ko/pokemon/81
+82,59,히스이 윈디,ヒスイウインディ,Hisuian Arcanine,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/059_1.png,불꽃,바위,95,115,80,95,80,90,555,https://gamewith.ai/pokemon-champions/ko/pokemon/82
+88,65,후딘,フーディン,Alakazam,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/065.png,에스퍼,,55,50,45,135,95,120,500,https://gamewith.ai/pokemon-champions/ko/pokemon/88
+89,65,메가후딘,メガフーディン,Mega Alakazam,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/065_1.png,에스퍼,,55,50,65,175,105,150,600,https://gamewith.ai/pokemon-champions/ko/pokemon/89
+92,68,괴력몬,カイリキー,Machamp,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/068.png,격투,,90,130,80,65,85,55,505,https://gamewith.ai/pokemon-champions/ko/pokemon/92
+95,71,우츠보트,ウツボット,Victreebel,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/071.png,풀,독,80,105,65,100,70,70,490,https://gamewith.ai/pokemon-champions/ko/pokemon/95
+96,71,메가우츠보트,メガウツボット,Mega Victreebel,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/071_1.png,풀,독,80,125,85,135,95,70,590,https://gamewith.ai/pokemon-champions/ko/pokemon/96
+111,80,야도란,ヤドラン,Slowbro,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/080.png,물,에스퍼,95,75,110,100,80,30,490,https://gamewith.ai/pokemon-champions/ko/pokemon/111
+112,80,메가야도란,メガヤドラン,Mega Slowbro,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/080_1.png,물,에스퍼,95,75,180,130,80,30,590,https://gamewith.ai/pokemon-champions/ko/pokemon/112
+113,80,가라르 야도란,ガラルヤドラン,Galarian Slowbro,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/080_2.png,독,에스퍼,95,100,95,100,70,30,490,https://gamewith.ai/pokemon-champions/ko/pokemon/113
+130,94,팬텀,ゲンガー,Gengar,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/094.png,고스트,독,60,65,60,130,75,110,500,https://gamewith.ai/pokemon-champions/ko/pokemon/130
+131,94,메가팬텀,メガゲンガー,Mega Gengar,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/094_1.png,고스트,독,60,65,80,170,95,130,600,https://gamewith.ai/pokemon-champions/ko/pokemon/131
+157,115,캥카,ガルーラ,Kangaskhan,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/115.png,노말,,105,95,80,40,80,90,490,https://gamewith.ai/pokemon-champions/ko/pokemon/157
+158,115,메가캥카,メガガルーラ,Mega Kangaskhan,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/115_1.png,노말,,105,125,100,60,100,100,590,https://gamewith.ai/pokemon-champions/ko/pokemon/158
+164,121,아쿠스타,スターミー,Starmie,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/121.png,물,에스퍼,60,75,85,100,85,115,520,https://gamewith.ai/pokemon-champions/ko/pokemon/164
+165,121,메가아쿠스타,メガスターミー,Mega Starmie,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/121_1.png,물,에스퍼,60,100,105,130,105,120,620,https://gamewith.ai/pokemon-champions/ko/pokemon/165
+172,127,쁘사이저,カイロス,Pinsir,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/127.png,벌레,,65,125,100,55,70,85,500,https://gamewith.ai/pokemon-champions/ko/pokemon/172
+173,127,메가쁘사이저,メガカイロス,Mega Pinsir,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/127_1.png,벌레,비행,65,155,120,65,90,105,600,https://gamewith.ai/pokemon-champions/ko/pokemon/173
+174,128,켄타로스,ケンタロス,Tauros,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/128.png,노말,,75,100,95,40,70,110,490,https://gamewith.ai/pokemon-champions/ko/pokemon/174
+176,130,갸라도스,ギャラドス,Gyarados,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/130.png,물,비행,95,125,79,60,100,81,540,https://gamewith.ai/pokemon-champions/ko/pokemon/176
+177,130,메가갸라도스,メガギャラドス,Mega Gyarados,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/130_1.png,물,악,95,155,109,70,130,81,640,https://gamewith.ai/pokemon-champions/ko/pokemon/177
+179,132,메타몽,メタモン,Ditto,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/132.png,노말,,48,48,48,48,48,48,288,https://gamewith.ai/pokemon-champions/ko/pokemon/179
+181,134,샤미드,シャワーズ,Vaporeon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/134.png,물,,130,65,60,110,95,65,525,https://gamewith.ai/pokemon-champions/ko/pokemon/181
+182,135,쥬피썬더,サンダース,Jolteon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/135.png,전기,,65,65,60,110,95,130,525,https://gamewith.ai/pokemon-champions/ko/pokemon/182
+183,136,부스터,ブースター,Flareon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/136.png,불꽃,,65,130,60,95,110,65,525,https://gamewith.ai/pokemon-champions/ko/pokemon/183
+189,142,프테라,プテラ,Aerodactyl,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/142.png,바위,비행,80,105,65,60,75,130,515,https://gamewith.ai/pokemon-champions/ko/pokemon/189
+190,142,메가프테라,メガプテラ,Mega Aerodactyl,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/142_1.png,바위,비행,80,135,85,70,95,150,615,https://gamewith.ai/pokemon-champions/ko/pokemon/190
+191,143,잠만보,カビゴン,Snorlax,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/143.png,노말,,160,110,65,65,110,30,540,https://gamewith.ai/pokemon-champions/ko/pokemon/191
+200,149,망나뇽,カイリュー,Dragonite,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/149.png,드래곤,비행,91,134,95,100,100,80,600,https://gamewith.ai/pokemon-champions/ko/pokemon/200
+201,149,메가망나뇽,メガカイリュー,Mega Dragonite,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/149_1.png,드래곤,비행,91,124,115,145,125,100,700,https://gamewith.ai/pokemon-champions/ko/pokemon/201
+208,154,메가니움,メガニウム,Meganium,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/154.png,풀,,80,82,100,83,100,80,525,https://gamewith.ai/pokemon-champions/ko/pokemon/208
+209,154,메가메가니움,メガメガニウム,Mega Meganium,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/154_1.png,풀,페어리,80,92,115,143,115,80,625,https://gamewith.ai/pokemon-champions/ko/pokemon/209
+212,157,블레이범,バクフーン,Typhlosion,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/157.png,불꽃,,78,84,78,109,85,100,534,https://gamewith.ai/pokemon-champions/ko/pokemon/212
+213,157,히스이 블레이범,ヒスイバクフーン,Hisuian Typhlosion,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/157_1.png,불꽃,고스트,73,84,78,119,85,95,534,https://gamewith.ai/pokemon-champions/ko/pokemon/213
+216,160,장크로다일,オーダイル,Feraligatr,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/160.png,물,,85,105,100,79,83,78,530,https://gamewith.ai/pokemon-champions/ko/pokemon/216
+217,160,메가장크로다일,メガオーダイル,Mega Feraligatr,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/160_1.png,물,드래곤,85,160,125,89,93,78,630,https://gamewith.ai/pokemon-champions/ko/pokemon/217
+225,168,아리아도스,アリアドス,Ariados,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/168.png,벌레,독,70,90,70,60,70,40,400,https://gamewith.ai/pokemon-champions/ko/pokemon/225
+238,181,전룡,デンリュウ,Ampharos,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/181.png,전기,,90,75,85,115,90,55,510,https://gamewith.ai/pokemon-champions/ko/pokemon/238
+239,181,메가전룡,メガデンリュウ,Mega Ampharos,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/181_1.png,전기,드래곤,90,95,105,165,110,45,610,https://gamewith.ai/pokemon-champions/ko/pokemon/239
+242,184,마릴리,マリルリ,Azumarill,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/184.png,물,페어리,100,50,80,60,80,50,420,https://gamewith.ai/pokemon-champions/ko/pokemon/242
+244,186,왕구리,ニョロトノ,Politoed,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/186.png,물,,90,75,75,90,100,70,500,https://gamewith.ai/pokemon-champions/ko/pokemon/244
+254,196,에브이,エーフィ,Espeon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/196.png,에스퍼,,65,65,60,130,95,110,525,https://gamewith.ai/pokemon-champions/ko/pokemon/254
+255,197,블래키,ブラッキー,Umbreon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/197.png,악,,95,65,110,60,130,65,525,https://gamewith.ai/pokemon-champions/ko/pokemon/255
+257,199,야도킹,ヤドキング,Slowking,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/199.png,물,에스퍼,95,75,80,100,110,30,490,https://gamewith.ai/pokemon-champions/ko/pokemon/257
+258,199,가라르 야도킹,ガラルヤドキング,Galarian Slowking,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/199_1.png,독,에스퍼,95,65,80,110,110,30,490,https://gamewith.ai/pokemon-champions/ko/pokemon/258
+264,205,쏘콘,フォレトス,Forretress,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/205.png,벌레,강철,75,90,140,60,60,40,465,https://gamewith.ai/pokemon-champions/ko/pokemon/264
+267,208,강철톤,ハガネール,Steelix,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/208.png,강철,땅,75,85,200,55,65,30,510,https://gamewith.ai/pokemon-champions/ko/pokemon/267
+268,208,메가강철톤,メガハガネール,Mega Steelix,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/208_1.png,강철,땅,75,125,230,55,95,30,610,https://gamewith.ai/pokemon-champions/ko/pokemon/268
+271,211,침바루,ハリーセン,Qwilfish,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/211.png,물,독,65,95,85,55,55,85,440,https://gamewith.ai/pokemon-champions/ko/pokemon/271
+273,212,핫삼,ハッサム,Scizor,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/212.png,벌레,강철,70,130,100,55,80,65,500,https://gamewith.ai/pokemon-champions/ko/pokemon/273
+274,212,메가핫삼,メガハッサム,Mega Scizor,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/212_1.png,벌레,강철,70,150,140,65,100,75,600,https://gamewith.ai/pokemon-champions/ko/pokemon/274
+276,214,헤라크로스,ヘラクロス,Heracross,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/214.png,벌레,격투,80,125,75,40,95,85,500,https://gamewith.ai/pokemon-champions/ko/pokemon/276
+277,214,메가헤라크로스,メガヘラクロス,Mega Heracross,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/214_1.png,벌레,격투,80,185,115,40,105,75,600,https://gamewith.ai/pokemon-champions/ko/pokemon/277
+292,227,무장조,エアームド,Skarmory,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/227.png,강철,비행,65,80,140,40,70,70,465,https://gamewith.ai/pokemon-champions/ko/pokemon/292
+293,227,메가무장조,メガエアームド,Mega Skarmory,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/227_1.png,강철,비행,65,140,110,40,100,110,565,https://gamewith.ai/pokemon-champions/ko/pokemon/293
+295,229,헬가,ヘルガー,Houndoom,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/229.png,악,불꽃,75,90,50,110,80,95,500,https://gamewith.ai/pokemon-champions/ko/pokemon/295
+296,229,메가헬가,メガヘルガー,Mega Houndoom,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/229_1.png,악,불꽃,75,90,90,140,90,115,600,https://gamewith.ai/pokemon-champions/ko/pokemon/296
+315,248,마기라스,バンギラス,Tyranitar,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/248.png,바위,악,100,134,110,95,100,61,600,https://gamewith.ai/pokemon-champions/ko/pokemon/315
+316,248,메가마기라스,メガバンギラス,Mega Tyranitar,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/248_1.png,바위,악,100,164,150,95,120,71,700,https://gamewith.ai/pokemon-champions/ko/pokemon/316
+322,254,나무킹,ジュカイン,Sceptile,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/254.png,풀,,70,85,65,105,85,120,530,https://gamewith.ai/pokemon-champions/ko/pokemon/322
+323,254,메가나무킹,メガジュカイン,Mega Sceptile,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/254_1.png,풀,드래곤,70,110,75,145,85,145,630,https://gamewith.ai/pokemon-champions/ko/pokemon/323
+326,257,번치코,バシャーモ,Blaziken,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/257.png,불꽃,격투,80,120,70,110,70,80,530,https://gamewith.ai/pokemon-champions/ko/pokemon/326
+327,257,메가번치코,メガバシャーモ,Mega Blaziken,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/257_1.png,불꽃,격투,80,160,80,130,80,100,630,https://gamewith.ai/pokemon-champions/ko/pokemon/327
+330,260,대짱이,ラグラージ,Swampert,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/260.png,물,땅,100,110,90,85,90,60,535,https://gamewith.ai/pokemon-champions/ko/pokemon/330
+331,260,메가대짱이,メガラグラージ,Mega Swampert,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/260_1.png,물,땅,100,150,110,95,110,70,635,https://gamewith.ai/pokemon-champions/ko/pokemon/331
+352,279,패리퍼,ペリッパー,Pelipper,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/279.png,물,비행,60,50,100,95,70,65,440,https://gamewith.ai/pokemon-champions/ko/pokemon/352
+355,282,가디안,サーナイト,Gardevoir,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/282.png,에스퍼,페어리,68,65,65,125,115,80,518,https://gamewith.ai/pokemon-champions/ko/pokemon/355
+356,282,메가가디안,メガサーナイト,Mega Gardevoir,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/282_1.png,에스퍼,페어리,68,85,65,165,135,100,618,https://gamewith.ai/pokemon-champions/ko/pokemon/356
+376,302,깜까미,ヤミラミ,Sableye,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/302.png,악,고스트,50,75,75,65,65,50,380,https://gamewith.ai/pokemon-champions/ko/pokemon/376
+377,302,메가깜까미,メガヤミラミ,Mega Sableye,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/302_1.png,악,고스트,50,85,125,85,115,20,480,https://gamewith.ai/pokemon-champions/ko/pokemon/377
+378,303,입치트,クチート,Mawile,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/303.png,강철,페어리,50,85,85,55,55,50,380,https://gamewith.ai/pokemon-champions/ko/pokemon/378
+379,303,메가입치트,メガクチート,Mega Mawile,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/303_1.png,강철,페어리,50,105,125,55,95,50,480,https://gamewith.ai/pokemon-champions/ko/pokemon/379
+382,306,보스로라,ボスゴドラ,Aggron,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/306.png,강철,바위,70,110,180,60,60,50,530,https://gamewith.ai/pokemon-champions/ko/pokemon/382
+383,306,메가보스로라,メガボスゴドラ,Mega Aggron,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/306_1.png,강철,,70,140,230,60,80,50,630,https://gamewith.ai/pokemon-champions/ko/pokemon/383
+385,308,요가램,チャーレム,Medicham,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/308.png,격투,에스퍼,60,60,75,60,75,80,410,https://gamewith.ai/pokemon-champions/ko/pokemon/385
+386,308,메가요가램,メガチャーレム,Mega Medicham,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/308_1.png,격투,에스퍼,60,100,85,80,85,100,510,https://gamewith.ai/pokemon-champions/ko/pokemon/386
+388,310,썬더볼트,ライボルト,Manectric,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/310.png,전기,,70,75,60,105,60,105,475,https://gamewith.ai/pokemon-champions/ko/pokemon/388
+389,310,메가썬더볼트,メガライボルト,Mega Manectric,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/310_1.png,전기,,70,75,80,135,80,135,575,https://gamewith.ai/pokemon-champions/ko/pokemon/389
+398,319,샤크니아,サメハダー,Sharpedo,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/319.png,물,악,70,120,40,95,40,95,460,https://gamewith.ai/pokemon-champions/ko/pokemon/398
+399,319,메가샤크니아,メガサメハダー,Mega Sharpedo,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/319_1.png,물,악,70,140,70,110,65,105,560,https://gamewith.ai/pokemon-champions/ko/pokemon/399
+403,323,폭타,バクーダ,Camerupt,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/323.png,불꽃,땅,70,100,70,105,75,40,460,https://gamewith.ai/pokemon-champions/ko/pokemon/403
+404,323,메가폭타,メガバクーダ,Mega Camerupt,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/323_1.png,불꽃,땅,70,120,100,145,105,20,560,https://gamewith.ai/pokemon-champions/ko/pokemon/404
+405,324,코터스,コータス,Torkoal,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/324.png,불꽃,,70,85,140,85,70,20,470,https://gamewith.ai/pokemon-champions/ko/pokemon/405
+415,334,파비코리,チルタリス,Altaria,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/334.png,드래곤,비행,75,70,90,70,105,80,490,https://gamewith.ai/pokemon-champions/ko/pokemon/415
+416,334,메가파비코리,メガチルタリス,Mega Altaria,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/334_1.png,드래곤,페어리,75,110,110,110,105,80,590,https://gamewith.ai/pokemon-champions/ko/pokemon/416
+432,350,밀로틱,ミロカロス,Milotic,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/350.png,물,,95,60,79,100,125,81,540,https://gamewith.ai/pokemon-champions/ko/pokemon/432
+433,351,캐스퐁,ポワルン,Castform,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/351.png,노말,,70,70,70,70,70,70,420,https://gamewith.ai/pokemon-champions/ko/pokemon/433
+434,351,캐스퐁（태양의 모습）,ポワルン,Sunny Castform,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/351_1.png,불꽃,,70,70,70,70,70,70,420,https://gamewith.ai/pokemon-champions/ko/pokemon/434
+435,351,캐스퐁（빗방울의 모습）,ポワルン,Rainy Castform,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/351_2.png,물,,70,70,70,70,70,70,420,https://gamewith.ai/pokemon-champions/ko/pokemon/435
+436,351,캐스퐁（설운의 모습）,ポワルン,Snowy Castform,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/351_3.png,얼음,,70,70,70,70,70,70,420,https://gamewith.ai/pokemon-champions/ko/pokemon/436
+439,354,다크펫,ジュペッタ,Banette,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/354.png,고스트,,64,115,65,83,63,65,455,https://gamewith.ai/pokemon-champions/ko/pokemon/439
+440,354,메가다크펫,メガジュペッタ,Mega Banette,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/354_1.png,고스트,,64,165,75,93,83,75,555,https://gamewith.ai/pokemon-champions/ko/pokemon/440
+444,358,치렁,チリーン,Chimecho,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/358.png,에스퍼,,75,50,80,95,90,65,455,https://gamewith.ai/pokemon-champions/ko/pokemon/444
+445,358,메가치렁,メガチリーン,Mega Chimecho,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/358_1.png,에스퍼,강철,75,50,110,135,120,65,555,https://gamewith.ai/pokemon-champions/ko/pokemon/445
+446,359,앱솔,アブソル,Absol,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/359.png,악,,65,130,60,75,60,75,465,https://gamewith.ai/pokemon-champions/ko/pokemon/446
+447,359,메가앱솔,メガアブソル,Mega Absol,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/359_1.png,악,,65,150,60,115,60,115,565,https://gamewith.ai/pokemon-champions/ko/pokemon/447
+451,362,얼음귀신,オニゴーリ,Glalie,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/362.png,얼음,,80,80,80,80,80,80,480,https://gamewith.ai/pokemon-champions/ko/pokemon/451
+452,362,메가얼음귀신,メガオニゴーリ,Mega Glalie,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/362_1.png,얼음,,80,120,80,120,80,100,580,https://gamewith.ai/pokemon-champions/ko/pokemon/452
+467,376,메타그로스,メタグロス,Metagross,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/376.png,강철,에스퍼,80,135,130,95,90,70,600,https://gamewith.ai/pokemon-champions/ko/pokemon/467
+468,376,메가메타그로스,メガメタグロス,Mega Metagross,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/376_1.png,강철,에스퍼,80,145,150,105,110,110,700,https://gamewith.ai/pokemon-champions/ko/pokemon/468
+489,389,토대부기,ドダイトス,Torterra,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/389.png,풀,땅,95,109,105,75,85,56,525,https://gamewith.ai/pokemon-champions/ko/pokemon/489
+492,392,초염몽,ゴウカザル,Infernape,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/392.png,불꽃,격투,76,104,71,104,71,108,534,https://gamewith.ai/pokemon-champions/ko/pokemon/492
+495,395,엠페르트,エンペルト,Empoleon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/395.png,물,강철,84,86,88,111,101,60,530,https://gamewith.ai/pokemon-champions/ko/pokemon/495
+498,398,찌르호크,ムクホーク,Staraptor,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/398.png,노말,비행,85,120,70,50,60,100,485,https://gamewith.ai/pokemon-champions/ko/pokemon/498
+499,398,메가찌르호크,メガムクホーク,Mega Staraptor,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/398_1.png,격투,비행,85,140,100,60,90,110,585,https://gamewith.ai/pokemon-champions/ko/pokemon/499
+506,405,렌트라,レントラー,Luxray,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/405.png,전기,,80,120,79,95,79,70,523,https://gamewith.ai/pokemon-champions/ko/pokemon/506
+508,407,로즈레이드,ロズレイド,Roserade,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/407.png,풀,독,60,70,65,125,105,90,515,https://gamewith.ai/pokemon-champions/ko/pokemon/508
+510,409,램펄드,ラムパルド,Rampardos,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/409.png,바위,,97,165,60,65,50,58,495,https://gamewith.ai/pokemon-champions/ko/pokemon/510
+512,411,바리톱스,トリデプス,Bastiodon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/411.png,바위,강철,60,52,168,47,138,30,495,https://gamewith.ai/pokemon-champions/ko/pokemon/512
+536,428,이어롭,ミミロップ,Lopunny,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/428.png,노말,,65,76,84,54,96,105,480,https://gamewith.ai/pokemon-champions/ko/pokemon/536
+537,428,메가이어롭,メガミミロップ,Mega Lopunny,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/428_1.png,노말,격투,65,136,94,54,96,135,580,https://gamewith.ai/pokemon-champions/ko/pokemon/537
+551,442,화강돌,ミカルゲ,Spiritomb,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/442.png,고스트,악,50,92,108,92,108,35,485,https://gamewith.ai/pokemon-champions/ko/pokemon/551
+554,445,한카리아스,ガブリアス,Garchomp,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/445.png,드래곤,땅,108,130,95,80,85,102,600,https://gamewith.ai/pokemon-champions/ko/pokemon/554
+555,445,메가한카리아스,メガガブリアス,Mega Garchomp,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/445_1.png,드래곤,땅,108,170,115,120,95,92,700,https://gamewith.ai/pokemon-champions/ko/pokemon/555
+559,448,루카리오,ルカリオ,Lucario,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/448.png,격투,강철,70,110,70,115,70,90,525,https://gamewith.ai/pokemon-champions/ko/pokemon/559
+560,448,메가루카리오,メガルカリオ,Mega Lucario,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/448_1.png,격투,강철,70,145,88,140,70,112,625,https://gamewith.ai/pokemon-champions/ko/pokemon/560
+563,450,하마돈 ♂,カバルドン,Hippowdon ♂,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/450.png,땅,,108,112,118,68,72,47,525,https://gamewith.ai/pokemon-champions/ko/pokemon/563
+564,450,하마돈 ♀,カバルドン,Hippowdon ♀,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/450_1.png,땅,,108,112,118,68,72,47,525,https://gamewith.ai/pokemon-champions/ko/pokemon/564
+568,454,독개굴,ドクロッグ,Toxicroak,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/454.png,독,격투,83,106,65,86,65,85,490,https://gamewith.ai/pokemon-champions/ko/pokemon/568
+574,460,눈설왕,ユキノオー,Abomasnow,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/460.png,풀,얼음,90,92,75,92,85,60,494,https://gamewith.ai/pokemon-champions/ko/pokemon/574
+575,460,메가눈설왕,メガユキノオー,Mega Abomasnow,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/460_1.png,풀,얼음,90,132,105,132,105,30,594,https://gamewith.ai/pokemon-champions/ko/pokemon/575
+576,461,포푸니라,マニューラ,Weavile,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/461.png,악,얼음,70,120,65,45,85,125,510,https://gamewith.ai/pokemon-champions/ko/pokemon/576
+579,464,거대코뿌리,ドサイドン,Rhyperior,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/464.png,땅,바위,115,140,130,55,55,40,535,https://gamewith.ai/pokemon-champions/ko/pokemon/579
+585,470,리피아,リーフィア,Leafeon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/470.png,풀,,65,110,130,60,65,95,525,https://gamewith.ai/pokemon-champions/ko/pokemon/585
+586,471,글레이시아,グレイシア,Glaceon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/471.png,얼음,,65,60,110,130,95,65,525,https://gamewith.ai/pokemon-champions/ko/pokemon/586
+587,472,글라이온,グライオン,Gliscor,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/472.png,땅,비행,75,95,125,45,75,95,510,https://gamewith.ai/pokemon-champions/ko/pokemon/587
+588,473,맘모꾸리,マンムー,Mamoswine,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/473.png,얼음,땅,110,130,80,70,60,80,530,https://gamewith.ai/pokemon-champions/ko/pokemon/588
+590,475,엘레이드,エルレイド,Gallade,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/475.png,에스퍼,격투,68,125,65,65,115,80,518,https://gamewith.ai/pokemon-champions/ko/pokemon/590
+591,475,메가엘레이드,メガエルレイド,Mega Gallade,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/475_1.png,에스퍼,격투,68,165,95,65,115,110,618,https://gamewith.ai/pokemon-champions/ko/pokemon/591
+594,478,눈여아,ユキメノコ,Froslass,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/478.png,얼음,고스트,70,80,70,80,70,110,480,https://gamewith.ai/pokemon-champions/ko/pokemon/594
+595,478,메가눈여아,メガユキメノコ,Mega Froslass,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/478_1.png,얼음,고스트,70,80,70,140,100,120,580,https://gamewith.ai/pokemon-champions/ko/pokemon/595
+596,479,로토무,ロトム,Rotom,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/479.png,전기,고스트,50,50,77,95,77,91,440,https://gamewith.ai/pokemon-champions/ko/pokemon/596
+597,479,히트로토무,ヒートロトム,Heat Rotom,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/479_1.png,전기,불꽃,50,65,107,105,107,86,520,https://gamewith.ai/pokemon-champions/ko/pokemon/597
+598,479,워시로토무,ウォッシュロトム,Wash Rotom,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/479_2.png,전기,물,50,65,107,105,107,86,520,https://gamewith.ai/pokemon-champions/ko/pokemon/598
+599,479,프로스트로토무,フロストロトム,Frost Rotom,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/479_3.png,전기,얼음,50,65,107,105,107,86,520,https://gamewith.ai/pokemon-champions/ko/pokemon/599
+600,479,스핀로토무,スピンロトム,Fan Rotom,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/479_4.png,전기,비행,50,65,107,105,107,86,520,https://gamewith.ai/pokemon-champions/ko/pokemon/600
+601,479,커트로토무,カットロトム,Mow Rotom,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/479_5.png,전기,풀,50,65,107,105,107,86,520,https://gamewith.ai/pokemon-champions/ko/pokemon/601
+625,497,샤로다,ジャローダ,Serperior,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/497.png,풀,,75,75,95,75,95,113,528,https://gamewith.ai/pokemon-champions/ko/pokemon/625
+628,500,염무왕,エンブオー,Emboar,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/500.png,불꽃,격투,110,123,65,100,65,65,528,https://gamewith.ai/pokemon-champions/ko/pokemon/628
+629,500,메가염무왕,メガエンブオー,Mega Emboar,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/500_1.png,불꽃,격투,110,148,75,110,110,75,628,https://gamewith.ai/pokemon-champions/ko/pokemon/629
+632,503,대검귀,ダイケンキ,Samurott,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/503.png,물,,95,100,85,108,70,70,528,https://gamewith.ai/pokemon-champions/ko/pokemon/632
+633,503,히스이 대검귀,ヒスイダイケンキ,Hisuian Samurott,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/503_1.png,물,악,90,108,80,100,65,85,528,https://gamewith.ai/pokemon-champions/ko/pokemon/633
+635,505,보르그,ミルホッグ,Watchog,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/505.png,노말,,60,85,69,60,69,77,420,https://gamewith.ai/pokemon-champions/ko/pokemon/635
+640,510,레파르다스,レパルダス,Liepard,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/510.png,악,,64,88,50,88,50,106,446,https://gamewith.ai/pokemon-champions/ko/pokemon/640
+642,512,야나키,ヤナッキー,Simisage,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/512.png,풀,,75,98,63,98,63,101,498,https://gamewith.ai/pokemon-champions/ko/pokemon/642
+644,514,바오키,バオッキー,Simisear,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/514.png,불꽃,,75,98,63,98,63,101,498,https://gamewith.ai/pokemon-champions/ko/pokemon/644
+646,516,앗차키,ヒヤッキー,Simipour,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/516.png,물,,75,98,63,98,63,101,498,https://gamewith.ai/pokemon-champions/ko/pokemon/646
+648,518,몽얌나,ムシャーナ,Musharna,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/518.png,에스퍼,,116,55,85,107,95,29,487,https://gamewith.ai/pokemon-champions/ko/pokemon/648
+661,530,몰드류,ドリュウズ,Excadrill,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/530.png,땅,강철,110,135,60,50,65,88,508,https://gamewith.ai/pokemon-champions/ko/pokemon/661
+662,530,메가몰드류,メガドリュウズ,Mega Excadrill,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/530_1.png,땅,강철,110,165,100,65,65,103,608,https://gamewith.ai/pokemon-champions/ko/pokemon/662
+663,531,다부니,タブンネ,Audino,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/531.png,노말,,103,60,86,60,86,50,445,https://gamewith.ai/pokemon-champions/ko/pokemon/663
+664,531,메가다부니,メガタブンネ,Mega Audino,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/531_1.png,노말,페어리,103,60,126,80,126,50,545,https://gamewith.ai/pokemon-champions/ko/pokemon/664
+667,534,노보청,ローブシン,Conkeldurr,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/534.png,격투,,105,140,95,55,65,45,505,https://gamewith.ai/pokemon-champions/ko/pokemon/667
+678,545,펜드라,ペンドラー,Scolipede,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/545.png,벌레,독,60,100,89,55,69,112,485,https://gamewith.ai/pokemon-champions/ko/pokemon/678
+679,545,메가펜드라,メガペンドラー,Mega Scolipede,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/545_1.png,벌레,독,60,140,149,75,99,62,585,https://gamewith.ai/pokemon-champions/ko/pokemon/679
+681,547,엘풍,エルフーン,Whimsicott,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/547.png,풀,페어리,60,67,85,77,75,116,480,https://gamewith.ai/pokemon-champions/ko/pokemon/681
+690,553,악비아르,ワルビアル,Krookodile,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/553.png,땅,악,95,117,80,65,70,92,519,https://gamewith.ai/pokemon-champions/ko/pokemon/690
+701,560,곤율거니,ズルズキン,Scrafty,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/560.png,악,격투,65,90,115,45,115,58,488,https://gamewith.ai/pokemon-champions/ko/pokemon/701
+702,560,메가곤율거니,メガズルズキン,Mega Scrafty,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/560_1.png,악,격투,65,130,135,55,135,68,588,https://gamewith.ai/pokemon-champions/ko/pokemon/702
+706,563,데스니칸,デスカーン,Cofagrigus,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/563.png,고스트,,58,50,145,95,105,30,483,https://gamewith.ai/pokemon-champions/ko/pokemon/706
+712,569,더스트나,ダストダス,Garbodor,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/569.png,독,,80,95,82,60,82,75,474,https://gamewith.ai/pokemon-champions/ko/pokemon/712
+715,571,조로아크,ゾロアーク,Zoroark,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/571.png,악,,60,105,60,120,60,105,510,https://gamewith.ai/pokemon-champions/ko/pokemon/715
+716,571,히스이 조로아크,ヒスイゾロアーク,Hisuian Zoroark,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/571_1.png,노말,고스트,55,100,60,125,60,110,510,https://gamewith.ai/pokemon-champions/ko/pokemon/716
+724,579,란쿨루스,ランクルス,Reuniclus,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/579.png,에스퍼,,110,65,75,125,85,30,490,https://gamewith.ai/pokemon-champions/ko/pokemon/724
+729,584,배바닐라,バイバニラ,Vanilluxe,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/584.png,얼음,,71,95,85,110,95,79,535,https://gamewith.ai/pokemon-champions/ko/pokemon/729
+738,587,에몽가,エモンガ,Emolga,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/587.png,전기,비행,55,75,60,75,60,103,428,https://gamewith.ai/pokemon-champions/ko/pokemon/738
+757,604,저리더프,シビルドン,Eelektross,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/604.png,전기,,85,115,80,105,80,50,515,https://gamewith.ai/pokemon-champions/ko/pokemon/757
+758,604,메가저리더프,メガシビルドン,Mega Eelektross,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/604_1.png,전기,,85,145,80,135,90,80,615,https://gamewith.ai/pokemon-champions/ko/pokemon/758
+763,609,샹델라,シャンデラ,Chandelure,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/609.png,고스트,불꽃,60,55,90,145,90,80,520,https://gamewith.ai/pokemon-champions/ko/pokemon/763
+764,609,메가샹델라,メガシャンデラ,Mega Chandelure,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/609_1.png,고스트,불꽃,60,75,110,175,110,90,620,https://gamewith.ai/pokemon-champions/ko/pokemon/764
+769,614,툰베어,ツンベアー,Beartic,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/614.png,얼음,,95,130,80,70,80,50,505,https://gamewith.ai/pokemon-champions/ko/pokemon/769
+773,618,메더,マッギョ,Stunfisk,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/618.png,땅,전기,109,66,84,81,99,32,471,https://gamewith.ai/pokemon-champions/ko/pokemon/773
+774,618,가라르 메더,ガラルマッギョ,Galarian Stunfisk,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/618_1.png,땅,강철,109,81,99,66,84,32,471,https://gamewith.ai/pokemon-champions/ko/pokemon/774
+779,623,골루그,ゴルーグ,Golurk,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/623.png,땅,고스트,89,124,80,55,80,55,483,https://gamewith.ai/pokemon-champions/ko/pokemon/779
+780,623,메가골루그,メガゴルーグ,Mega Golurk,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/623_1.png,땅,고스트,89,159,105,70,105,55,583,https://gamewith.ai/pokemon-champions/ko/pokemon/780
+793,635,삼삼드래,サザンドラ,Hydreigon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/635.png,악,드래곤,92,105,90,125,90,98,600,https://gamewith.ai/pokemon-champions/ko/pokemon/793
+795,637,불카모스,ウルガモス,Volcarona,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/637.png,벌레,불꽃,85,60,65,135,105,100,550,https://gamewith.ai/pokemon-champions/ko/pokemon/795
+817,652,브리가론,ブリガロン,Chesnaught,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/652.png,풀,격투,88,107,122,74,75,64,530,https://gamewith.ai/pokemon-champions/ko/pokemon/817
+818,652,메가브리가론,メガブリガロン,Mega Chesnaught,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/652_1.png,풀,격투,88,137,172,74,115,44,630,https://gamewith.ai/pokemon-champions/ko/pokemon/818
+821,655,마폭시,マフォクシー,Delphox,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/655.png,불꽃,에스퍼,75,69,72,114,100,104,534,https://gamewith.ai/pokemon-champions/ko/pokemon/821
+822,655,메가마폭시,メガマフォクシー,Mega Delphox,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/655_1.png,불꽃,에스퍼,75,69,72,159,125,134,634,https://gamewith.ai/pokemon-champions/ko/pokemon/822
+825,658,개굴닌자,ゲッコウガ,Greninja,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/658.png,물,악,72,95,67,103,71,122,530,https://gamewith.ai/pokemon-champions/ko/pokemon/825
+826,658,메가개굴닌자,メガゲッコウガ,Mega Greninja,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/658_1.png,물,악,72,125,77,133,81,142,630,https://gamewith.ai/pokemon-champions/ko/pokemon/826
+828,660,파르토,ホルード,Diggersby,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/660.png,노말,땅,85,56,77,50,77,78,423,https://gamewith.ai/pokemon-champions/ko/pokemon/828
+831,663,파이어로,ファイアロー,Talonflame,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/663.png,불꽃,비행,78,81,71,74,69,126,499,https://gamewith.ai/pokemon-champions/ko/pokemon/831
+834,666,비비용,ビビヨン,Vivillon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/666.png,벌레,비행,80,52,50,90,50,89,411,https://gamewith.ai/pokemon-champions/ko/pokemon/834
+836,668,화염레오 ♂,カエンジシ,Pyroar ♂,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/668.png,불꽃,노말,86,68,72,109,66,106,507,https://gamewith.ai/pokemon-champions/ko/pokemon/836
+837,668,화염레오 ♀,カエンジシ,Pyroar ♀,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/668_1.png,불꽃,노말,86,68,72,109,66,106,507,https://gamewith.ai/pokemon-champions/ko/pokemon/837
+838,668,메가화염레오 ♂,メガカエンジシ,Mega Pyroar ♂,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/668_2.png,불꽃,노말,86,88,92,129,86,126,607,https://gamewith.ai/pokemon-champions/ko/pokemon/838
+839,668,메가화염레오 ♀,メガカエンジシ,Mega Pyroar ♀,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/668_3.png,불꽃,노말,86,88,92,129,86,126,607,https://gamewith.ai/pokemon-champions/ko/pokemon/839
+842,670,플라엣테(영원의 꽃),フラエッテ(えいえんのはな),Eternal Floette,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/670_2.png,페어리,,74,65,67,125,128,92,551,https://gamewith.ai/pokemon-champions/ko/pokemon/842
+843,670,메가플라엣테,メガフラエッテ,Mega Floette,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/670_1.png,페어리,,74,85,87,155,148,102,651,https://gamewith.ai/pokemon-champions/ko/pokemon/843
+844,671,플라제스,フラージェス,Florges,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/671.png,페어리,,78,65,68,112,154,75,552,https://gamewith.ai/pokemon-champions/ko/pokemon/844
+848,675,부란다,ゴロンダ,Pangoro,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/675.png,격투,악,95,124,78,69,71,58,495,https://gamewith.ai/pokemon-champions/ko/pokemon/848
+849,676,트리미앙,トリミアン,Furfrou,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/676.png,노말,,75,80,60,65,90,102,472,https://gamewith.ai/pokemon-champions/ko/pokemon/849
+851,678,냐오닉스,ニャオニクス(オス),Meowstic,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/678.png,에스퍼,,74,48,76,83,81,104,466,https://gamewith.ai/pokemon-champions/ko/pokemon/851
+852,678,냐오닉스(암컷),ニャオニクス(メス),Female Meowstic,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/678_1.png,에스퍼,,74,48,76,83,81,104,466,https://gamewith.ai/pokemon-champions/ko/pokemon/852
+853,678,메가냐오닉스,メガニャオニクス(オス),Mega Meowstic,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/678_3.png,에스퍼,,74,48,76,143,101,124,566,https://gamewith.ai/pokemon-champions/ko/pokemon/853
+854,678,메가냐오닉스,メガニャオニクス(メス),Mega Meowstic,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/678_4.png,에스퍼,,74,48,76,143,101,124,566,https://gamewith.ai/pokemon-champions/ko/pokemon/854
+857,681,킬가르도（실드폼）,ギルガルド,Aegislash,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/681.png,강철,고스트,60,50,140,50,140,60,500,https://gamewith.ai/pokemon-champions/ko/pokemon/857
+858,681,킬가르도（블레이드폼）,ギルガルド,Blade Aegislash,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/681_1.png,강철,고스트,60,140,50,140,50,60,500,https://gamewith.ai/pokemon-champions/ko/pokemon/858
+860,683,프레프티르,フレフワン,Aromatisse,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/683.png,페어리,,101,72,72,99,89,29,462,https://gamewith.ai/pokemon-champions/ko/pokemon/860
+862,685,나루림,ペロリーム,Slurpuff,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/685.png,페어리,,82,80,86,85,75,72,480,https://gamewith.ai/pokemon-champions/ko/pokemon/862
+864,687,칼라마네로,カラマネロ,Malamar,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/687.png,악,에스퍼,86,92,88,68,75,73,482,https://gamewith.ai/pokemon-champions/ko/pokemon/864
+865,687,메가칼라마네로,メガカラマネロ,Mega Malamar,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/687_1.png,악,에스퍼,86,102,88,98,120,88,582,https://gamewith.ai/pokemon-champions/ko/pokemon/865
+867,689,거북손데스,ガメノデス,Barbaracle,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/689.png,바위,물,72,105,115,54,86,68,500,https://gamewith.ai/pokemon-champions/ko/pokemon/867
+868,689,메가거북손데스,メガガメノデス,Mega Barbaracle,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/689_1.png,바위,격투,72,140,130,64,106,88,600,https://gamewith.ai/pokemon-champions/ko/pokemon/868
+870,691,드래캄,ドラミドロ,Dragalge,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/691.png,독,드래곤,65,75,90,97,123,44,494,https://gamewith.ai/pokemon-champions/ko/pokemon/870
+871,691,메가드래캄,メガドラミドロ,Mega Dragalge,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/691_1.png,독,드래곤,65,85,105,132,163,44,594,https://gamewith.ai/pokemon-champions/ko/pokemon/871
+873,693,블로스터,ブロスター,Clawitzer,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/693.png,물,,71,73,88,120,89,59,500,https://gamewith.ai/pokemon-champions/ko/pokemon/873
+875,695,일레도리자드,エレザード,Heliolisk,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/695.png,전기,노말,62,55,52,109,94,109,481,https://gamewith.ai/pokemon-champions/ko/pokemon/875
+877,697,견고라스,ガチゴラス,Tyrantrum,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/697.png,바위,드래곤,82,121,119,69,59,71,521,https://gamewith.ai/pokemon-champions/ko/pokemon/877
+879,699,아마루르가,アマルルガ,Aurorus,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/699.png,바위,얼음,123,77,72,99,92,58,521,https://gamewith.ai/pokemon-champions/ko/pokemon/879
+880,700,님피아,ニンフィア,Sylveon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/700.png,페어리,,95,65,65,110,130,60,525,https://gamewith.ai/pokemon-champions/ko/pokemon/880
+881,701,루차불,ルチャブル,Hawlucha,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/701.png,격투,비행,78,92,75,74,63,118,500,https://gamewith.ai/pokemon-champions/ko/pokemon/881
+882,701,메가루차불,メガルチャブル,Mega Hawlucha,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/701_1.png,격투,비행,78,137,100,74,93,118,600,https://gamewith.ai/pokemon-champions/ko/pokemon/882
+883,702,데덴네,デデンネ,Dedenne,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/702.png,전기,페어리,67,58,57,81,67,101,431,https://gamewith.ai/pokemon-champions/ko/pokemon/883
+888,706,미끄래곤,ヌメルゴン,Goodra,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/706.png,드래곤,,90,100,70,110,150,80,600,https://gamewith.ai/pokemon-champions/ko/pokemon/888
+889,706,히스이 미끄래곤,ヒスイヌメルゴン,Hisuian Goodra,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/706_1.png,강철,드래곤,80,100,100,110,150,60,600,https://gamewith.ai/pokemon-champions/ko/pokemon/889
+890,707,클레피,クレッフィ,Klefki,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/707.png,강철,페어리,57,80,91,80,87,75,470,https://gamewith.ai/pokemon-champions/ko/pokemon/890
+892,709,대로트,オーロット,Trevenant,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/709.png,고스트,풀,85,110,76,65,82,56,474,https://gamewith.ai/pokemon-champions/ko/pokemon/892
+897,711,펌킨인（소과종）,パンプジン,Gourgeist,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/711.png,고스트,풀,55,85,122,58,75,99,494,https://gamewith.ai/pokemon-champions/ko/pokemon/897
+898,711,펌킨인（중과종）,パンプジン,Small Gourgeist,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/711_1.png,고스트,풀,65,90,122,58,75,84,494,https://gamewith.ai/pokemon-champions/ko/pokemon/898
+899,711,펌킨인（대과종）,パンプジン,Large Gourgeist,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/711_2.png,고스트,풀,75,95,122,58,75,69,494,https://gamewith.ai/pokemon-champions/ko/pokemon/899
+900,711,펌킨인（특대과종）,パンプジン,Super Gourgeist,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/711_3.png,고스트,풀,85,100,122,58,75,54,494,https://gamewith.ai/pokemon-champions/ko/pokemon/900
+902,713,크레베이스,クレベース,Avalugg,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/713.png,얼음,,95,117,184,44,46,28,514,https://gamewith.ai/pokemon-champions/ko/pokemon/902
+903,713,히스이 크레베이스,ヒスイクレベース,Hisuian Avalugg,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/713_1.png,얼음,바위,95,127,184,34,36,38,514,https://gamewith.ai/pokemon-champions/ko/pokemon/903
+905,715,음번,オンバーン,Noivern,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/715.png,비행,드래곤,85,70,80,97,80,123,535,https://gamewith.ai/pokemon-champions/ko/pokemon/905
+919,724,모크나이퍼,ジュナイパー,Decidueye,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/724.png,풀,고스트,78,107,75,100,100,70,530,https://gamewith.ai/pokemon-champions/ko/pokemon/919
+920,724,히스이 모크나이퍼,ヒスイジュナイパー,Hisuian Decidueye,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/724_1.png,풀,격투,88,112,80,95,95,60,530,https://gamewith.ai/pokemon-champions/ko/pokemon/920
+923,727,어흥염,ガオガエン,Incineroar,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/727.png,불꽃,악,95,115,90,80,90,60,530,https://gamewith.ai/pokemon-champions/ko/pokemon/923
+926,730,누리레느,アシレーヌ,Primarina,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/730.png,물,페어리,80,74,74,126,116,60,530,https://gamewith.ai/pokemon-champions/ko/pokemon/926
+929,733,왕큰부리,ドデカバシ,Toucannon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/733.png,노말,비행,80,120,75,75,75,60,485,https://gamewith.ai/pokemon-champions/ko/pokemon/929
+936,740,모단단게,ケケンカニ,Crabominable,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/740.png,격투,얼음,97,132,77,62,67,43,478,https://gamewith.ai/pokemon-champions/ko/pokemon/936
+937,740,메가모단단게,メガケケンカニ,Mega Crabominable,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/740_1.png,격투,얼음,97,157,122,62,107,33,578,https://gamewith.ai/pokemon-champions/ko/pokemon/937
+946,745,루가루암,ルガルガン(まひる),Lycanroc,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/745.png,바위,,75,115,65,55,65,112,487,https://gamewith.ai/pokemon-champions/ko/pokemon/946
+947,745,루가루암(한밤중의 모습),ルガルガン(まよなか),Midnight Lycanroc,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/745_1.png,바위,,85,115,75,55,75,82,487,https://gamewith.ai/pokemon-champions/ko/pokemon/947
+948,745,루가루암(황혼의 모습),ルガルガン(たそがれ),Dusk Lycanroc,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/745_2.png,바위,,75,117,65,55,65,110,487,https://gamewith.ai/pokemon-champions/ko/pokemon/948
+952,748,더시마사리,ドヒドイデ,Toxapex,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/748.png,독,물,50,63,152,53,142,35,495,https://gamewith.ai/pokemon-champions/ko/pokemon/952
+954,750,만마드,バンバドロ,Mudsdale,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/750.png,땅,,100,125,100,55,85,35,500,https://gamewith.ai/pokemon-champions/ko/pokemon/954
+956,752,깨비물거미,オニシズクモ,Araquanid,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/752.png,물,벌레,68,70,92,50,132,42,454,https://gamewith.ai/pokemon-champions/ko/pokemon/956
+962,758,염뉴트,エンニュート,Salazzle,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/758.png,독,불꽃,68,64,60,111,60,117,480,https://gamewith.ai/pokemon-champions/ko/pokemon/962
+967,763,달코퀸,アマージョ,Tsareena,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/763.png,풀,,72,120,98,50,98,72,510,https://gamewith.ai/pokemon-champions/ko/pokemon/967
+969,765,하랑우탄,ヤレユータン,Oranguru,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/765.png,노말,에스퍼,90,60,80,90,110,60,490,https://gamewith.ai/pokemon-champions/ko/pokemon/969
+970,766,내던숭이,ナゲツケサル,Passimian,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/766.png,격투,,100,120,90,40,60,80,490,https://gamewith.ai/pokemon-champions/ko/pokemon/970
+984,778,따라큐,ミミッキュ,Mimikyu,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/778.png,고스트,페어리,55,90,80,50,105,96,476,https://gamewith.ai/pokemon-champions/ko/pokemon/984
+986,780,할비롱,ジジーロン,Drampa,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/780.png,노말,드래곤,78,60,85,135,91,36,485,https://gamewith.ai/pokemon-champions/ko/pokemon/986
+987,780,메가할비롱,メガジジーロン,Mega Drampa,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/780_1.png,노말,드래곤,78,85,110,160,116,36,585,https://gamewith.ai/pokemon-champions/ko/pokemon/987
+991,784,짜랑고우거,ジャラランガ,Kommo-o,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/784.png,드래곤,격투,75,110,125,100,105,85,600,https://gamewith.ai/pokemon-champions/ko/pokemon/991
+1037,823,아머까오,アーマーガア,Corviknight,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/823.png,비행,강철,98,87,105,53,85,67,495,https://gamewith.ai/pokemon-champions/ko/pokemon/1037
+1055,841,애프룡,アップリュー,Flapple,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/841.png,풀,드래곤,70,110,80,95,60,70,485,https://gamewith.ai/pokemon-champions/ko/pokemon/1055
+1056,842,단지래플,タルップル,Appletun,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/842.png,풀,드래곤,110,85,80,100,80,30,485,https://gamewith.ai/pokemon-champions/ko/pokemon/1056
+1058,844,사다이사,サダイジャ,Sandaconda,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/844.png,땅,,72,107,125,65,70,71,510,https://gamewith.ai/pokemon-champions/ko/pokemon/1058
+1071,855,포트데스（위작폼）,ポットデス,Polteageist (Phony Form),https://img.gamewith.jp/article_tools/pokemon-champions/gacha/855.png,고스트,,60,65,65,134,114,70,508,https://gamewith.ai/pokemon-champions/ko/pokemon/1071
+1072,855,포트데스（진작폼）,ポットデス,Polteageist (Antique Form),https://img.gamewith.jp/article_tools/pokemon-champions/gacha/855_1.png,고스트,,60,65,65,134,114,70,508,https://gamewith.ai/pokemon-champions/ko/pokemon/1072
+1075,858,브리무음,ブリムオン,Hatterene,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/858.png,에스퍼,페어리,57,90,95,136,103,29,510,https://gamewith.ai/pokemon-champions/ko/pokemon/1075
+1078,861,오롱털,オーロンゲ,Grimmsnarl,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/861.png,악,페어리,95,120,65,95,75,60,510,https://gamewith.ai/pokemon-champions/ko/pokemon/1078
+1083,866,마임꽁꽁,バリコオル,Mr. Rime,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/866.png,얼음,에스퍼,80,85,75,110,100,70,520,https://gamewith.ai/pokemon-champions/ko/pokemon/1083
+1084,867,데스판,デスバーン,Runerigus,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/867.png,땅,고스트,58,95,145,50,105,30,483,https://gamewith.ai/pokemon-champions/ko/pokemon/1084
+1086,869,마휘핑,マホイップ,Alcremie,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/869.png,페어리,,65,60,75,110,121,64,495,https://gamewith.ai/pokemon-champions/ko/pokemon/1086
+1087,870,대여르,タイレーツ,Falinks,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/870.png,격투,,65,100,100,70,60,75,470,https://gamewith.ai/pokemon-champions/ko/pokemon/1087
+1088,870,메가대여르,メガタイレーツ,Mega Falinks,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/870_1.png,격투,,65,135,135,70,65,100,570,https://gamewith.ai/pokemon-champions/ko/pokemon/1088
+1097,877,모르페코（배부른 모양）,モルペコ,Morpeko,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/877.png,전기,악,58,95,58,70,58,97,436,https://gamewith.ai/pokemon-champions/ko/pokemon/1097
+1098,877,모르페코（배고픈 모양）,モルペコ,Hangry Morpeko,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/877_1.png,전기,악,58,95,58,70,58,97,436,https://gamewith.ai/pokemon-champions/ko/pokemon/1098
+1108,887,드래펄트,ドラパルト,Dragapult,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/887.png,드래곤,고스트,88,120,75,100,75,142,600,https://gamewith.ai/pokemon-champions/ko/pokemon/1108
+1126,899,신비록,アヤシシ,Wyrdeer,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/899.png,노말,에스퍼,103,105,72,105,75,65,525,https://gamewith.ai/pokemon-champions/ko/pokemon/1126
+1127,900,사마자르,バサギリ,Kleavor,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/900.png,벌레,바위,70,135,95,45,70,85,500,https://gamewith.ai/pokemon-champions/ko/pokemon/1127
+1129,902,대쓰여너,イダイトウ(オス),Basculegion,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/902.png,물,고스트,120,112,65,80,75,78,530,https://gamewith.ai/pokemon-champions/ko/pokemon/1129
+1130,902,대쓰여너(암컷),イダイトウ(メス),Female Basculegion,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/902_1.png,물,고스트,120,92,65,100,75,78,530,https://gamewith.ai/pokemon-champions/ko/pokemon/1130
+1131,903,포푸니크,オオニューラ,Sneasler,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/903.png,격투,독,80,130,60,40,80,120,510,https://gamewith.ai/pokemon-champions/ko/pokemon/1131
+1132,904,장침바루,ハリーマン,Overqwil,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/904.png,악,독,85,115,95,65,65,85,510,https://gamewith.ai/pokemon-champions/ko/pokemon/1132
+1137,908,마스카나,マスカーニャ,Meowscarada,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/908.png,풀,악,76,110,70,81,70,123,530,https://gamewith.ai/pokemon-champions/ko/pokemon/1137
+1140,911,라우드본,ラウドボーン,Skeledirge,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/911.png,불꽃,고스트,104,75,100,110,75,66,530,https://gamewith.ai/pokemon-champions/ko/pokemon/1140
+1143,914,웨이니발,ウェーニバル,Quaquaval,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/914.png,물,격투,85,120,80,85,75,85,530,https://gamewith.ai/pokemon-champions/ko/pokemon/1143
+1157,925,파밀리쥐（세 식구）,イッカネズミ,Maushold (Family of Three),https://img.gamewith.jp/article_tools/pokemon-champions/gacha/925.png,노말,,74,75,70,65,75,111,470,https://gamewith.ai/pokemon-champions/ko/pokemon/1157
+1169,934,콜로솔트,キョジオーン,Garganacl,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/934.png,바위,,100,100,130,45,90,35,500,https://gamewith.ai/pokemon-champions/ko/pokemon/1169
+1170,979,저승갓숭,コノヨザル,Annihilape,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/979.png,격투,고스트,110,115,80,50,90,90,535,https://gamewith.ai/pokemon-champions/ko/pokemon/1170
+1172,936,카디나르마,グレンアルマ,Armarouge,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/936.png,불꽃,에스퍼,85,60,100,125,80,75,525,https://gamewith.ai/pokemon-champions/ko/pokemon/1172
+1173,937,파라블레이즈,ソウブレイズ,Ceruledge,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/937.png,불꽃,고스트,75,125,80,60,100,85,525,https://gamewith.ai/pokemon-champions/ko/pokemon/1173
+1175,939,찌리배리,ハラバリー,Bellibolt,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/939.png,전기,,109,64,91,103,83,45,495,https://gamewith.ai/pokemon-champions/ko/pokemon/1175
+1179,981,키키링,リキキリン,Farigiraf,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/981.png,노말,에스퍼,120,90,70,110,70,60,520,https://gamewith.ai/pokemon-champions/ko/pokemon/1179
+1184,128,팔데아 켄타로스(컴뱃종),パルデアケンタロス(かくとう),Paldean Tauros (Combat Breed),https://img.gamewith.jp/article_tools/pokemon-champions/gacha/128_1.png,격투,,75,110,105,30,70,100,490,https://gamewith.ai/pokemon-champions/ko/pokemon/1184
+1185,128,팔데아 켄타로스(워터종),パルデアケンタロス(みず),Paldean Tauros (Aqua Breed),https://img.gamewith.jp/article_tools/pokemon-champions/gacha/128_2.png,격투,물,75,110,105,30,70,100,490,https://gamewith.ai/pokemon-champions/ko/pokemon/1185
+1186,128,팔데아 켄타로스(블레이즈종),パルデアケンタロス(ほのお),Paldean Tauros (Blaze Breed),https://img.gamewith.jp/article_tools/pokemon-champions/gacha/128_3.png,격투,불꽃,75,110,105,30,70,100,490,https://gamewith.ai/pokemon-champions/ko/pokemon/1186
+1193,952,스코빌런,スコヴィラン,Scovillain,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/952.png,풀,불꽃,65,108,65,108,65,75,486,https://gamewith.ai/pokemon-champions/ko/pokemon/1193
+1194,952,메가스코빌런,メガスコヴィラン,Mega Scovillain,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/952_1.png,풀,불꽃,65,138,85,138,85,75,586,https://gamewith.ai/pokemon-champions/ko/pokemon/1194
+1198,956,클레스퍼트라,クエスパトラ,Espathra,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/956.png,에스퍼,,95,60,60,101,60,105,481,https://gamewith.ai/pokemon-champions/ko/pokemon/1198
+1201,959,두드리짱,デカヌチャン,Tinkaton,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/959.png,페어리,강철,85,75,77,70,105,94,506,https://gamewith.ai/pokemon-champions/ko/pokemon/1201
+1206,964,돌핀맨,イルカマン,Palafin,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/964.png,물,,100,70,72,53,62,100,457,https://gamewith.ai/pokemon-champions/ko/pokemon/1206
+1207,964,돌핀맨,イルカマン,Hero Form Palafin,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/964_1.png,물,,100,160,97,106,87,100,650,https://gamewith.ai/pokemon-champions/ko/pokemon/1207
+1211,968,꿈트렁,ミミズズ,Orthworm,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/968.png,강철,,70,85,145,60,55,65,480,https://gamewith.ai/pokemon-champions/ko/pokemon/1211
+1213,970,킬라플로르,キラフロル,Glimmora,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/970.png,바위,독,83,55,90,130,81,86,525,https://gamewith.ai/pokemon-champions/ko/pokemon/1213
+1214,970,메가킬라플로르,メガキラフロル,Mega Glimmora,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/970_1.png,바위,독,83,90,105,150,96,101,625,https://gamewith.ai/pokemon-champions/ko/pokemon/1214
+1216,972,묘두기,ハカドッグ,Houndstone,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/972.png,고스트,,72,101,100,50,97,68,488,https://gamewith.ai/pokemon-champions/ko/pokemon/1216
+1220,983,대도각참,ドドゲザン,Kingambit,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/983.png,악,강철,100,135,120,60,85,50,550,https://gamewith.ai/pokemon-champions/ko/pokemon/1220
+1247,1000,타부자고,サーフゴー,Gholdengo,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/1000.png,강철,고스트,87,60,95,133,91,84,550,https://gamewith.ai/pokemon-champions/ko/pokemon/1247
+1261,1013,그우린차（범작의 모습）,ヤバソチャ,Sinistcha (Unremarkable Form),https://img.gamewith.jp/article_tools/pokemon-champions/gacha/1013.png,풀,고스트,71,60,106,121,80,70,508,https://gamewith.ai/pokemon-champions/ko/pokemon/1261
+1262,1013,그우린차（걸작의 모습）,ヤバソチャ,Sinistcha (Masterpiece Form),https://img.gamewith.jp/article_tools/pokemon-champions/gacha/1013_1.png,풀,고스트,71,60,106,121,80,70,508,https://gamewith.ai/pokemon-champions/ko/pokemon/1262
+1271,1018,브리두라스,ブリジュラス,Archaludon,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/1018.png,강철,드래곤,90,105,130,125,65,85,600,https://gamewith.ai/pokemon-champions/ko/pokemon/1271
+1275,1019,과미드라,カミツオロチ,Hydrapple,https://img.gamewith.jp/article_tools/pokemon-champions/gacha/1019.png,풀,드래곤,106,80,110,120,80,44,540,https://gamewith.ai/pokemon-champions/ko/pokemon/1275
+1281,925,파밀리쥐（네 식구）,イッカネズミ,Maushold (Family of Four),https://img.gamewith.jp/article_tools/pokemon-champions/gacha/925_1.png,노말,,74,75,70,65,75,111,470,https://gamewith.ai/pokemon-champions/ko/pokemon/1281

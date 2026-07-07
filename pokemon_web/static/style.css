@@ -15,6 +15,13 @@ h2 { font-size: 18px; margin: 22px 0 10px; border-left: 4px solid #2b3a55; paddi
 .desc { color: #666; }
 small.jp { color: #999; font-size: 14px; font-weight: 400; }
 
+/* 고정 크기 스프라이트 이미지 (표 뒤틀림 방지) */
+.sprite { width: 40px; height: 40px; object-fit: contain; vertical-align: middle; flex: 0 0 auto; }
+.sprite-lg { width: 96px; height: 96px; }
+.sprite-none { display: inline-block; background: #f0f2f6; border-radius: 6px; }
+td.img-cell { width: 48px; text-align: center; padding: 4px; }
+.name-cell { display: inline-flex; align-items: center; gap: 8px; }
+
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; margin: 16px 0; }
 .card { background: #fff; border: 1px solid #e2e5ea; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; gap: 6px; }
 .card b { font-size: 16px; }
@@ -89,5 +96,5 @@ form.search .fields { display:flex; flex-wrap:wrap; gap:6px; flex:1 1 320px; ali
 form.search .fields input.mv { min-width:0; width:120px; flex:0 1 130px; }
 
 /* 지닌물건 상세 */
-.item-img { max-width:96px; height:auto; }
-table.kv th { width:120px; text-align:left; vertical-align:top; }
+.item-img { width:96px; height:96px; object-fit:contain; }
+table.kv th { width:120px; text-align:left; vertical-align:top; color:#555; font-weight:600; }

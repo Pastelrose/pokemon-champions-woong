@@ -51,14 +51,14 @@
 </form>
 
 <table class="grid">
-  <thead><tr><th>기술명</th><th>타입</th><th>분류</th><th class="num">위력</th><th class="num">명중</th><th class="num">PP</th><th>대상</th></tr></thead>
+  <thead><tr><th>기술명</th><th>타입</th><th>분류</th><th class="num">위력</th><th class="num">명중</th><th class="num">PP</th><th>대상</th><th>효과</th></tr></thead>
   <tbody>
     {% for r in rows %}
     <tr>
       <td><a href="/moves/{{ r['ID'] }}">{{ r['기술명'] }}</a></td>
       <td>{{ tbadge(r['타입']) }}</td><td>{{ r['분류'] }}</td>
       <td class="num">{{ r['위력']|dash }}</td><td class="num">{{ r['명중']|dash }}</td><td class="num">{{ r['PP']|dash }}</td>
-      <td>{{ r['대상'] }}</td>
+      <td>{{ r['대상'] }}</td><td class="eff-txt">{{ r['효과'] }}</td>
     </tr>
     {% endfor %}
   </tbody>

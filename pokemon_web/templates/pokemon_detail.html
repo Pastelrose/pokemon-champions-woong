@@ -1,11 +1,11 @@
 {% extends "base.html" %}
-{% from "_macros.html" import tpair, tbadge, mult %}
+{% from "_macros.html" import tpair, tbadge, mult, pimg %}
 {% block title %}{{ p['이름'] }}{% endblock %}
 {% block content %}
 <p><a href="/pokemon">← 포켓몬 목록</a></p>
-<h1>{{ p['이름'] }} <small class="jp">{{ p['일본어이름'] }}</small></h1>
+<h1 class="name-cell">{{ pimg(p['이미지URL'], p['이름'], big=true) }}<span>{{ p['이름'] }} <small class="jp">{{ p['일본어이름'] }} · {{ p['영어이름'] }}</small></span></h1>
 <p>{{ tpair(p['타입1'], p['타입2']) }}
-   &nbsp; 싱글 #{{ p['싱글순위'] }} · 더블 #{{ p['더블순위'] }}
+   &nbsp; 도감 No.{{ p['도감번호'] }} &nbsp; 싱글 #{{ p['싱글순위'] }} · 더블 #{{ p['더블순위'] }}
    &nbsp; <a href="{{ p['상세URL'] }}" target="_blank">원본</a></p>
 
 <h2>종족값 (합계 {{ p['종족값합계'] }})</h2>

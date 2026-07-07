@@ -98,3 +98,22 @@ form.search .fields input.mv { min-width:0; width:120px; flex:0 1 130px; }
 /* 지닌물건 상세 */
 .item-img { width:96px; height:96px; object-fit:contain; }
 table.kv th { width:120px; text-align:left; vertical-align:top; color:#555; font-weight:600; }
+
+/* 포켓몬 비교 기능 */
+.chk-col { width: 34px; text-align: center; padding: 4px; }
+.cmp-panel { position: fixed; right: 16px; top: 76px; width: 340px; max-height: 82vh; display: flex; flex-direction: column; background: #fff; border: 1px solid #cfd6e0; border-radius: 10px; box-shadow: 0 6px 24px rgba(0,0,0,.18); z-index: 60; }
+.cmp-head { display: flex; align-items: center; justify-content: space-between; padding: 9px 12px; background: #2b3a55; color: #fff; border-radius: 10px 10px 0 0; }
+.cmp-head b { font-size: 14px; font-weight: 600; }
+.cmp-actions button { border: 0; border-radius: 6px; padding: 4px 9px; margin-left: 6px; cursor: pointer; font-size: 12px; }
+#cmp-toggle { background: #54638a; color: #fff; font-weight: 700; }
+#cmp-clear { background: #e5554e; color: #fff; }
+.cmp-body { overflow: auto; padding: 8px; }
+.cmp-panel.collapsed .cmp-body { display: none; }
+table.cmp { border-collapse: collapse; font-size: 12px; margin: 0 auto; }
+table.cmp th, table.cmp td { border: 1px solid #eef0f3; padding: 4px 6px; text-align: center; white-space: nowrap; }
+table.cmp thead th { background: #f0f2f6; font-weight: 600; }
+table.cmp .stat-lab { text-align: left; font-weight: 600; background: #fafbfc; position: sticky; left: 0; }
+table.cmp td.best { background: #e3f1e4; color: #2e7d32; font-weight: 700; }
+.cmp-col-img { width: 34px; height: 34px; object-fit: contain; display: block; margin: 0 auto 2px; }
+.cmp-rm { border: 0; background: #eee; border-radius: 4px; cursor: pointer; padding: 1px 6px; margin-top: 3px; font-size: 11px; }
+@media (max-width: 900px) { .cmp-panel { right: 8px; left: 8px; width: auto; } }

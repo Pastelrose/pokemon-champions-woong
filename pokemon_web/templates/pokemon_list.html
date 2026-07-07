@@ -113,7 +113,7 @@ function addResist(){
 
 <table class="grid">
   <thead><tr>
-    <th></th><th class="num">도감</th><th>이름</th><th>타입</th>
+    <th class="chk-col"></th><th></th><th class="num">도감</th><th>이름</th><th>타입</th>
     <th class="num">HP</th><th class="num">공격</th><th class="num">방어</th>
     <th class="num">특공</th><th class="num">특방</th><th class="num">스피드</th>
     <th class="num">합계</th><th class="num">싱글</th><th class="num">더블</th>
@@ -121,6 +121,7 @@ function addResist(){
   <tbody>
     {% for r in rows %}
     <tr>
+      <td class="chk-col"><input type="checkbox" class="cmp-chk" data-id="{{ r['ID'] }}" data-name="{{ r['이름'] }}" data-img="{{ r['이미지URL'] }}" data-hp="{{ r['HP'] }}" data-atk="{{ r['공격'] }}" data-def="{{ r['방어'] }}" data-spa="{{ r['특공'] }}" data-spd="{{ r['특방'] }}" data-spe="{{ r['스피드'] }}" data-total="{{ r['종족값합계'] }}"></td>
       <td class="img-cell">{{ pimg(r['이미지URL'], r['이름']) }}</td>
       <td class="num">{{ r['도감번호'] }}</td>
       <td><a href="/pokemon/{{ r['ID'] }}">{{ r['이름'] }}</a></td>
@@ -133,4 +134,84 @@ function addResist(){
     {% endfor %}
   </tbody>
 </table>
+
+<div id="cmp-panel" class="cmp-panel" hidden>
+  <div class="cmp-head">
+    <b>비교 (<span id="cmp-count">0</span>)</b>
+    <div class="cmp-actions">
+      <button type="button" id="cmp-toggle" title="접기/펼치기">–</button>
+      <button type="button" id="cmp-clear" title="모두 해제">비우기</button>
+    </div>
+  </div>
+  <div class="cmp-body" id="cmp-body"></div>
+</div>
+<script>
+(function(){
+  var KEY = "cmp_selected";
+  var STATS = [["HP","hp"],["공격","atk"],["방어","def"],["특공","spa"],["특방","spd"],["스피드","spe"],["합계","total"]];
+  var sel = {};
+  try { sel = JSON.parse(sessionStorage.getItem(KEY) || "{}"); } catch(e) { sel = {}; }
+  var panel = document.getElementById("cmp-panel");
+  var body = document.getElementById("cmp-body");
+  var countEl = document.getElementById("cmp-count");
+
+  function save(){ try { sessionStorage.setItem(KEY, JSON.stringify(sel)); } catch(e){} }
+
+  function esc(v){ return String(v == null ? "" : v).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
+
+  function render(){
+    var ids = Object.keys(sel);
+    countEl.textContent = ids.length;
+    if (ids.length === 0){ panel.hidden = true; body.innerHTML = ""; return; }
+    panel.hidden = false;
+    var html = '<table class="cmp"><thead><tr><th></th>';
+    ids.forEach(function(id){
+      var p = sel[id];
+      html += '<th><a href="/pokemon/' + esc(id) + '">' + (p.img ? '<img class="cmp-col-img" src="' + esc(p.img) + '" alt="">' : "") + '</a>' + esc(p.name) + '<br><button type="button" class="cmp-rm" data-id="' + esc(id) + '">해제</button></th>';
+    });
+    html += "</tr></thead><tbody>";
+    STATS.forEach(function(s){
+      var key = s[1];
+      var vals = ids.map(function(id){ return Number(sel[id][key]); });
+      var max = Math.max.apply(null, vals.filter(function(v){ return !isNaN(v); }));
+      html += '<tr><td class="stat-lab">' + s[0] + "</td>";
+      ids.forEach(function(id){
+        var v = Number(sel[id][key]);
+        html += '<td class="' + (v === max ? "best" : "") + '">' + (isNaN(v) ? "-" : v) + "</td>";
+      });
+      html += "</tr>";
+    });
+    html += "</tbody></table>";
+    body.innerHTML = html;
+  }
+
+  function syncChecks(){
+    document.querySelectorAll(".cmp-chk").forEach(function(cb){ cb.checked = !!sel[cb.dataset.id]; });
+  }
+
+  document.addEventListener("change", function(e){
+    var cb = e.target;
+    if (!cb.classList || !cb.classList.contains("cmp-chk")) return;
+    var id = cb.dataset.id;
+    if (cb.checked){
+      sel[id] = { name: cb.dataset.name, img: cb.dataset.img, hp: cb.dataset.hp, atk: cb.dataset.atk, def: cb.dataset.def, spa: cb.dataset.spa, spd: cb.dataset.spd, spe: cb.dataset.spe, total: cb.dataset.total };
+    } else { delete sel[id]; }
+    save(); render();
+  });
+
+  body.addEventListener("click", function(e){
+    var b = e.target.closest(".cmp-rm"); if (!b) return;
+    delete sel[b.dataset.id]; save(); render(); syncChecks();
+  });
+
+  document.getElementById("cmp-clear").addEventListener("click", function(){ sel = {}; save(); render(); syncChecks(); });
+  document.getElementById("cmp-toggle").addEventListener("click", function(){
+    panel.classList.toggle("collapsed");
+    this.textContent = panel.classList.contains("collapsed") ? "+" : "–";
+  });
+
+  syncChecks(); render();
+})();
+</script>
+
 {% endblock %}

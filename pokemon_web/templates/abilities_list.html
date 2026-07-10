@@ -14,6 +14,8 @@
       <td><a href="/abilities/{{ r['ID'] }}">{{ r['특성명'] }}</a></td>
       <td class="eff-txt">{{ r['효과'] }}</td>
     </tr>
+    {% else %}
+    <tr><td colspan="2" class="empty">검색 결과가 없습니다.</td></tr>
     {% endfor %}
   </tbody>
 </table>

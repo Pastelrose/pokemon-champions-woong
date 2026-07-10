@@ -5,8 +5,9 @@ a:hover { text-decoration: underline; }
 
 .topbar { display: flex; align-items: center; gap: 20px; background: #2b3a55; color: #fff; padding: 12px 20px; }
 .topbar .logo { color: #fff; font-weight: 700; font-size: 18px; }
-.topbar nav a { color: #dfe6f3; margin-right: 14px; }
+.topbar nav a { color: #dfe6f3; margin-right: 14px; padding: 4px 2px; }
 .topbar nav a:hover { color: #fff; }
+.topbar nav a.active { color: #fff; font-weight: 700; border-bottom: 2px solid #f7d02c; text-decoration: none; }
 
 .container { max-width: 1100px; margin: 0 auto; padding: 20px; }
 .foot { text-align: center; color: #888; font-size: 12px; padding: 24px; }
@@ -25,6 +26,7 @@ td.img-cell { width: 48px; text-align: center; padding: 4px; }
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; margin: 16px 0; }
 .card { background: #fff; border: 1px solid #e2e5ea; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; gap: 6px; }
 .card b { font-size: 16px; }
+.card b .cnt { font-style: normal; font-weight: 600; font-size: 12px; color: #fff; background: #54638a; border-radius: 10px; padding: 1px 8px; margin-left: 4px; vertical-align: middle; }
 .card span { color: #777; font-size: 13px; }
 .card:hover { border-color: #2b3a55; text-decoration: none; }
 
@@ -62,6 +64,27 @@ table.chart .corner { font-size: 11px; color: #666; }
 table.chart .cell.chigh { background: #fde0dc; color: #c0392b; font-weight: 700; }
 table.chart .cell.clow { background: #e3f1e4; color: #2e7d32; }
 table.chart .cell.c0 { background: #e8e8e8; color: #333; font-weight: 700; }
+table.chart tbody tr:hover td, table.chart tbody tr:hover th { filter: brightness(.93); }
+table.chart td.hl-col { filter: brightness(.93); }
+table.chart tbody tr:hover td.hl-col { outline: 2px solid #2b3a55; outline-offset: -2px; filter: brightness(.88); }
+.legend { display: flex; gap: 8px; flex-wrap: wrap; font-size: 12px; }
+.legend .lg { padding: 2px 10px; border-radius: 10px; background: #fff; border: 1px solid #e2e5ea; color: #555; }
+.legend .lg.chigh { background: #fde0dc; color: #c0392b; font-weight: 700; }
+.legend .lg.clow { background: #e3f1e4; color: #2e7d32; }
+.legend .lg.c0 { background: #e8e8e8; color: #333; font-weight: 700; }
+
+/* 검색 결과 없음 안내 */
+td.empty { text-align: center; color: #999; padding: 26px 10px; }
+
+/* 종족값 막대 그래프 */
+table.statbars { max-width: 560px; }
+table.statbars th { width: 70px; }
+table.statbars td.statv { width: 52px; }
+table.statbars td.barcell { padding: 6px 12px 6px 2px; }
+.barcell .bar { height: 12px; border-radius: 6px; min-width: 2px; }
+.bar.b-low { background: #e5a04e; }
+.bar.b-mid { background: #7ac74c; }
+.bar.b-hi { background: #4e8be5; }
 
 /* 보강된 검색 폼 */
 form.search { background:#fff; border:1px solid #e2e5ea; border-radius:8px; padding:14px 16px; margin-bottom:18px; }

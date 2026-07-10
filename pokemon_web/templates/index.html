@@ -4,10 +4,10 @@
 <p class="desc">DuckDB에 적재된 테이블을 조인해서 보여주는 조회 페이지입니다. 상단 메뉴에서 시작하세요.</p>
 
 <div class="cards">
-  <a class="card" href="/pokemon"><b>포켓몬</b><span>이름/타입 검색, 종족값 정렬, 상세에서 특성·러닝셋·상성 확인</span></a>
-  <a class="card" href="/moves"><b>기술</b><span>이름/타입/분류 검색, 상세에서 배우는 포켓몬 확인</span></a>
-  <a class="card" href="/abilities"><b>특성</b><span>이름 검색, 상세에서 해당 특성 보유 포켓몬 확인</span></a>
-  <a class="card" href="/items"><b>지닌물건</b><span>이름 검색</span></a>
+  <a class="card" href="/pokemon"><b>포켓몬 <em class="cnt">{{ '{:,}'.format(counts_map.get('pokemon', 0)) }}</em></b><span>이름/타입 검색, 종족값 정렬, 상세에서 특성·러닝셋·상성 확인</span></a>
+  <a class="card" href="/moves"><b>기술 <em class="cnt">{{ '{:,}'.format(counts_map.get('moves', 0)) }}</em></b><span>이름/타입/분류 검색, 상세에서 배우는 포켓몬 확인</span></a>
+  <a class="card" href="/abilities"><b>특성 <em class="cnt">{{ '{:,}'.format(counts_map.get('abilities', 0)) }}</em></b><span>이름 검색, 상세에서 해당 특성 보유 포켓몬 확인</span></a>
+  <a class="card" href="/items"><b>지닌물건 <em class="cnt">{{ '{:,}'.format(counts_map.get('items', 0)) }}</em></b><span>이름 검색</span></a>
   <a class="card" href="/types"><b>타입 상성</b><span>18타입 공격-방어 배수 매트릭스</span></a>
 </div>
 

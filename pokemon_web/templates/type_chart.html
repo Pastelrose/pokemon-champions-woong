@@ -3,7 +3,13 @@
 {% block title %}타입 상성표{% endblock %}
 {% block content %}
 <h1>타입 상성표</h1>
-<p class="desc">행 = 공격 타입, 열 = 방어 타입. 값은 데미지 배수입니다. (가로로 스크롤하세요)</p>
+<p class="desc">행 = 공격 타입, 열 = 방어 타입. 값은 데미지 배수입니다. 셀에 마우스를 올리면 행과 열이 강조됩니다. (가로로 스크롤하세요)</p>
+<p class="legend">
+  <span class="lg chigh">2 효과가 굉장함</span>
+  <span class="lg">1 보통</span>
+  <span class="lg clow">0.5 효과가 별로</span>
+  <span class="lg c0">0 효과 없음</span>
+</p>
 <div class="chart-wrap">
 <table class="grid chart">
   <thead>
@@ -17,11 +23,30 @@
       <th class="row-h">{{ tbadge(atk) }}</th>
       {% for d in types %}
         {% set v = matrix.get((atk, d), 1) %}
-        <td class="cell {{ 'c0' if v==0 else ('clow' if v<1 else ('chigh' if v>1 else '')) }}">{{ '%g' % v }}</td>
+        <td class="cell {{ 'c0' if v==0 else ('clow' if v<1 else ('chigh' if v>1 else '')) }}" data-col="{{ loop.index }}">{{ '%g' % v }}</td>
       {% endfor %}
     </tr>
     {% endfor %}
   </tbody>
 </table>
 </div>
+<script>
+(function(){
+  var table = document.querySelector("table.chart");
+  var lastCol = null;
+  function setCol(col, on){
+    if (col == null) return;
+    table.querySelectorAll('td[data-col="' + col + '"]').forEach(function(td){
+      td.classList.toggle("hl-col", on);
+    });
+  }
+  table.addEventListener("mouseover", function(e){
+    var td = e.target.closest("td.cell");
+    if (!td) return;
+    var col = td.dataset.col;
+    if (col !== lastCol){ setCol(lastCol, false); setCol(col, true); lastCol = col; }
+  });
+  table.addEventListener("mouseleave", function(){ setCol(lastCol, false); lastCol = null; });
+})();
+</script>
 {% endblock %}

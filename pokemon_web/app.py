@@ -4,9 +4,11 @@ import time
 from urllib.parse import parse_qsl
 from typing import List
 from fastapi import FastAPI, Request, Query, Header
+from fastapi.exceptions import RequestValidationError
 from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
+from starlette.exceptions import HTTPException as StarletteHTTPException
 
 from dotenv import load_dotenv
 
@@ -20,8 +22,8 @@ load_dotenv(os.path.join(BASE, ".env"))
 app = FastAPI(title="Pokemon Champions 조회")
 app.mount("/static", StaticFiles(directory=os.path.join(BASE, "static")), name="static")
 templates = Jinja2Templates(directory=os.path.join(BASE, "templates"))
-# None(빈 수치)을 화면에 "-"로 표시하는 필터
-templates.env.filters["dash"] = lambda v: "-" if v is None else v
+# None 또는 빈 문자열을 화면에 "-"로 표시하는 필터 (0은 그대로 표시)
+templates.env.filters["dash"] = lambda v: "-" if v is None or v == "" else v
 
 # 관리자 전용 재빌드 API 토큰(환경변수). 미설정 시 API 비활성(404).
 ADMIN_TOKEN = os.environ.get("ADMIN_TOKEN")
@@ -59,15 +61,42 @@ def render(name, request, **ctx):
     return templates.TemplateResponse(request, name, ctx)
 
 
-def not_found(request, message):
-    """base.html을 상속한 404 에러 페이지."""
+def error_page(request, message, status=404):
+    """base.html을 상속한 에러 페이지."""
     return templates.TemplateResponse(request, "error.html",
-                                      {"message": message}, status_code=404)
+                                      {"message": message, "status": status},
+                                      status_code=status)
+
+
+def not_found(request, message):
+    return error_page(request, message, 404)
+
+
+@app.exception_handler(StarletteHTTPException)
+async def http_exception_handler(request: Request, exc: StarletteHTTPException):
+    """존재하지 않는 경로 등 HTTP 예외를 JSON 대신 HTML 에러 페이지로 표시."""
+    msg = "요청하신 페이지가 존재하지 않습니다." if exc.status_code == 404 \
+        else str(exc.detail or "요청을 처리할 수 없습니다.")
+    return error_page(request, msg, exc.status_code)
+
+
+@app.exception_handler(RequestValidationError)
+async def validation_exception_handler(request: Request, exc: RequestValidationError):
+    """경로/쿼리 파라미터 형식 오류(예: /pokemon/abc)를 HTML 에러 페이지로 표시."""
+    return error_page(request, "잘못된 요청 값입니다. 주소나 검색 조건을 확인해주세요.", 400)
+
+
+@app.exception_handler(Exception)
+async def unhandled_exception_handler(request: Request, exc: Exception):
+    """예기치 못한 서버 오류를 HTML 에러 페이지로 표시."""
+    return error_page(request, "서버 처리 중 오류가 발생했습니다. 잠시 후 다시 시도해주세요.", 500)
 
 
 @app.get("/", response_class=HTMLResponse)
 def index(request: Request):
-    return render("index.html", request, counts=Q.counts())
+    counts = Q.counts()
+    counts_map = {c["테이블"]: c["행수"] for c in counts}
+    return render("index.html", request, counts=counts, counts_map=counts_map)
 
 
 @app.get("/pokemon", response_class=HTMLResponse)

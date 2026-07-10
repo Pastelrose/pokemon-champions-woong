@@ -5,17 +5,21 @@
 <p><a href="/abilities">← 특성 목록</a></p>
 <h1>{{ a['특성명'] }}</h1>
 <p class="eff-txt">{{ a['효과'] }}</p>
+{% if a['상세URL'] %}<p><a href="{{ a['상세URL'] }}" target="_blank" rel="noopener">원본 페이지 보기</a></p>{% endif %}
 
 <h2>이 특성을 가진 포켓몬 ({{ pokemon|length }})</h2>
 <table class="grid">
-  <thead><tr><th></th><th>이름</th><th>타입</th></tr></thead>
+  <thead><tr><th></th><th>이름</th><th>타입</th><th class="num">종족값합계</th></tr></thead>
   <tbody>
     {% for p in pokemon %}
     <tr>
       <td class="img-cell">{{ pimg(p['이미지URL'], p['이름']) }}</td>
       <td><a href="/pokemon/{{ p['ID'] }}">{{ p['이름'] }}</a></td>
       <td>{{ tpair(p['타입1'], p['타입2']) }}</td>
+      <td class="num">{{ p['종족값합계'] }}</td>
     </tr>
+    {% else %}
+    <tr><td colspan="4" class="empty">이 특성을 가진 포켓몬이 없습니다.</td></tr>
     {% endfor %}
   </tbody>
 </table>

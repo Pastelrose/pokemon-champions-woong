@@ -17,6 +17,8 @@
       <td class="eff-txt">{{ r['효과'] }}</td>
       <td>{{ r['입수방법'] }}</td>
     </tr>
+    {% else %}
+    <tr><td colspan="4" class="empty">검색 결과가 없습니다.</td></tr>
     {% endfor %}
   </tbody>
 </table>

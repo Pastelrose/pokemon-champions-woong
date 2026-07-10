@@ -13,7 +13,7 @@
 {% macro tpair(t1, t2) %}{{ tbadge(t1) }}{{ tbadge(t2) }}{% endmacro %}
 
 {% macro pimg(url, alt, big=false) %}
-{%- if url -%}<img class="sprite{{ ' sprite-lg' if big }}" src="{{ url }}" alt="{{ alt }}" loading="lazy">
+{%- if url -%}<img class="sprite{{ ' sprite-lg' if big }}" src="{{ url }}" alt="{{ alt }}" loading="lazy" onerror="this.classList.add('sprite-none');this.removeAttribute('src')">
 {%- else -%}<span class="sprite sprite-none{{ ' sprite-lg' if big }}"></span>{%- endif -%}
 {% endmacro %}
 

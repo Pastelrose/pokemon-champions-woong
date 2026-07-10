@@ -60,6 +60,8 @@
       <td class="num">{{ r['위력']|dash }}</td><td class="num">{{ r['명중']|dash }}</td><td class="num">{{ r['PP']|dash }}</td>
       <td>{{ r['대상'] }}</td><td class="eff-txt">{{ r['효과'] }}</td>
     </tr>
+    {% else %}
+    <tr><td colspan="8" class="empty">검색 결과가 없습니다. 조건을 바꿔 다시 검색해보세요.</td></tr>
     {% endfor %}
   </tbody>
 </table>

@@ -5,16 +5,22 @@
 <p><a href="/pokemon">← 포켓몬 목록</a></p>
 <h1 class="name-cell">{{ pimg(p['이미지URL'], p['이름'], big=true) }}<span>{{ p['이름'] }} <small class="jp">{{ p['일본어이름'] }} · {{ p['영어이름'] }}</small></span></h1>
 <p>{{ tpair(p['타입1'], p['타입2']) }}
-   &nbsp; 도감 No.{{ p['도감번호'] }} &nbsp; 싱글 #{{ p['싱글순위'] }} · 더블 #{{ p['더블순위'] }}
-   &nbsp; <a href="{{ p['상세URL'] }}" target="_blank">원본</a></p>
+   &nbsp; 도감 No.{{ p['도감번호'] }}
+   &nbsp; 싱글 {{ '#' ~ p['싱글순위'] if p['싱글순위'] is not none else '순위없음' }} · 더블 {{ '#' ~ p['더블순위'] if p['더블순위'] is not none else '순위없음' }}
+   {% if p['상세URL'] %}&nbsp; <a href="{{ p['상세URL'] }}" target="_blank" rel="noopener">원본</a>{% endif %}</p>
 
 <h2>종족값 (합계 {{ p['종족값합계'] }})</h2>
-<table class="grid small stats">
-  <thead><tr><th>HP</th><th>공격</th><th>방어</th><th>특공</th><th>특방</th><th>스피드</th></tr></thead>
-  <tbody><tr>
-    <td>{{ p['HP'] }}</td><td>{{ p['공격'] }}</td><td>{{ p['방어'] }}</td>
-    <td>{{ p['특공'] }}</td><td>{{ p['특방'] }}</td><td>{{ p['스피드'] }}</td>
-  </tr></tbody>
+<table class="grid small statbars">
+  <tbody>
+    {% for lab, key in [('HP','HP'),('공격','공격'),('방어','방어'),('특공','특공'),('특방','특방'),('스피드','스피드')] %}
+    {% set v = p[key] or 0 %}
+    <tr>
+      <th>{{ lab }}</th>
+      <td class="num statv">{{ v }}</td>
+      <td class="barcell"><div class="bar {{ 'b-hi' if v >= 120 else ('b-mid' if v >= 80 else 'b-low') }}" style="width: {{ [v / 180 * 100, 100]|min|round(1) }}%"></div></td>
+    </tr>
+    {% endfor %}
+  </tbody>
 </table>
 
 <h2>특성</h2>
@@ -50,6 +56,8 @@
       <td>{{ m['대상'] }}</td>
       <td class="eff-txt">{{ m['효과'] }}</td>
     </tr>
+    {% else %}
+    <tr><td colspan="8" class="empty">배우는 기술 정보가 없습니다.</td></tr>
     {% endfor %}
   </tbody>
 </table>

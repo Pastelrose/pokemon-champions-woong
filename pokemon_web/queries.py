@@ -209,7 +209,7 @@ def ability_detail(aid):
 
 def ability_pokemon(aid):
     return query("""
-        SELECT p.ID, p.이름, p.이미지URL, p.타입1, p.타입2
+        SELECT p.ID, p.이름, p.이미지URL, p.타입1, p.타입2, p.종족값합계
         FROM pokemon_abilities pa JOIN pokemon p ON pa.pokemon_id = p.ID
         WHERE pa.ability_id = ? ORDER BY p.이름
     """, [aid])

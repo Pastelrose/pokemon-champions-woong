@@ -8,10 +8,11 @@
   <thead><tr><th>분류</th><th>위력</th><th>명중</th><th>PP</th><th>성질</th><th>대상</th></tr></thead>
   <tbody><tr>
     <td>{{ m['분류'] }}</td><td>{{ m['위력']|dash }}</td><td>{{ m['명중']|dash }}</td>
-    <td>{{ m['PP']|dash }}</td><td>{{ m['성질'] or '' }}</td><td>{{ m['대상'] }}</td>
+    <td>{{ m['PP']|dash }}</td><td>{{ m['성질']|dash }}</td><td>{{ m['대상'] }}</td>
   </tr></tbody>
 </table>
 <p class="eff-txt">{{ m['효과'] }}</p>
+{% if m['상세URL'] %}<p><a href="{{ m['상세URL'] }}" target="_blank" rel="noopener">원본 페이지 보기</a></p>{% endif %}
 
 <h2>이 기술을 배우는 포켓몬 ({{ learners|length }})</h2>
 <table class="grid">
@@ -24,6 +25,8 @@
       <td>{{ tpair(p['타입1'], p['타입2']) }}</td>
       <td class="num">{{ p['종족값합계'] }}</td>
     </tr>
+    {% else %}
+    <tr><td colspan="4" class="empty">이 기술을 배우는 포켓몬이 없습니다.</td></tr>
     {% endfor %}
   </tbody>
 </table>

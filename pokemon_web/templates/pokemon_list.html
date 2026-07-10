@@ -129,8 +129,10 @@ function addResist(){
       <td class="num">{{ r['HP'] }}</td><td class="num">{{ r['공격'] }}</td><td class="num">{{ r['방어'] }}</td>
       <td class="num">{{ r['특공'] }}</td><td class="num">{{ r['특방'] }}</td><td class="num">{{ r['스피드'] }}</td>
       <td class="num bold">{{ r['종족값합계'] }}</td>
-      <td class="num">{{ r['싱글순위'] }}</td><td class="num">{{ r['더블순위'] }}</td>
+      <td class="num">{{ r['싱글순위']|dash }}</td><td class="num">{{ r['더블순위']|dash }}</td>
     </tr>
+    {% else %}
+    <tr><td colspan="14" class="empty">검색 결과가 없습니다. 조건을 바꿔 다시 검색해보세요.</td></tr>
     {% endfor %}
   </tbody>
 </table>

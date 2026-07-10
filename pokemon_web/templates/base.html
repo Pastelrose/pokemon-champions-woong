@@ -4,17 +4,19 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% block title %}Pokemon Champions 조회{% endblock %}</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23e5554e'/%3E%3Cpath d='M2 16a14 14 0 0 0 28 0z' fill='%23f5f6f8'/%3E%3Crect x='2' y='14.5' width='28' height='3' fill='%232b3a55'/%3E%3Ccircle cx='16' cy='16' r='5' fill='%23fff' stroke='%232b3a55' stroke-width='2'/%3E%3C/svg%3E">
   <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
+  {% set path = request.url.path %}
   <header class="topbar">
     <a class="logo" href="/">Pokemon Champions DB</a>
     <nav>
-      <a href="/pokemon">포켓몬</a>
-      <a href="/moves">기술</a>
-      <a href="/abilities">특성</a>
-      <a href="/items">지닌물건</a>
-      <a href="/types">타입 상성</a>
+      <a href="/pokemon" {% if path.startswith('/pokemon') %}class="active"{% endif %}>포켓몬</a>
+      <a href="/moves" {% if path.startswith('/moves') %}class="active"{% endif %}>기술</a>
+      <a href="/abilities" {% if path.startswith('/abilities') %}class="active"{% endif %}>특성</a>
+      <a href="/items" {% if path.startswith('/items') %}class="active"{% endif %}>지닌물건</a>
+      <a href="/types" {% if path.startswith('/types') %}class="active"{% endif %}>타입 상성</a>
     </nav>
   </header>
   <main class="container">

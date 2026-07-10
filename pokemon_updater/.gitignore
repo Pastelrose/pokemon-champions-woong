@@ -1,0 +1,6 @@
+work/
+backup/
+reports/
+logs/
+venv/
+__pycache__/

@@ -4,8 +4,10 @@
 {% block content %}
 <p><a href="/abilities">← 특성 목록</a></p>
 <h1>{{ a['특성명'] }}</h1>
+<section class="panel">
 <p class="eff-txt">{{ a['효과'] }}</p>
-{% if a['상세URL'] %}<p><a href="{{ a['상세URL'] }}" target="_blank" rel="noopener">원본 페이지 보기</a></p>{% endif %}
+{% if a['상세URL'] %}<p class="src-link"><a href="{{ a['상세URL'] }}" target="_blank" rel="noopener">원본 페이지 보기</a></p>{% endif %}
+</section>
 
 <h2>이 특성을 가진 포켓몬 ({{ pokemon|length }})</h2>
 <table class="grid">

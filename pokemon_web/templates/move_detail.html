@@ -11,8 +11,10 @@
     <td>{{ m['PP']|dash }}</td><td>{{ m['성질']|dash }}</td><td>{{ m['대상'] }}</td>
   </tr></tbody>
 </table>
+<section class="panel">
 <p class="eff-txt">{{ m['효과'] }}</p>
-{% if m['상세URL'] %}<p><a href="{{ m['상세URL'] }}" target="_blank" rel="noopener">원본 페이지 보기</a></p>{% endif %}
+{% if m['상세URL'] %}<p class="src-link"><a href="{{ m['상세URL'] }}" target="_blank" rel="noopener">원본 페이지 보기</a></p>{% endif %}
+</section>
 
 <h2>이 기술을 배우는 포켓몬 ({{ learners|length }})</h2>
 <table class="grid">

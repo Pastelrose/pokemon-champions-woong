@@ -50,8 +50,9 @@
   </div>
 </form>
 
-<table class="grid">
-  <thead><tr><th>기술명</th><th>타입</th><th>분류</th><th class="num">위력</th><th class="num">명중</th><th class="num">PP</th><th>대상</th><th>효과</th></tr></thead>
+<div class="table-scroll">
+<table class="grid learnset">
+  <thead><tr><th>기술명</th><th>타입</th><th>분류</th><th class="num">위력</th><th class="num">명중</th><th class="num">PP</th><th>대상</th><th class="eff-col">효과</th></tr></thead>
   <tbody>
     {% for r in rows %}
     <tr>
@@ -65,4 +66,5 @@
     {% endfor %}
   </tbody>
 </table>
+</div>
 {% endblock %}

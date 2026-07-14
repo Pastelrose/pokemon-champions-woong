@@ -3,11 +3,13 @@
 {% block title %}{{ p['이름'] }}{% endblock %}
 {% block content %}
 <p><a href="/pokemon">← 포켓몬 목록</a></p>
+<section class="panel">
 <h1 class="name-cell">{{ pimg(p['이미지URL'], p['이름'], big=true) }}<span>{{ p['이름'] }} <small class="jp">{{ p['일본어이름'] }} · {{ p['영어이름'] }}</small></span></h1>
 <p>{{ tpair(p['타입1'], p['타입2']) }}
    &nbsp; 도감 No.{{ p['도감번호'] }}
    &nbsp; 싱글 {{ '#' ~ p['싱글순위'] if p['싱글순위'] is not none else '순위없음' }} · 더블 {{ '#' ~ p['더블순위'] if p['더블순위'] is not none else '순위없음' }}
    {% if p['상세URL'] %}&nbsp; <a href="{{ p['상세URL'] }}" target="_blank" rel="noopener">원본</a>{% endif %}</p>
+</section>
 
 <h2>종족값 (합계 {{ p['종족값합계'] }})</h2>
 <table class="grid small statbars">
@@ -24,28 +26,32 @@
 </table>
 
 <h2>특성</h2>
+<section class="panel">
 <ul class="abil-list">
   {% for a in abilities %}
   <li><a href="/abilities/{{ a['ID'] }}"><b>{{ a['특성명'] }}</b></a> — {{ a['효과'] }}</li>
   {% endfor %}
 </ul>
+</section>
 
 <h2>타입 상성</h2>
+<section class="panel">
 <div class="eff">
-  <div><span class="lab weak">약점</span>
-    {% for e in weak %}{{ tbadge(e['공격타입']) }}{{ mult(e['최종배수']) }} {% else %}<span class="none">없음</span>{% endfor %}
+  {% for g in eff_groups %}
+  <div class="eff-row">{{ mult(g['배수']) }}
+    {% for t in g['타입들'] %}{{ tbadge(t) }}{% endfor %}
   </div>
-  <div><span class="lab resist">저항</span>
-    {% for e in resist %}{{ tbadge(e['공격타입']) }}{{ mult(e['최종배수']) }} {% else %}<span class="none">없음</span>{% endfor %}
-  </div>
-  <div><span class="lab immune">무효</span>
-    {% for e in immune %}{{ tbadge(e['공격타입']) }} {% else %}<span class="none">없음</span>{% endfor %}
-  </div>
+  {% else %}
+  <div class="none">상성 변화 없음 (모두 x1)</div>
+  {% endfor %}
 </div>
 
+</section>
+
 <h2>배우는 기술 ({{ learnset|length }})</h2>
-<table class="grid">
-  <thead><tr><th>기술명</th><th>타입</th><th>분류</th><th class="num">위력</th><th class="num">명중</th><th class="num">PP</th><th>대상</th><th>효과</th></tr></thead>
+<div class="table-scroll">
+<table class="grid learnset">
+  <thead><tr><th>기술명</th><th>타입</th><th>분류</th><th class="num">위력</th><th class="num">명중</th><th class="num">PP</th><th>대상</th><th class="eff-col">효과</th></tr></thead>
   <tbody>
     {% for m in learnset %}
     <tr>
@@ -61,4 +67,5 @@
     {% endfor %}
   </tbody>
 </table>
+</div>
 {% endblock %}

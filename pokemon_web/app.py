@@ -133,12 +133,16 @@ def pokemon_detail(request: Request, pid: int):
     if not p:
         return not_found(request, "해당 포켓몬을 찾을 수 없습니다.")
     eff = Q.pokemon_effectiveness(pid)
-    weak = [e for e in eff if e["최종배수"] > 1]
-    resist = [e for e in eff if 0 < e["최종배수"] < 1]
-    immune = [e for e in eff if e["최종배수"] == 0]
+    # 최종배수(x4, x2, x0.5, x0.25, x0) 단계별로 묶는다. eff는 배수 내림차순 정렬 상태.
+    eff_groups = []
+    for e in eff:
+        m = e["최종배수"]
+        if not eff_groups or eff_groups[-1]["배수"] != m:
+            eff_groups.append({"배수": m, "타입들": []})
+        eff_groups[-1]["타입들"].append(e["공격타입"])
     return render("pokemon_detail.html", request, p=p,
                   abilities=Q.pokemon_abilities(pid), learnset=Q.pokemon_learnset(pid),
-                  weak=weak, resist=resist, immune=immune)
+                  eff_groups=eff_groups)
 
 
 @app.get("/moves", response_class=HTMLResponse)
